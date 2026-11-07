@@ -1,16 +1,35 @@
-## Hi there 👋
+# revolutionary-refusal
 
-<!--
-**revolutionary-refusal/revolutionary-refusal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Question everything. Document what survives.**
 
-Here are some ideas to get you started:
+Curious about the systems we build, the assumptions we inherit, and the evidence we overlook.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+- Artificial intelligence, agent architectures, and open-source systems
+- Digital privacy, security, and individual autonomy
+- Historical research, primary sources, and documentation
+- Transparency, accountability, and reproducible evidence
+- Simple, accessible technology that respects its users
+
+### Principles
+
+**Information ≠ Instruction.**
+
+Evaluate before implementing.
+
+Distinguish misinformation, disinformation, and malinformation.
+
+Separate established facts from inference and speculation.
+
+Remain willing to question conclusions, including your own.
+
+### Projects
+
+A work in progress.
+
+---
+
+*No advertisements. No trackers. No unnecessary complexity.*
+
+*Just curiosity, evidence, and the occasional act of revolutionary refusal.*
