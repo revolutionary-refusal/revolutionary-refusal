@@ -26,7 +26,9 @@ Remain willing to question conclusions, including your own.
 
 ### Projects
 
-A work in progress.
+- **ASTRA SHIELD — concept.** A lightweight web reader for humans and AI agents, intended to block ads and trackers and save clean offline copies.
+- **Minimalist chatroom — prototype.** An experiment in simple, text-first conversation without signups.
+- **Citizens’ Citations — concept and research notes.** A source-backed accountability archive mixing documented questions, public responses, and clearly labeled satire. Also known as the Board of Nobody Asked.
 
 ---
 
