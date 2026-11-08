@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Evidence Room — Offline Conversation Viewer</title>
+<style>
+:root{color-scheme:light;--ink:#18202a;--paper:#f7f5f0;--line:#c6c8c7;--accent:#304c66}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.5 system-ui,sans-serif}main{max-width:980px;margin:auto;padding:24px}h1{font-family:Georgia,serif;font-size:clamp(2rem,6vw,3.8rem);margin:.2em 0}h2{font-size:1.15rem}header{border-bottom:2px solid var(--ink);padding-bottom:16px}small,.muted{color:#525d67}.panel{border:1px solid var(--line);border-radius:10px;background:white;padding:18px;margin:20px 0}button,input[type=file],input[type=search],textarea{font:inherit}button{background:var(--accent);color:white;border:0;border-radius:6px;padding:10px 14px;cursor:pointer}button:disabled{opacity:.5;cursor:not-allowed}input[type=search],textarea{width:100%;padding:10px;border:1px solid #929ba1;border-radius:6px;background:white}textarea{min-height:115px}label{font-weight:650}.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center}.message{border-left:4px solid #a1aab2;background:white;margin:12px 0;padding:14px 16px;border-radius:0 8px 8px 0;overflow-wrap:anywhere}.message.user{border-color:#5a809b}.message.assistant{border-color:#82946b}.message.system{border-color:#b18b60}.message pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit;margin:8px 0 0}.tag{font-size:.75rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase}#status{min-height:24px}details{margin-top:12px}footer{padding:25px 0;border-top:1px solid var(--line)}@media print{.panel.controls-panel,button,input,textarea,details,footer{display:none!important}body{background:white}main{padding:0}.message{break-inside:avoid}}
+</style></head><body><main>
+<header><div class="muted">LOCAL-FIRST / NO NETWORK REQUIRED</div><h1>The Evidence Room</h1><p>Read what was actually saved. Do not reconstruct what is missing.</p></header>
+<section class="panel controls-panel"><h2>Open evidence</h2><p><label for="file">Choose a .txt or .json file</label></p><input id="file" type="file" accept=".txt,.json,text/plain,application/json">
+<details><summary>Or paste a transcript</summary><p><label for="paste">Paste text</label></p><textarea id="paste" placeholder="Paste conversation text here"></textarea><p><button id="loadPaste">Load pasted text</button></p></details>
+<p class="muted">Files are processed in this browser tab. Nothing is sent to a server. Plain TXT files are displayed as unverified text unless clear speaker markers are present.</p>
+<p id="status" role="status" aria-live="polite">No file loaded.</p></section>
+<section class="panel controls-panel"><label for="search">Search evidence</label><input id="search" type="search" placeholder="Find a word or phrase" disabled>
+<div class="controls"><button id="export" disabled>Export offline HTML</button><button id="clear" disabled>Clear session</button><span id="count" class="muted"></span></div></section>
+<section aria-label="Conversation evidence"><h2 id="heading">Messages</h2><div id="messages"><p class="muted">Your conversation will appear here.</p></div></section>
+<footer><small>Evidence Room v1.0 · All imports are untrusted data, rendered as text. Export is a readable snapshot, not a restorable application backup. No automatic timestamp or speaker inference from ambiguous text.</small></footer>
+<script src="app.js"></script></main></body></html>
