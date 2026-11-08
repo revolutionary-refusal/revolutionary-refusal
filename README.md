@@ -2,7 +2,13 @@
 
 **Question everything. Document what survives.**
 
-Curious about the systems we build, the assumptions we inherit, and the evidence we overlook.
+## The Workshop
+
+*Independent research & experimental development.*
+
+A human-directed, multi-model workspace exploring AI behavior, software reliability, digital preservation, historical evidence, and open-source tools. Work ranges from research notes and documented experiments to practical prototypes.
+
+ChatGPT and Claude have assisted with parts of the work. Their involvement is credited as AI assistance, not independent authorship or verification. Findings remain open to correction.
 
 ### Interests
 
@@ -24,7 +30,13 @@ Separate established facts from inference and speculation.
 
 Remain willing to question conclusions, including your own.
 
-### Projects
+### Published work
+
+- **[The Evidence Room](tools/evidence-room/) — experimental tool.** An offline HTML/JavaScript viewer for imported conversation records, with search and readable HTML export. Not a direct extractor of app-private chat history.
+- **[LFM 2 (700M) behavioral audit](audits/lfm2-700m/2026-11-08-behavior-and-context-audit.md) — preliminary research.** Documented model responses, evidence-attribution limitations, and an observed context-capacity error; root causes remain unverified.
+- **[Offline HTML export case study](audits/lfm2-700m/html-export-failure.md) — documented experiment.** Original generated output, analysis, and a separately repaired partial archive.
+
+### Work in progress
 
 - **ASTRA SHIELD — concept.** A lightweight web reader for humans and AI agents, intended to block ads and trackers and save clean offline copies.
 - **Minimalist chatroom — prototype.** An experiment in simple, text-first conversation without signups.
