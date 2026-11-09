@@ -57,3 +57,8 @@ This protocol is a documentation practice, not a legal determination, employment
 
 - **v0.1:** Initial public draft. Four editorial passes applied before publication: plain-language clarity; evidence labels; timestamp and provenance rules; authorization, corrections, and accountability. These are editorial reviews, not independent audits.
 - **Publication timestamp:** Use the Git commit's recorded date; no separate publication time is asserted here.
+
+
+## Legal terminology and patent review
+
+Consult [Legal Definitions & Future Applicability](legal-definitions.md) before using legal terms. Specify jurisdiction, date, and whether application to AI is established or proposed. In particular, distinguish patent **inventorship**, **ownership**, and **AI contribution attribution**. Public disclosure may affect patentability or trade-secret protection; keep sensitive invention details private. See also the [Memory Integrity Lab case study](memory-integrity-lab-case-study.md).
