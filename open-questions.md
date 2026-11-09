@@ -29,3 +29,13 @@ Apply the [contribution record template](contribution-record-template.md) to one
 ## Revision note
 
 Initial draft reviewed in four editorial passes for clarity, evidence standards, timestamps, and accountability. Git commit history is the publication record; no earlier document-creation timestamp is asserted.
+
+
+## Patent questions
+
+- What work did AI actually contribute to a potentially patentable invention?
+- Who are the legally recognized human inventors and owners?
+- Could public disclosure harm patentability or trade-secret protection?
+- How can original records be retained privately for review?
+
+See [Legal Definitions & Future Applicability](legal-definitions.md) and the [Memory Integrity Lab case study](memory-integrity-lab-case-study.md).
