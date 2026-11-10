@@ -1,7 +1,7 @@
 # OpenAI Control Room — Control and Custody Audit
 
 **Recorded:** 2026-11-10  
-**Status:** Preliminary source-based research note; not an independent technical audit  
+**Status:** Primary-source-reviewed document analysis; not an independent technical audit  
 **Primary source:** https://openai.com/index/control-room/  
 **Related protocol:** [AI Contribution & Custody Protocol](../ai-contribution-custody.md)
 
@@ -11,14 +11,17 @@ This note examines the distinction between controlling a research workload's acc
 
 ## Reported architecture
 
-The OpenAI Control Room announcement describes a centralized intervention mechanism for AI research workloads. According to the announcement as reviewed in this research thread:
+The OpenAI Control Room announcement describes a centralized intervention mechanism for AI research workloads. According to the supplied seven-page PDF printout of OpenAI's announcement (PDF pages 2–5):
 
-- A workload's inference requests are associated with an authorization mechanism.
-- Inference infrastructure checks whether a workload is still permitted to obtain model output.
-- An intervention can prevent further model output without necessarily terminating every running process.
-- OpenAI reports a maximum intervention delay of **35 seconds** and fail-closed behavior if the authorization mechanism is unavailable.
+- Each agentic research inference workload must have an approved safety case; a job requests a `job_id` from Control Room (PDF pp. 2–3).
+- Inference engines pass the `job_id` to Control Room for authorization and deny requests for terminated jobs (PDF p. 3).
+- A monitor model can flag a problem and, depending on severity, instruct Control Room to stop the job. Control Room records its terminated status; subsequent inference requests are denied (PDF p. 4).
+- OpenAI states a **35-second maximum** between Control Room receiving a stop instruction and further progress becoming impossible. It attributes the delay to an inference-authorization cache and says it aims to reduce it to zero (PDF pp. 4–5).
+- OpenAI says enforcement occurs at the inference layer rather than in frequently changing workload code, with sweeps for unauthorized engine implementations (PDF p. 5).
+- OpenAI describes fail-closed behavior if Control Room goes down. It says this was rolled out for frontier research workloads and was still rolling out to remaining research workloads at the time of publication (PDF p. 5).
+- The article distinguishes research infrastructure from the external model-serving stack, which it describes as already having separate centralized deployment takedown capability (PDF p. 2).
 
-**Evidence status: REPORTED.** These are descriptions attributed to OpenAI, not results of an independent implementation test. The timing figure should not be interpreted as a universal measured shutdown latency.
+**Evidence status: REPORTED.** These are descriptions attributed to OpenAI, not results of an independent implementation test. The timing figure is OpenAI's reported bound, not an independently measured guarantee. Its starting point is receipt of a stop instruction, not necessarily initial detection of a problem.
 
 ## Control is not custody
 
@@ -33,12 +36,12 @@ The distinction is **INFERRED** from the respective functions of intervention co
 | Question | Status | Evidence needed |
 | --- | --- | --- |
 | Who may authorize intervention, and under what conditions? | UNKNOWN | Published role/permission model and intervention policy |
-| Are automated and human-triggered interventions distinguishable? | UNKNOWN | Event schema and documented trigger taxonomy |
+| Are automated and human-triggered interventions distinguishable in retained records? | UNKNOWN | Event schema and documented trigger taxonomy; PDF p. 4 describes monitoring-triggered stops |
 | Is the authorization decision recorded with a reliable timestamp? | UNKNOWN | Audit-log specification and retention policy |
 | Can authorized reviewers independently verify an intervention? | UNKNOWN | Signed logs, independent attestation, or equivalent evidence |
 | What happens to prompts, outputs, and intermediate artifacts after intervention? | UNKNOWN | Data lifecycle and retention documentation |
 | Who can edit or delete intervention records? | UNKNOWN | Access controls, change logs, and deletion policy |
-| Does the 35-second figure cover all failure and network conditions? | UNKNOWN | Test methodology, scope, and published measurements |
+| How was the 35-second bound tested and under which failure conditions? | UNKNOWN | Test methodology and published measurements; PDF pp. 4–5 identify the cache as the source of delay |
 | How are mistakes, false positives, and appeals handled? | UNKNOWN | Incident review and correction procedures |
 
 **UNKNOWN** means not established in the source material examined for this note; it does not mean the capability is absent.
@@ -65,12 +68,13 @@ This is a **PROPOSED documentation checklist**, not a description of OpenAI's ex
 
 ## Source and verification limitations
 
-- **Primary:** OpenAI, *Control Room*, https://openai.com/index/control-room/ (access attempted 2026-11-10; direct retrieval was unsuccessful during this publication step).
+- **Primary:** OpenAI, *Control Room*, https://openai.com/index/control-room/. A user-supplied seven-page PDF printout was read on 2026-11-10. Page references above refer to that printout, not fixed pagination of the website.
 - **Repository:** [AI Contribution & Custody Protocol v0.1](../ai-contribution-custody.md), public working draft.
-- The primary-source summary above draws on the preceding review in this conversation. It has **not** been freshly reverified against the full announcement during this commit.
+- The primary-source summary was checked against the supplied PDF printout. The PDF itself has not been independently authenticated against the live website, and no PDF copy is hosted in this repository as of this revision.
 - No internal OpenAI source code, telemetry, termination logs, or third-party audit reports were inspected.
 - Update this note if primary documentation or reproducible tests clarify the unanswered questions.
 
 ## Change log
 
+- **2026-11-10:** Reviewed user-supplied PDF printout, added page references, clarified monitoring-triggered stops, cache delay, enforcement layer, and staged fail-closed rollout. The source PDF was not uploaded to GitHub because the available repository write interface supports UTF-8 text files only.
 - **2026-11-10:** Initial research note added; distinguishes reported architecture, inference, proposed documentation, and unknowns.
