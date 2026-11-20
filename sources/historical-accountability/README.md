@@ -152,6 +152,8 @@ User-provided three-page PDF print of [DoD/DoW OIG reports index](https://www.do
 
 ## Federal information technology governance — Clinger–Cohen (1996)
 
+- [GovInfo — Public Law 104-106, 110 Stat. 186 (February 10, 1996), complete 519-page enacted statute](https://www.govinfo.gov/content/pkg/PLAW-104publ106/pdf/PLAW-104publ106.pdf) — **primary official source, opened and inspected for act identity and division structure**. National Defense Authorization Act for FY1996: Division D is Federal Acquisition Reform; Division E is Information Technology Management Reform. Use this as the authoritative 1996 enacted text when comparing with [Wikipedia's ITMRA overview](https://en.wikipedia.org/wiki/Information_Technology_Management_Reform_Act_of_1996). Full 519 pages not audited line by line; later amendments and current codification must be checked separately.
+
 - [Information Technology Management Reform Act of 1996 — Wikipedia](https://en.wikipedia.org/wiki/Information_Technology_Management_Reform_Act_of_1996) — secondary overview.
 - [Public Law 104-106, Division E — Treasury-hosted full statute PDF](https://home.treasury.gov/system/files/236/Clinger-Cohen_Act_of_1996.pdf) — primary enacted legislation, February 10, 1996; ITMRA together with Division D Federal Acquisition Reform Act subsequently named the Clinger–Cohen Act.
 - [Department of Defense CIO legislative reference](https://dodcio.defense.gov/Portals/0/Documents/ciodesrefvolone.pdf) — federal CIO responsibilities and legislative history.
