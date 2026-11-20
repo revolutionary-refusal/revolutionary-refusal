@@ -32,3 +32,10 @@ Primary: https://www.gao.gov/products/gao-26-108073 (see intragovernmental activ
 **Next evidentiary requirement:** Transaction-level adjustment schedules and independent Treasury settlement records.
 
 Do not interpret a balanced ledger as proof of complete or accurate underlying records.
+
+
+---
+
+## Four-pass review addendum — 2026-11-20
+Revision note: GAO-26-108073 confirms material intragovernmental and consolidation weaknesses but not a hidden automatic balancing bug or missing cash. Test original journal entries and settlement evidence.
+**Controlling cross-thread revision:** [Four-pass evidence audit](cross-thread-four-pass-revision-2026-11-20.md). Prior content retained for historical auditability; interpret in light of the correction.
