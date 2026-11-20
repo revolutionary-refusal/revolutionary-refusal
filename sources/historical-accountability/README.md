@@ -99,6 +99,8 @@ A minimal, public backup of the research register. **A link is not verification.
 
 ### DoW OIG reports index — captured November 20, 2026
 
+- [DoW OIG — DOWIG-2027-024: V-22 Osprey Blade Inaccuracies in Navy Maintenance Systems (November 16, 2026)](https://www.dodig.mil/reports.html/Article/4653336/management-advisory-v-22-osprey-blade-inaccuracies-in-navy-maintenance-systems/) — individual advisory landing page supplied by user. Previously captured OIG report listing states critical safety parts scrapped by contractor were still recorded as ready for issue in Navy maintenance databases. **Individual report page inaccessible during this update; full advisory and recommendations not inspected.** Cross-reference: [GAO-26-107285 (December 2025)](https://www.gao.gov/products/gao-26-107285), which documents broader V-22 component tracking and safety information-sharing deficiencies, not necessarily the same incident.
+
 User-provided three-page PDF print of [DoD/DoW OIG reports index](https://www.dodig.mil/reports.html/), timestamp printed **2026-11-20 04:38** (timezone unspecified). This is a dated listing, **not the full reports**. Notable entries:
 
 - **DOWIG-2027-027 (Nov 19, 2026):** Management Advisory, Department use of U.S. airspace and adherence to aviation safety protocols. Listing states controlled unclassified information and no redacted version available.
