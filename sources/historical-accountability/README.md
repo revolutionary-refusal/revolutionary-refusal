@@ -68,6 +68,15 @@ A minimal, public backup of the research register. **A link is not verification.
 
 - [ETH Zürich CSS — Sean Cordey, *The Israeli Unit 8200: An OSINT-based Study* (December 2019, 28-page PDF)](https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/Cyber-Reports-2019-12-Unit-8200.pdf) — academic secondary analysis. Sections cover historical origins (Units 515/848), the 1973 intelligence failure, alleged operations, NSA cooperation, selection/training, alumni, and private-sector links. **Status: report directly inspected; underlying OSINT claims require source-by-source checking.** The author explicitly cautions that open-source information may be incomplete or unreliable. Do not treat attributed cyber operations or suspected campaigns as independently proven by this report.
 
+## Population policy and national security — 1974
+
+- [UN — World Population Conference, Bucharest (August 19–30, 1974)](https://www.un.org/en/conferences/population/bucharest1974) — UN historical overview; conference adopted World Population Plan of Action. Emphasized development and voluntary, informed reproductive choice.
+- [National Security Study Memorandum 200 — Wikipedia](https://en.wikipedia.org/wiki/National_Security_Study_Memorandum_200) — secondary overview and bibliography; neutrality disputed; not a substitute for the original memorandum.
+- [U.S. State Department, FRUS Document 118 — December 14, 1974 memorandum to President Ford](https://history.state.gov/historicaldocuments/frus1969-76ve14p1/d118) — primary U.S. government record summarizing NSSM 200 recommendations: UN plan support, priority countries, family-planning assistance, USAID funding and interagency oversight.
+- [UN Population Division — Bucharest conference](https://www.un.org/development/desa/pd/events/world-population-conference-1) — additional UN institutional summary.
+
+**Research distinction:** UN multilateral population plan and U.S. national-security analysis overlap in time and subject but have different authors, purposes, and authorities. The December 1974 memo documents U.S. support for the UN plan, not U.S. control of the conference. Track subsequent implementation and budgets separately.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
