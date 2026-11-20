@@ -39,6 +39,11 @@ A minimal, public backup of the research register. **A link is not verification.
 
 - [FBI / U.S. Attorney, *Fourteen Arrested for Market Manipulation Schemes* (February 14, 2013)](https://archives.fbi.gov/archives/losangeles/press-releases/2013/fourteen-arrested-for-market-manipulation-schemes-that-caused-thousands-of-investors-to-lose-more-than-30-million) — official archived announcement of two indictments, 15 charged defendants, 14 arrests, alleged losses exceeding $30 million affecting over 20,000 investors. Describes offshore and nominee accounts, misleading promotion, cross-trading, and joint FBI/IRS-CI investigation. **Status: contemporary prosecution allegations, not proof of conviction; later dispositions not checked.** Cross-reference: financial accountability, information manipulation, offshore flows.
 
+## Federal criminal procedure — interpreting case records
+
+- [DOJ Justice 101: Charging](https://www.justice.gov/usao/justice-101/charging) — official explanation of federal grand-jury indictments, formal charges, and venue. An indictment is a charge, not a conviction. Use this to interpret the 2013 FBI/IRS market-manipulation announcement.
+- **Follow-up:** Locate the indictments, docket numbers, defendant-by-defendant dispositions, and any documented restitution or forfeiture. Do not treat alleged losses as adjudicated recovery amounts.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
