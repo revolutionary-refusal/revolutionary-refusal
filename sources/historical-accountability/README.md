@@ -150,6 +150,16 @@ User-provided three-page PDF print of [DoD/DoW OIG reports index](https://www.do
 - **Primary-source leads:** DoD GIG Overarching Policy (September 19, 2002); DoDD 8000.01 (February 10, 2009); Joint GIG NetOps CONOPS v3 (August 4, 2006); Cebrowski and Garstka, *Network-Centric Warfare: Its Origin and Future* (January 1998). Locate stable original or archived copies before citing details.
 - **Historical connection:** Goldwater–Nichols command reforms (1986), network-centric warfare doctrine (1998), GIG implementation framework (1999–2002), later DODIN. The 2008 military-network malware incident is a separate event to investigate using primary incident records. This timeline is not proof of operational coordination or foreknowledge of subsequent incidents.
 
+## Federal information technology governance — Clinger–Cohen (1996)
+
+- [Information Technology Management Reform Act of 1996 — Wikipedia](https://en.wikipedia.org/wiki/Information_Technology_Management_Reform_Act_of_1996) — secondary overview.
+- [Public Law 104-106, Division E — Treasury-hosted full statute PDF](https://home.treasury.gov/system/files/236/Clinger-Cohen_Act_of_1996.pdf) — primary enacted legislation, February 10, 1996; ITMRA together with Division D Federal Acquisition Reform Act subsequently named the Clinger–Cohen Act.
+- [Department of Defense CIO legislative reference](https://dodcio.defense.gov/Portals/0/Documents/ciodesrefvolone.pdf) — federal CIO responsibilities and legislative history.
+- [Congressional Research Service, *Access to Agency Data and Information*](https://www.congress.gov/crs_external_products/R/PDF/R48423/R48423.3.pdf) — later analysis of federal IT governance and statutory changes.
+- [Public Law 104-208 — statutory renaming](https://www.reginfo.gov/public/do/DownloadDocument?objectID=112375701) — September 30, 1996 amendment naming both Divisions D and E the Clinger–Cohen Act.
+
+**Key provisions:** agency CIO accountability, capital planning and investment controls, OMB oversight, evaluation of technology procurement and performance, and assessment of government versus contractor performance of certain functions. **Research connection:** Goldwater–Nichols (1986) command organization; Clinger–Cohen (1996) federal IT management; Global Information Grid (1999 onward) military networking. These are distinct legal/policy developments, not proof of coordinated misconduct. Track current codification and later amendments separately from 1996 enacted text.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
