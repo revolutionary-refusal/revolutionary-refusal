@@ -44,6 +44,8 @@ A minimal, public backup of the research register. **A link is not verification.
 - [DOJ Justice 101: Charging](https://www.justice.gov/usao/justice-101/charging) — official explanation of federal grand-jury indictments, formal charges, and venue. An indictment is a charge, not a conviction. Use this to interpret the 2013 FBI/IRS market-manipulation announcement.
 - **Follow-up:** Locate the indictments, docket numbers, defendant-by-defendant dispositions, and any documented restitution or forfeiture. Do not treat alleged losses as adjudicated recovery amounts.
 
+- [DOJ Find Your United States Attorney](https://www.justice.gov/usao/find-your-united-states-attorney) — official directory of federal prosecutorial districts, office contacts, and news. Use to locate the relevant U.S. Attorney's Office for a case; this directory does not establish indictment or disposition details.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
