@@ -64,6 +64,10 @@ A minimal, public backup of the research register. **A link is not verification.
 
 **Evidence status:** Contemporary reporting and attributed CIA spokesperson statement. Offering a buyout does not establish acceptance, resignation, termination, or actual workforce reductions. **Follow-up:** original agency announcements, offer terms, acceptance and separation figures, hiring freezes, oversight hearings, and subsequent operational impacts. Do not infer causal links to 2026 outages without evidence.
 
+## Israeli signals intelligence and technology industry
+
+- [ETH Zürich CSS — Sean Cordey, *The Israeli Unit 8200: An OSINT-based Study* (December 2019, 28-page PDF)](https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/Cyber-Reports-2019-12-Unit-8200.pdf) — academic secondary analysis. Sections cover historical origins (Units 515/848), the 1973 intelligence failure, alleged operations, NSA cooperation, selection/training, alumni, and private-sector links. **Status: report directly inspected; underlying OSINT claims require source-by-source checking.** The author explicitly cautions that open-source information may be incomplete or unreliable. Do not treat attributed cyber operations or suspected campaigns as independently proven by this report.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
