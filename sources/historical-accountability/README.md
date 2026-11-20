@@ -24,7 +24,16 @@ A minimal, public backup of the research register. **A link is not verification.
 ## Military and media
 
 - [David L. Robb, *Operation Hollywood*](https://archive.org/details/operationhollywo00robb) — secondary source about military-film cooperation.
-- **FBI Operation Winter SHIELD poster** — screenshot discussed; original publication not yet authenticated.
+
+## Operation Winter SHIELD (2026) — official source trail
+
+- [FBI ten-action PDF (direct)](https://www.fbi.gov/file-repository/operation-winter-shield-slick.pdf) — official FBI-hosted document; PDF contents not yet independently transcribed.
+- [FBI ten-action PDF landing page](https://www.fbi.gov/file-repository/operation-winter-shield-slick.pdf/view) — official page titled *Operation Winter SHIELD: Ten Actions to Improve Cyber Resilience*; identifies a 292 KB PDF.
+- [FBI Seattle introduction video and transcript](https://www.fbi.gov/video-repository/fbi-seattle-winter-shield-intro.mp4/view) — official video page; Mike Herrington describes launching the initiative and ten cybersecurity actions, including anti-phishing and third-party risk.
+- [FBI ten key cyber defenses infographic](https://www.fbi.gov/image-repository/winter-shield-ten-key-cyber-defenses/view) — official image landing page.
+- [Fox News interview with FBI Director Kash Patel, November 20, 2026](https://www.foxnews.com/video/6408630982112) — secondary news video; site description connects initiative with recent technology outages. Full interview not independently transcribed.
+
+**Finding (2026-11-20):** The FBI's official pages authenticate the program name and published materials. They do **not** establish that the program was caused by a specific classified-network outage or that the outages were cyberattacks. Keep those as separate questions.
 
 ## Open leads
 
