@@ -91,6 +91,10 @@ A minimal, public backup of the research register. **A link is not verification.
 
 - [United Nations site index](https://www.un.org/en/site-index) — official UN navigation/index entry point for locating institutional pages and document collections; direct access returned HTTP 403 on 2026-11-20, so its contents were not inspected. **Navigation resource, not substantive evidence.**
 
+## Military oversight and accountability
+
+- [Department of Defense Inspector General — Reports](https://www.dodig.mil/reports.html/) — official report index for oversight research; direct fetch returned HTTP 403 on 2026-11-20, so current listings were not inspected. **Navigation source, not a verified finding.** Track report number, publication date, audit scope, recommendations, management response, and closure evidence for each report.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
