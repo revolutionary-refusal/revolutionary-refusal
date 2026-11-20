@@ -93,6 +93,8 @@ A minimal, public backup of the research register. **A link is not verification.
 
 ## Military oversight and accountability
 
+- [Oversight.gov](https://www.oversight.gov/) — U.S. government-wide Inspector General oversight portal and report discovery hub. Use to locate original agency IG reports and follow recommendations, corrective actions, and recurring deficiencies. **Navigation/index source; individual findings require report-level verification.**
+
 - [Department of Defense Inspector General — Reports](https://www.dodig.mil/reports.html/) — official report index for oversight research; direct fetch returned HTTP 403 on 2026-11-20, so current listings were not inspected. **Navigation source, not a verified finding.** Track report number, publication date, audit scope, recommendations, management response, and closure evidence for each report.
 
 ## Open leads
