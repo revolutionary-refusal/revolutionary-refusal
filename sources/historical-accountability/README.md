@@ -120,6 +120,16 @@ User-provided three-page PDF print of [DoD/DoW OIG reports index](https://www.do
 
 - [DOI OIG — *Investigation of Altered Documents Provided to ONRR Auditors* (report November 12, 2014; public summary October 13, 2015)](https://www.oversight.gov/sites/default/files/documents/reports/2018-01/InvestigativeSummary_ONRRAlteredDocuments.pdf) — one-page official investigative summary; user supplied PDF. Allegation: Albuquerque trucking company concealed mineral-sale prices on invoices submitted to Office of Natural Resources Revenue auditors for minerals extracted from tribal lands. Investigators interviewed ONRR, reviewed leases, and concluded the concealed information was not required for the audit and its concealment did not affect the audit; OIG found no harm to federal government or lessee. **Distinguish alleged document alteration from demonstrated material audit interference.** Full internal report not available in supplied summary. URL's 2018-01 folder is not the report date.
 
+### DOWIG-2027-024 — findings verified from full report (November 16, 2026)
+
+- [Official 12-page report PDF](https://media.defense.gov/2026/Nov/19/2004030901/-1/-1/1/DOWIG-2027-024_FINAL_20261116_508%20SECURE.PDF) — user supplied original document; inspected 2026-11-20.
+- **Finding:** 179 of 359 scrapped V-22 blades (49.9%) were still marked Ready for Issue in maintenance systems: 117 ACTS only, 37 NALCOMIS OOMA only, 25 both (printed p. 1).
+- **Method:** Serial-number comparison against contractor scrap disposition records, ACTS as of May 2026 and OOMA as of June 2026; 20 blades in a nonstatistical sample of property loss cases plus 339 outside sample (printed p. 3).
+- **Agency explanation:** ACTS introduced December 2025; officials said historical card migration/data-entry errors likely caused discrepancies; reported correcting ACTS statuses for scrapped blades (printed p. 2).
+- **Management response:** V-22 JPO agreed with the recommendation to validate all parts records but disputed the interpretation of RFI status because Navy Enterprise Resource Planning is the authoritative inventory/supply system (printed pp. 4–5).
+- **Status:** IG recommendation **open** pending evidence and verification of corrections; estimated completion date requested within 30 days (printed p. 4). No evidence in report that scrapped blades were installed or issued to aircraft. Potential broader inaccuracies involving other scrapped parts remain to be assessed.
+- **Access:** Report says no classified or CUI information (printed p. 6). Keep original PDF URL and report number for durable retrieval.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
