@@ -139,6 +139,10 @@ User-provided three-page PDF print of [DoD/DoW OIG reports index](https://www.do
 
 **Finding:** Navy personnel documented restitution for 1,597 defective parts worth $6.2 million; no evidence of restitution was supplied for 49 parts valued at $2.6 million. The audit cited insufficient guidance and controls for contractor restitution. **Questioned costs are not adjudicated losses.** Three recommendations remain listed as open, including restitution review, documentation/training requirements, and tracking controls. **Cross-reference DOWIG-2027-024** (November 2026 V-22 scrapped-blade maintenance-record inaccuracies): related data and contractor accountability concerns, but different audit scopes; no proven identical parts or causal relationship.
 
+## Military command structure — Goldwater–Nichols (1986)
+
+- [Public Law 99-433 — Goldwater–Nichols Department of Defense Reorganization Act of 1986, 100 Stat. 992 (October 1, 1986)](https://www.govinfo.gov/content/pkg/STATUTE-100/pdf/STATUTE-100-Pg992.pdf) — official Statutes at Large source; establishes major reforms to joint military organization, combatant command, and responsibilities of defense leadership. [GovInfo volume context](https://www.govinfo.gov/app/details/STATUTE-100/context). **Verification:** official law identity and source confirmed through indexed government text; full PDF was too large to fetch in this session. This is historical enacted text, not necessarily the law as currently amended. Research connection: Reagan-era institutional framework and later combatant-command accountability; does not establish specific operational misconduct.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
