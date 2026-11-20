@@ -46,6 +46,15 @@ A minimal, public backup of the research register. **A link is not verification.
 
 - [DOJ Find Your United States Attorney](https://www.justice.gov/usao/find-your-united-states-attorney) — official directory of federal prosecutorial districts, office contacts, and news. Use to locate the relevant U.S. Attorney's Office for a case; this directory does not establish indictment or disposition details.
 
+## DOJ legal policies and source reliability
+
+- [DOJ Legal Policies and Disclaimers](https://www.justice.gov/legalpolicies) — official policy page; updated July 9, 2026.
+- [Disclaimer of Liability and Endorsement](https://www.justice.gov/legalpolicies#disclaimer) — DOJ disclaims guarantees about site accuracy, completeness and adequacy; this does not itself negate statutory obligations.
+- [Information Quality Guidelines](https://www.justice.gov/legalpolicies#iq) — DOJ describes objectivity, utility, integrity, and a correction-request process; follow the linked Information Quality page for actual procedure.
+- [Other legal-policy sections](https://www.justice.gov/legalpolicies#other) — fragment supplied for preservation; page also addresses external links, public-domain status, citations, seals, and third-party materials. Fragment target may not correspond to a distinct heading.
+
+**Audit note:** These are four entry URLs for one DOJ page, not four independent sources. Government publication authenticates the agency's statement, not necessarily every claim within it. Avoid reproducing protected seals and third-party content without checking restrictions.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
