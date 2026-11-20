@@ -55,6 +55,15 @@ A minimal, public backup of the research register. **A link is not verification.
 
 **Audit note:** These are four entry URLs for one DOJ page, not four independent sources. Government publication authenticates the agency's statement, not necessarily every claim within it. Avoid reproducing protected seals and third-party content without checking restrictions.
 
+## Intelligence workforce restructuring — February 2025
+
+- [Reuters — CIA offers buyouts to entire workforce (February 5, 2025)](https://www.reuters.com/world/us/cia-offers-buyouts-entire-workforce-align-with-trump-priorities-wsj-reports-2025-02-05/) — reports February 4 offers and quotes CIA spokesperson linking changes to Director John Ratcliffe's priorities.
+- [Reuters — offers expand to four additional spy agencies (February 5, 2025)](https://www.reuters.com/world/us/trump-administration-expands-buyout-offers-more-spy-agencies-officials-say-2025-02-05/) — names ODNI, NSA, NGA and NRO; terms and participation numbers not established.
+- [Associated Press — CIA buyout reporting](https://apnews.com/article/cia-trump-buyouts-ratcliffe-musk-intelligence-agencies-514aaa655c9058bb2ddc171c144698a2) — independent contemporary news coverage.
+- [Times of Israel / AFP — CIA entire staff offered buyouts](https://www.timesofisrael.com/liveblog_entry/cias-entire-staff-offered-buyouts-wall-street-journal-reports/) — AFP summary citing Wall Street Journal; derivative reporting, not independent primary confirmation.
+
+**Evidence status:** Contemporary reporting and attributed CIA spokesperson statement. Offering a buyout does not establish acceptance, resignation, termination, or actual workforce reductions. **Follow-up:** original agency announcements, offer terms, acceptance and separation figures, hiring freezes, oversight hearings, and subsequent operational impacts. Do not infer causal links to 2026 outages without evidence.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
