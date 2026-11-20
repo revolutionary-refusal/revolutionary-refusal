@@ -87,6 +87,10 @@ A minimal, public backup of the research register. **A link is not verification.
 
 **Research connection:** Compare 1954 scientific demographic research, 1965 planning and USAID programs, May 1974 ECOSOC preparations, August 1974 World Population Plan of Action, and the separate U.S. NSSM 200 process. Parallel chronology and policy overlap do not establish command or coordination. Track authorship, funding, delegates, implementation and actual outcomes independently.
 
+## UN research navigation
+
+- [United Nations site index](https://www.un.org/en/site-index) — official UN navigation/index entry point for locating institutional pages and document collections; direct access returned HTTP 403 on 2026-11-20, so its contents were not inspected. **Navigation resource, not substantive evidence.**
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
