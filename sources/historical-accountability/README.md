@@ -97,6 +97,23 @@ A minimal, public backup of the research register. **A link is not verification.
 
 - [Department of Defense Inspector General — Reports](https://www.dodig.mil/reports.html/) — official report index for oversight research; direct fetch returned HTTP 403 on 2026-11-20, so current listings were not inspected. **Navigation source, not a verified finding.** Track report number, publication date, audit scope, recommendations, management response, and closure evidence for each report.
 
+### DoW OIG reports index — captured November 20, 2026
+
+User-provided three-page PDF print of [DoD/DoW OIG reports index](https://www.dodig.mil/reports.html/), timestamp printed **2026-11-20 04:38** (timezone unspecified). This is a dated listing, **not the full reports**. Notable entries:
+
+- **DOWIG-2027-027 (Nov 19, 2026):** Management Advisory, Department use of U.S. airspace and adherence to aviation safety protocols. Listing states controlled unclassified information and no redacted version available.
+- **DOWIG-2027-011 (Nov 19):** Investigation of former Office of Net Assessment director James H. Baker; listing says five complaints received July 2023–July 2024.
+- **FY2027 Top Management and Performance Challenges (Nov 17):** annual OIG statement.
+- **DOWIG-2027-015 (Nov 16):** Army use of unusual and compelling urgency contracting authority.
+- **DOWIG-2027-024 (Nov 16):** V-22 Osprey blade maintenance system inaccuracies; scrapped safety parts reportedly listed as ready for issue.
+- **DOWIG-2027-025 (Nov 16):** Defense Counterintelligence and Security Agency sole-source transformation support contract concerns.
+- **DOWIG-2027-032 (Nov 16):** Independent auditor reports accompanying FY2026 and FY2025 agency-wide financial statements.
+- **DOWIG-2027-023 (Nov 13):** KC-46 Pegasus initial spares pricing.
+- **DOWIG-2027-014 (Nov 12):** Mold and moisture in privatized military housing.
+- **DOWIG-2027-022 (Nov 12):** Management of Counter-ISIS Train and Equip Fund resources for Syrian detention facilities and displaced-person camps.
+
+**Next steps:** Retrieve report PDFs and recommendation details where public; record document release dates, findings, management responses and closure status. Do not infer the findings of restricted report DOWIG-2027-027 from its title.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
