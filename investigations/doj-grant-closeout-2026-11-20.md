@@ -39,3 +39,10 @@ Source: https://oig.justice.gov/reports/audit-utilization-office-violence-agains
 - [ ] Document any discrepancy without treating it as evidence of criminal conduct absent support.
 
 **Method:** Preserve source URL, publication/access date, quoted accounting definition, reporting period, document revision, and evidence confidence for every entry. Do not equate a 'resolved' recommendation with a closed recommendation or a completed recovery.
+
+
+---
+
+## Four-pass review addendum — 2026-11-20
+Revision note: GAO-23-105700's DOJ recommendation is **Closed–Implemented** following FY2023 reporting. Do not infer that reported funding minus identified spending categories equals missing funds; reconcile award, draw, expenditure and period first.
+**Controlling cross-thread revision:** [Four-pass evidence audit](cross-thread-four-pass-revision-2026-11-20.md). Prior content retained for historical auditability; interpret in light of the correction.
