@@ -143,6 +143,13 @@ User-provided three-page PDF print of [DoD/DoW OIG reports index](https://www.do
 
 - [Public Law 99-433 — Goldwater–Nichols Department of Defense Reorganization Act of 1986, 100 Stat. 992 (October 1, 1986)](https://www.govinfo.gov/content/pkg/STATUTE-100/pdf/STATUTE-100-Pg992.pdf) — official Statutes at Large source; establishes major reforms to joint military organization, combatant command, and responsibilities of defense leadership. [GovInfo volume context](https://www.govinfo.gov/app/details/STATUTE-100/context). **Verification:** official law identity and source confirmed through indexed government text; full PDF was too large to fetch in this session. This is historical enacted text, not necessarily the law as currently amended. Research connection: Reagan-era institutional framework and later combatant-command accountability; does not establish specific operational misconduct.
 
+## Military information infrastructure — Global Information Grid
+
+- [Global Information Grid — Wikipedia](https://en.wikipedia.org/wiki/Global_Information_Grid) — secondary overview of the GIG, later referred to as the Department of Defense Information Network (DODIN). Reports specifications dated September 22, 1999, and overarching policy dated September 19, 2002; verify exact historical wording in primary documents.
+- [NIST glossary — Global Information Grid](https://csrc.nist.gov/glossary/term/global_information_grid) — technical definition and terminology.
+- **Primary-source leads:** DoD GIG Overarching Policy (September 19, 2002); DoDD 8000.01 (February 10, 2009); Joint GIG NetOps CONOPS v3 (August 4, 2006); Cebrowski and Garstka, *Network-Centric Warfare: Its Origin and Future* (January 1998). Locate stable original or archived copies before citing details.
+- **Historical connection:** Goldwater–Nichols command reforms (1986), network-centric warfare doctrine (1998), GIG implementation framework (1999–2002), later DODIN. The 2008 military-network malware incident is a separate event to investigate using primary incident records. This timeline is not proof of operational coordination or foreknowledge of subsequent incidents.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
