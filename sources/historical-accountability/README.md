@@ -162,6 +162,15 @@ User-provided three-page PDF print of [DoD/DoW OIG reports index](https://www.do
 
 **Key provisions:** agency CIO accountability, capital planning and investment controls, OMB oversight, evaluation of technology procurement and performance, and assessment of government versus contractor performance of certain functions. **Research connection:** Goldwater–Nichols (1986) command organization; Clinger–Cohen (1996) federal IT management; Global Information Grid (1999 onward) military networking. These are distinct legal/policy developments, not proof of coordinated misconduct. Track current codification and later amendments separately from 1996 enacted text.
 
+## White-collar crime — federal statistics, investigations and prosecutions
+
+- [Bureau of Justice Statistics — *White Collar Crime* (NCJ 106876, September 1987)](https://bjs.ojp.gov/library/publications/white-collar-crime) — historical federal prosecution statistics using 1985 data: 10,733 convictions (18% more than 1980); roughly 40% of those convicted incarcerated. BJS reports 55% case-filing rate among white-collar suspects. **Historical population and definitions; do not treat as contemporary statistics.** Follow the page's full-report download for methodology.
+- [DOJ White Collar and Corporate Enforcement Section — Year in Review](https://www.justice.gov/criminal/criminal-white-collar/white-collar-section-year-review) — DOJ index to annual reports 2015–2025, including prosecutions, corporate resolutions, policy changes and statistics. **Self-reported enforcement activity; compare with court dockets and independent data.**
+- [FBI — Complex Financial Crime](https://www.fbi.gov/investigate/complex-financial-crime) — investigative remit including corporate/accounting fraud, securities and commodities fraud, money laundering, financial-institution fraud, mortgage and healthcare fraud, cyber-enabled fraud; lists SEC, IRS, CFTC, FinCEN, FINRA, USPIS and DOJ as partners.
+- [DOJ — White Collar and Corporate Enforcement Section](https://www.justice.gov/criminal/criminal-white-collar) — official mission, prosecuting units, policy work, corporate enforcement and compliance resources; formerly the Fraud Section.
+
+**Cross-reference:** 2013 FBI market-manipulation case and broader financial-accountability audit. **Evidence rules:** separate investigations, allegations, charges, convictions, corporate settlements, ordered restitution, and actual collections; annual reports may change coverage and counting methods. Track case identifiers, agency, conduct dates, disposition and source links.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
