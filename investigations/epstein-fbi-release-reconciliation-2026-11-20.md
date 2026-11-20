@@ -29,3 +29,10 @@ Created: 2026-11-20. **Status: preliminary; not a finding of intentional conceal
 2026-11-20: FBI Vault index independently opened and confirmed to contain 22 linked parts. DOJ inventory PDF URL could not be read through web viewer due to file size; earlier specific inventory claims remain unverified in this pass.
 
 Sources: https://vault.fbi.gov/jeffrey-epstein ; https://www.justice.gov/oip/media/1470366/dl?inline=
+
+
+---
+
+## Four-pass review addendum — 2026-11-20
+Revision note: FBI Vault index of 22 parts independently rechecked. Original DOJ inventory memorandum was too large to fully reopen here; serial-level assertions remain pending original-page verification. Uploaded PDFs' hashes and page counts appear in consolidated review.
+**Controlling cross-thread revision:** [Four-pass evidence audit](cross-thread-four-pass-revision-2026-11-20.md). Prior content retained for historical auditability; interpret in light of the correction.
