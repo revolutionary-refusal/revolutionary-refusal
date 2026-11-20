@@ -130,6 +130,15 @@ User-provided three-page PDF print of [DoD/DoW OIG reports index](https://www.do
 - **Status:** IG recommendation **open** pending evidence and verification of corrections; estimated completion date requested within 30 days (printed p. 4). No evidence in report that scrapped blades were installed or issued to aircraft. Potential broader inaccuracies involving other scrapped parts remain to be assessed.
 - **Access:** Report says no classified or CUI information (printed p. 6). Keep original PDF URL and report number for durable retrieval.
 
+### DODIG-2026-070 — Navy defective parts and contractor restitution (March 17, 2026)
+
+- [USNI News reproduction (March 20, 2026)](https://news.usni.org/2026/03/20/inspector-general-audit-of-the-navys-defective-parts-and-contractor-restitution) — secondary hosting of the Inspector General audit.
+- [Original DoD IG audit PDF](https://www.oversight.gov/sites/default/files/documents/reports/2026-03/DODIG-2026-070_SECURE.pdf) — primary document.
+- [Oversight.gov report and recommendations](https://www.oversight.gov/reports/audit/audit-navy-defective-parts-and-contractor-restitution) — lists three open recommendations and $2.6 million in questioned costs.
+- [July 11, 2024 audit announcement](https://media.defense.gov/2024/Jul/22/2003508022/-1/-1/1/D2024-D000AX-0149.000.PDF) — contemporaneous initiation document.
+
+**Finding:** Navy personnel documented restitution for 1,597 defective parts worth $6.2 million; no evidence of restitution was supplied for 49 parts valued at $2.6 million. The audit cited insufficient guidance and controls for contractor restitution. **Questioned costs are not adjudicated losses.** Three recommendations remain listed as open, including restitution review, documentation/training requirements, and tracking controls. **Cross-reference DOWIG-2027-024** (November 2026 V-22 scrapped-blade maintenance-record inaccuracies): related data and contractor accountability concerns, but different audit scopes; no proven identical parts or causal relationship.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
