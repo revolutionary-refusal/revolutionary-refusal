@@ -77,6 +77,16 @@ A minimal, public backup of the research register. **A link is not verification.
 
 **Research distinction:** UN multilateral population plan and U.S. national-security analysis overlap in time and subject but have different authors, purposes, and authorities. The December 1974 memo documents U.S. support for the UN plan, not U.S. control of the conference. Track subsequent implementation and budgets separately.
 
+## UN population conference primary-source chronology — 1954–1974
+
+- [UN — Proceedings, World Population Conference, Rome, August 31–September 10, 1954 (PDF)](https://www.un.org/sites/un2.un.org/files/2020/02/1954_congres_mondial_rome.pdf) — conference proceedings; original URL preserved. [Alternate UN document-hosted PDF](https://documents.un.org/doc/undoc/gen/nl5/502/64/pdf/nl550264.pdf?OpenElement=). Full original URL could not be directly fetched during this update.
+- [UN — Belgrade World Population Conference, 1965, E/CONF.41/4, Volume 3 (PDF)](https://digitallibrary.un.org/record/735538/files/E_CONF-41_4-EN.pdf) — proceedings published 1967; selected papers on projections and population trends. [UN catalog record](https://digitallibrary.un.org/record/735538). Original PDF returned access error; catalog metadata confirmed.
+- [UN ECOSOC Resolution 1835 (LVI), May 14, 1974](https://undocs.org/en/E/RES/1835(LVI)) — conference preparations and participation arrangements. [Accessible UN transcription](https://www.un.org/unispal/document/auto-insert-189434/). Original undocs link not directly retrievable during this update.
+- [UN — Bucharest World Population Conference report, E/CONF.60/19](https://undocs.org/en/E/CONF.60/19) — conference August 19–30, 1974; published 1975; contains World Population Plan of Action. [UN catalog](https://digitallibrary.un.org/record/722922/files/E_CONF.60_19-EN.pdf?ln=en) and [Plan of Action text](https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/E_CONF.60_19_Plan.pdf). Original undocs link not directly retrievable during this update.
+- [UN historical conference overview](https://www.un.org/en/conferences/population) — secondary institutional chronology; notes 1965 meeting overlapped with emerging USAID-funded population programs.
+
+**Research connection:** Compare 1954 scientific demographic research, 1965 planning and USAID programs, May 1974 ECOSOC preparations, August 1974 World Population Plan of Action, and the separate U.S. NSSM 200 process. Parallel chronology and policy overlap do not establish command or coordination. Track authorship, funding, delegates, implementation and actual outcomes independently.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
