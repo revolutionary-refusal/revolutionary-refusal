@@ -114,6 +114,10 @@ User-provided three-page PDF print of [DoD/DoW OIG reports index](https://www.do
 
 **Next steps:** Retrieve report PDFs and recommendation details where public; record document release dates, findings, management responses and closure status. Do not infer the findings of restricted report DOWIG-2027-027 from its title.
 
+## Audit integrity — altered documents submitted to ONRR
+
+- [DOI OIG — *Investigation of Altered Documents Provided to ONRR Auditors* (report November 12, 2014; public summary October 13, 2015)](https://www.oversight.gov/sites/default/files/documents/reports/2018-01/InvestigativeSummary_ONRRAlteredDocuments.pdf) — one-page official investigative summary; user supplied PDF. Allegation: Albuquerque trucking company concealed mineral-sale prices on invoices submitted to Office of Natural Resources Revenue auditors for minerals extracted from tribal lands. Investigators interviewed ONRR, reviewed leases, and concluded the concealed information was not required for the audit and its concealment did not affect the audit; OIG found no harm to federal government or lessee. **Distinguish alleged document alteration from demonstrated material audit interference.** Full internal report not available in supplied summary. URL's 2018-01 folder is not the report date.
+
 ## Open leads
 
 - Verify primary records behind 2026 aviation and intelligence incident claims.
