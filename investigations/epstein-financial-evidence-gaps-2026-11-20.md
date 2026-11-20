@@ -41,3 +41,10 @@ Do not publish victim personal information or unredacted bank account identifier
 - Reported by CBS: 66 missing check images in a released sequence.
 - Not yet independently verified: exact 66 identifiers, current restoration status, or transaction amounts.
 - Not established: destruction, intentional concealment, or fraudulent financial transfers.
+
+
+---
+
+## Four-pass review addendum — 2026-11-20
+Revision note: CBS's 66 check-image gaps concern a prior numbering sequence; no independently verified list of the 66 identifiers or current restoration status yet. Do not equate numbering gaps with destroyed documents.
+**Controlling cross-thread revision:** [Four-pass evidence audit](cross-thread-four-pass-revision-2026-11-20.md). Prior content retained for historical auditability; interpret in light of the correction.
