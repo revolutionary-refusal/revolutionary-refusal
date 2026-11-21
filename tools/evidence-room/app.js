@@ -73,7 +73,7 @@ $("clear").addEventListener("click",()=>{records=[];sourceName="";$("file").valu
 function escapeHtml(s){return safeString(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
 $("export").addEventListener("click",()=>{
   if(!records.length)return;
-  const entries=records.map(m=>'<article><h2>'+escapeHtml(m.role==="unknown"?"UNATTRIBUTED":m.role.toUpperCase())+' #'+(m.index+1)+'</h2><pre>'+escapeHtml(m.text)+'</pre></article>').join("\n");
+  const entries=records.map(m=>'<article><h2>'+escapeHtml(m.role==="unknown"?"UNATTRIBUTED":m.role.toUpperCase())+' #'+(m.index+1)+(m.time?' · '+escapeHtml(m.time):'')+'</h2><pre>'+escapeHtml(m.text)+'</pre></article>').join("\n");
   const documentText='<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Offline Evidence Archive</title><style>body{font:16px/1.5 system-ui,sans-serif;max-width:850px;margin:auto;padding:20px}article{border:1px solid #aaa;padding:16px;margin:12px 0;break-inside:avoid}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}h2{font-size:1rem}</style></head><body><h1>Offline Evidence Archive</h1><p>Source: '+escapeHtml(sourceName)+'. Partial or unknown attribution may remain. No missing messages were reconstructed.</p>'+entries+'</body></html>';
   const url=URL.createObjectURL(new Blob([documentText],{type:"text/html;charset=utf-8"}));
   const a=document.createElement("a");a.href=url;a.download="evidence-room-archive.html";a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
