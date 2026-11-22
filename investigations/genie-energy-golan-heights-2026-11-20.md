@@ -11,7 +11,8 @@ Prior discussion raised the relationship between Genie Energy's oil exploration 
 - Genie formed a **Strategic Advisory Board on August 31, 2010** to advise on strategic, financial, operational and public-policy matters concerning shale-oil ventures.
 - **Richard (Dick) Cheney, Rupert Murdoch and Lord Jacob Rothschild** appear in contemporaneous SEC-filed board/member disclosures. Other listed advisers include Michael Steinhardt, Alan Burnham, Eugene Renna, Allan Sass, Stephen Trauber and Harold Vinegar.
 - A **November 15, 2010 SEC-filed announcement** says Jacob Rothschild and Rupert Murdoch acquired combined equity stakes equivalent to **5.5%** of Genie Oil & Gas for **$11 million**.
-- The 2013 Form 10-K gives a more granular split: an entity affiliated with Jacob Rothschild acquired **5.0% for $10m cash** and Rupert Murdoch acquired **0.5% for a $1m promissory note**, with stated security, interest and maturity terms. **Do not misstate this as $11m cash received.**
+- **November 2010 equity transaction:** The [2013 Form 10-K](https://www.sec.gov/Archives/edgar/data/1528356/000121390014001484/f10k2013_genieenergy.htm) reports that a Jacob Rothschild-affiliated entity acquired **5.0% of Genie Oil & Gas for $10m cash**, while Rupert Murdoch acquired **0.5% for a $1m promissory note**, secured by his shares, bearing **1.58% annual interest** and due **November 15, 2015**. **Do not misstate this as $11m cash received in 2010.**
+- **November 15, 2015 reported repayment:** The [2016 Form 10-K (filed March 16, 2017), Note 11, “Sales of Equity of Subsidiaries”](https://www.sec.gov/Archives/edgar/data/1528356/000121390017002459/f10k2016_genieenergy.htm) reports receipt of approximately **$1.1m in principal and accrued interest at maturity**. **Disclosure question resolved; bank-level verification remains open.** This establishes that Genie reported receipt, not independent verification of the transfer. The cited passage supplies no bank statement, transfer confirmation or actual remitter identification; it does not establish subsequent ownership or disposition of Murdoch's shares or any connection to government policy.
 - The advisory board was **not** the corporate board of directors; do not conflate their authority or ownership.
 
 Primary sources:
@@ -42,7 +43,7 @@ Sources:
 
 ## Further financial and institutional leads
 1. **Capital trail:** IDT → Genie Energy → Genie Oil & Gas → Afek. Identify exact entity interests and changes by year; advisory-board membership is not equity ownership.
-2. **Investment receipts:** Trace the Rothschild-affiliated $10m cash payment and Murdoch's $1m note; inspect note settlement and subsequent share dispositions.
+2. **Investment receipts and subsequent ownership:** Obtain bank statements or transfer confirmations identifying the actual payer, recipient, amount, settlement date and transaction reference for Murdoch's note; reconcile these with Genie's reported receipt. Those records have not been obtained for this register. Independently verify the separate Rothschild-affiliated $10m cash payment as well. Subsequent share ownership/dispositions remain open. Neither the disclosure nor the missing underlying records establishes wrongdoing.
 3. **Exploration spending:** Trace the $41m and $6.5m impairment/write-offs to original expenditure, drilling contractors, vendors, and cash outlays. **Write-off ≠ payment or theft.**
 4. **Public permissions:** Obtain the 2013 petroleum license, 2014 permit proceedings, later renewals, regulatory notices and environmental filings.
 5. **Political interface:** Compare documented meetings, lobbying disclosures, correspondence and decision dates against the 2019 U.S. recognition decision. **No causal connection has yet been established.**
@@ -51,7 +52,7 @@ Sources:
 8. **Broader context:** Earlier discussion connected defense budgets, Cheney/Wolfowitz policy networks, PNAC, media influence, foreign policy and resource access. These are **separate documentary trails** until primary records show a specific link to Genie's transactions or decisions.
 
 ## Evidence classification
-**Confirmed in filings:** advisory-board names, equity financing terms, license footprint, exploration/well history, impairments, and 2020 closure.
+**Confirmed in filings:** advisory-board names, equity financing terms, Genie's disclosure of receipt of principal and interest on Murdoch's note on November 15, 2015 (bank-level verification remains open), license footprint, exploration/well history, impairments, and 2020 closure.
 
 **Documented historical context:** contested Golan sovereignty and later U.S. recognition.
 
