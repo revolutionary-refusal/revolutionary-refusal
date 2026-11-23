@@ -27,3 +27,34 @@ Determine which warnings reached officials, actions taken, protection outcomes, 
 - **7 December 2026, 09:00 Irish time** — Scheduled 14-day follow-up to check for a substantive response.
 - **Status** — Awaiting substantive answers. No response deadline or case reference was provided in the acknowledgement.
 - **Follow-up** — Record any reply, reference number, disclosed records, and answers or omissions against the six questions. Do not interpret silence alone as proof of misconduct.
+
+## Formal inquiry — correspondence text
+
+**Date recorded:** 23 November 2026
+
+**To:** minister@dcde.gov.ie; contact@dcde.gov.ie; foiequality@dcde.gov.ie  
+**CC:** Yourself (address not recorded)  
+**Subject:** Formal Inquiry: Child Protection and Institutional Accountability
+
+To Whom It May Concern,
+
+The Torah commands: “Justice, justice shall you pursue.” (Deuteronomy 16:20)
+
+Regarding reports of child exploitation in State care, I respectfully request answers:
+
+1. How many cases and warnings have been confirmed?
+2. When were authorities first informed?
+3. Were warnings ignored or children left unprotected?
+4. Who was responsible, and what accountability followed?
+5. How many cases resulted in protection or prosecution?
+6. When will independently verified records be published?
+
+The protection of institutions must never outweigh the protection of children.
+
+Justice demands truth, action, and accountability.
+
+Respectfully,
+
+A Concerned Member of the Public
+
+**Correspondence status:** Automatic acknowledgement from minister@dcde.gov.ie was shown; no substantive reply established. Recipients listed above are the intended address list, not independent proof of delivery to each address.
