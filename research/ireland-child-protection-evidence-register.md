@@ -20,3 +20,10 @@ Status: source leads for verification. Dates use DAY MONTH YYYY.
 ## Outstanding verification
 
 Determine which warnings reached officials, actions taken, protection outcomes, and prosecution outcomes. Referrals and allegations must not be counted as convictions.
+
+## Ministerial correspondence accountability clock
+
+- **23 November 2026** — Email sent to the Office of the Minister for Children, Disability and Equality; automatic acknowledgement received. This confirms receipt, not substantive review.
+- **7 December 2026, 09:00 Irish time** — Scheduled 14-day follow-up to check for a substantive response.
+- **Status** — Awaiting substantive answers. No response deadline or case reference was provided in the acknowledgement.
+- **Follow-up** — Record any reply, reference number, disclosed records, and answers or omissions against the six questions. Do not interpret silence alone as proof of misconduct.
