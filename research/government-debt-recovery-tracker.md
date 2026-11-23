@@ -25,3 +25,9 @@ Scope: Publicly documented U.S. government-related fraud restitution, recoveries
 2. Verify recipient and payments received; distinguish ordered from collected.
 3. Locate forfeiture orders, seized asset liquidation and victim credits.
 4. Date-stamp each update and keep an audit trail.
+
+## 2026-11-22 audit triage — F-35 property controls (separate from debt)
+- GAO-27-108713 documents approximately $31 billion in F-35 parts and over $85 million in previously reported lost parts whose status remained unresolved as of March 2026. **This is NOT a restitution order, confirmed fraud loss, or collectible debt.**
+- Dedicated evidence note: https://github.com/revolutionary-refusal/revolutionary-refusal/blob/main/research/f35-parts-accountability-gao-27-108713.md
+- Primary source: https://www.gao.gov/products/gao-27-108713
+- Next check: locate the inventory reconciliation and distinguish recovered, written-off, contractor-liable, and still missing parts before any debt entry is opened.
