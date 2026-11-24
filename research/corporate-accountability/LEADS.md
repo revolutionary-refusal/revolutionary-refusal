@@ -2,7 +2,7 @@
 
 # Open leads (last 30 days)
 
-Generated 2026-11-24T02:14:56+00:00 UTC / 2026-11-24 04:14 Asia/Jerusalem.
+Generated 2026-11-24T17:48:21+00:00 UTC / 2026-11-24 19:48 Asia/Jerusalem.
 
 A lead is a mechanical reason to look closer. It is not an accusation and not a finding. Rules are applied identically to every watched entity:
 
@@ -14,7 +14,7 @@ A lead is a mechanical reason to look closer. It is not an accusation and not a 
 - **R6** A watched entity registered a new lobbying relationship or reported $500k+ in a quarter
 - **R7** The same entity surfaced in four or more divisions within 30 days (convergence; low priority, large firms trip it often)
 
-Leads by rule: R1 5, R2 118, R3 17, R4 94, R5 38, R6 21, R7 12
+Leads by rule: R1 5, R2 161, R3 17, R4 95, R5 38, R6 21, R7 12
 
 | Score | Rule | Date | Entities | Document | Signal |
 |---|---|---|---|---|---|
@@ -56,6 +56,45 @@ Leads by rule: R1 5, R2 118, R3 17, R4 94, R5 38, R6 21, R7 12
 | 3 | R5 | 2025-01-31 | Oracle | [Federal contract: Department of Agriculture to ORACLE AMERICA, INC., $27,450,515 (award 12314425F0071)](https://www.usaspending.gov/award/CONT_AWD_12314425F0071_1205_12314424G0070_1205) |  |
 | 3 | R5 | 2024-07-17 | Microsoft | [Federal contract: Department of Agriculture to MICROSOFT CORPORATION, $114,888,285 (award 12314424F0350)](https://www.usaspending.gov/award/CONT_AWD_12314424F0350_1205_12314424G0011_1205) |  |
 | 3 | R5 | 2021-06-14 | Amazon / AWS | [Federal contract: General Services Administration to AMAZON WEB SERVICES, INC., $104,554,319 (award 47QDCB21F0015)](https://www.usaspending.gov/award/CONT_AWD_47QDCB21F0015_4732_47QTCA19D000C_4732) |  |
+| 2 | R4 | 2026-11-24 | Anthropic, PBC | [Earlens Corp S-1 filed 2026-11-24 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1490171/000119312526472933/0001193125-26-472933-index.htm) |  |
+| 2 | R2 | 2026-11-24 | OpenAI | [Federal case: Doe v. OpenAi Foundation f/k/a OpenAi Inc.](https://www.courtlistener.com/docket/74953817/doe-v-openai-foundation-fka-openai-inc/) |  |
+| 2 | R2 | 2026-11-24 | OpenAI | [Federal case: Flinn Artificial Intelligence (AI) Technologies, LLC v. OpenAI OpCo, LLC](https://www.courtlistener.com/docket/75109515/flinn-artificial-intelligence-ai-technologies-llc-v-openai-opco-llc/) |  |
+| 2 | R2 | 2026-11-24 | Anthropic, PBC | [Federal case: Carreyrou v. Anthropic PBC](https://www.courtlistener.com/docket/72069211/carreyrou-v-anthropic-pbc/) |  |
+| 2 | R2 | 2026-11-24 | Anthropic, PBC | [Federal case: Sony Music Publishing (US) LLC v. Anthropic PBC](https://www.courtlistener.com/docket/74720572/sony-music-publishing-us-llc-v-anthropic-pbc/) |  |
+| 2 | R2 | 2026-11-24 | xAI | [Federal case: Jane Doe 1 v. X.AI Corp.](https://www.courtlistener.com/docket/74751595/jane-doe-1-v-xai-corp/) |  |
+| 2 | R2 | 2026-11-24 | Microsoft | [Federal case: Tuntland v. Microsoft Corporation](https://www.courtlistener.com/docket/74646041/tuntland-v-microsoft-corporation/) |  |
+| 2 | R2 | 2026-11-24 | Alphabet / Google | [Federal case: Aptoide, S.A. v. Google LLC](https://www.courtlistener.com/docket/73188828/aptoide-sa-v-google-llc/) |  |
+| 2 | R2 | 2026-11-24 | Alphabet / Google | [Federal case: Hachette Book Group, Inc. v. Google LLC](https://www.courtlistener.com/docket/73603888/hachette-book-group-inc-v-google-llc/) |  |
+| 2 | R2 | 2026-11-24 | Alphabet / Google | [Federal case: Weekend Warrior Clothing, LLC v. Google, LLC](https://www.courtlistener.com/docket/71318105/weekend-warrior-clothing-llc-v-google-llc/) |  |
+| 2 | R2 | 2026-11-24 | Alphabet / Google | [Federal case: Headwater Research LLC v. Google LLC](https://www.courtlistener.com/docket/74713892/headwater-research-llc-v-google-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Burns v. Amazon.com Services LLC](https://www.courtlistener.com/docket/73172496/burns-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: COMMUNITY ASSOCIATION UNDERWRITERS OF AMERICA INC. v. AMAZON.COM, INC.](https://www.courtlistener.com/docket/75023788/community-association-underwriters-of-america-inc-v-amazoncom-inc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Spencer v. Amazon com Services LLC](https://www.courtlistener.com/docket/73519566/spencer-v-amazon-com-services-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Gilmore v. Amazon.com Services LLC](https://www.courtlistener.com/docket/75046294/gilmore-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Gardner v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/71570495/gardner-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Ramos v. Amazon.Com Services LLC](https://www.courtlistener.com/docket/74696720/ramos-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Apostolik v. Amazon.com Services LLC](https://www.courtlistener.com/docket/74768093/apostolik-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Amazon.com Services LLC v. Perplexity AI, Inc.](https://www.courtlistener.com/docket/71874820/amazoncom-services-llc-v-perplexity-ai-inc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: PandaVida, Inc v. Amazon.Com Services LLC](https://www.courtlistener.com/docket/70943428/pandavida-inc-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Santiago v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/75165650/santiago-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: NELSON v. AMAZON.COM, INC.](https://www.courtlistener.com/docket/71275675/nelson-v-amazoncom-inc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: GateGuard, Inc. v. Amazon.com Inc.](https://www.courtlistener.com/docket/60872153/gateguard-inc-v-amazoncom-inc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Cohen v. Amazon.com Services LLC](https://www.courtlistener.com/docket/73564051/cohen-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: Marmaduke School District v. Meta Platforms, Inc](https://www.courtlistener.com/docket/75134400/marmaduke-school-district-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: Delgado v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/67699080/delgado-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: Lower Dauphin School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75157273/lower-dauphin-school-district-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: K.L. v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75166471/kl-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: Cedar Rapids Community School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156921/cedar-rapids-community-school-district-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: Palestine-Wheatley School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75136165/palestine-wheatley-school-district-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: Belle Valley School District No. 119 v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75165544/belle-valley-school-district-no-119-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: O'Neill v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75166845/oneill-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: Marion Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75153799/marion-public-schools-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Apple | [Federal case: Collision Communications, Inc. v. Apple Inc.](https://www.courtlistener.com/docket/73643726/collision-communications-inc-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-24 | Apple | [Federal case: Belair v. Apple Inc.](https://www.courtlistener.com/docket/75071054/belair-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-24 | Apple | [Federal case: Massively Broadband LLC v. Apple Inc.](https://www.courtlistener.com/docket/75164433/massively-broadband-llc-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-24 | Apple | [Federal case: LBT IP I LLC v. Apple Inc.](https://www.courtlistener.com/docket/15865411/lbt-ip-i-llc-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-24 | Apple | [Federal case: APPLE INC. SMARTPHONE ANTITRUST LITIGATION](https://www.courtlistener.com/docket/68869775/apple-inc-smartphone-antitrust-litigation/) |  |
+| 2 | R2 | 2026-11-24 | Apple | [Federal case: UNITED STATES OF AMERICA v. APPLE INC.](https://www.courtlistener.com/docket/68362334/united-states-of-america-v-apple-inc/) |  |
 | 2 | R4 | 2026-11-23 | OpenAI | [BITMINE IMMERSION TECHNOLOGIES, INC. (BMNP, BMNR) 8-K filed 2026-11-23 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1829311/000149315226053668/0001493152-26-053668-index.htm) |  |
 | 2 | R4 | 2026-11-23 | OpenAI | [CrowdStrike Holdings, Inc. (CRWD) 8-K filed 2026-11-23 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/0001535527-26-000035-index.htm) |  |
 | 2 | R4 | 2026-11-23 | Anthropic, PBC | [CrowdStrike Holdings, Inc. (CRWD) 8-K filed 2026-11-23 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/0001535527-26-000035-index.htm) |  |
@@ -162,6 +201,9 @@ Leads by rule: R1 5, R2 118, R3 17, R4 94, R5 38, R6 21, R7 12
 | 2 | R2 | 2026-11-23 | Apple | [Federal case: BenedorTSE, LLC v. Apple Inc.](https://www.courtlistener.com/docket/72063264/benedortse-llc-v-apple-inc/) |  |
 | 2 | R2 | 2026-11-23 | Apple | [Federal case: CHAUDRY v. APPLE INC./CT CORP. SYSTEM](https://www.courtlistener.com/docket/73657769/chaudry-v-apple-incct-corp-system/) |  |
 | 2 | R2 | 2026-11-23 | Apple | [Federal case: iScan2D Technologies, LLC v. Apple Inc.](https://www.courtlistener.com/docket/74268233/iscan2d-technologies-llc-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-23 | NVIDIA | [Federal case: Haugland v. NVIDIA Corporation](https://www.courtlistener.com/docket/73647607/haugland-v-nvidia-corporation/) |  |
+| 2 | R2 | 2026-11-23 | Microsoft | [Federal case: Komor v. Microsoft Corporation](https://www.courtlistener.com/docket/75146208/komor-v-microsoft-corporation/) |  |
+| 2 | R2 | 2026-11-23 | Microsoft | [Federal case: STATS LLC v. Microsoft Online, Inc.](https://www.courtlistener.com/docket/73571714/stats-llc-v-microsoft-online-inc/) |  |
 | 2 | R2 | 2026-11-22 | Anthropic, PBC | [Federal case: Concord Music Group, Inc. v. Anthropic PBC](https://www.courtlistener.com/docket/72199828/concord-music-group-inc-v-anthropic-pbc/) |  |
 | 2 | R4 | 2026-11-20 | OpenAI | [Forge Nano Holdings, Inc. (NANO, NANOW) S-1 filed 2026-11-20 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/2101833/000110465926130613/0001104659-26-130613-index.htm) |  |
 | 2 | R2 | 2026-11-20 | Anthropic, PBC | [Federal case: Flinn Artificial Intelligence (AI) Technologies, LLC v. Anthropic, PBC](https://www.courtlistener.com/docket/75107003/flinn-artificial-intelligence-ai-technologies-llc-v-anthropic-pbc/) |  |
@@ -181,9 +223,11 @@ Leads by rule: R1 5, R2 118, R3 17, R4 94, R5 38, R6 21, R7 12
 | 2 | R2 | 2026-11-19 | Anthropic, PBC | [Federal case: Gilbert v. Anthropic PBC](https://www.courtlistener.com/docket/73391700/gilbert-v-anthropic-pbc/) |  |
 | 2 | R2 | 2026-11-19 | Oracle | [Federal case: Jamieson v. Oracle America, Inc.](https://www.courtlistener.com/docket/75098823/jamieson-v-oracle-america-inc/) |  |
 | 2 | R6 | 2026-11-19 | Meta Platforms | [Lobbying: META PLATFORMS, INC. — Registration 2026, registrant FLOREAT PARTNERS LLC](https://lda.gov/filings/public/filing/d219a73e-18ad-42cd-ab48-ec7b68b95605/print/) |  |
+| 2 | R2 | 2026-11-19 | Oracle | [Federal case: Miller v. Oracle America, Inc.](https://www.courtlistener.com/docket/74931431/miller-v-oracle-america-inc/) |  |
 | 2 | R4 | 2026-11-18 | OpenAI | [Vision Marine Technologies Inc. (VMAR) 10-K filed 2026-11-18 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1813783/000110465926129700/0001104659-26-129700-index.htm) |  |
 | 2 | R4 | 2026-11-18 | Anthropic, PBC | [McGraw Hill, Inc. (MH) 8-K filed 2026-11-18 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1951070/000119312526466201/0001193125-26-466201-index.htm) |  |
 | 2 | R2 | 2026-11-18 | Anthropic, PBC | [Federal case: Reservoir Media Management, Inc. v. Anthropic PBC](https://www.courtlistener.com/docket/75002159/reservoir-media-management-inc-v-anthropic-pbc/) |  |
+| 2 | R2 | 2026-11-18 | Oracle | [Federal case: IN RE ORACLE CORPORATION DATA BREACH LITIGATION](https://www.courtlistener.com/docket/71895405/in-re-oracle-corporation-data-breach-litigation/) |  |
 | 2 | R4 | 2026-11-17 | NVIDIA, OpenAI | [NVIDIA CORP (NVDA) 8-K filed 2026-11-17 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088-index.htm) |  |
 | 2 | R4 | 2026-11-17 | Anthropic, PBC, OpenAI | [Anthropic, PBC (ANT) S-1/A filed 2026-11-17 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/2130357/000162828026074338/0001628280-26-074338-index.htm) |  |
 | 2 | R4 | 2026-11-17 | Anthropic, PBC, NVIDIA | [NVIDIA CORP (NVDA) 8-K filed 2026-11-17 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088-index.htm) |  |
@@ -274,47 +318,3 @@ Leads by rule: R1 5, R2 118, R3 17, R4 94, R5 38, R6 21, R7 12
 | 2 | R5 | 2026-10-28 | Microsoft | [Federal contract: Social Security Administration to MICROSOFT CORPORATION, $1,404,437 (award 28321327FDS030010)](https://www.usaspending.gov/award/CONT_AWD_28321327FDS030010_2800_28321324D00060001_2800) |  |
 | 2 | R5 | 2026-10-26 | Anthropic, PBC | [Federal contract: Department of Health and Human Services to ANTHROPIC, PBC, $4,842,000 (award 7571TE27C00002)](https://www.usaspending.gov/award/CONT_AWD_7571TE27C00002_7571_-NONE-_-NONE-) |  |
 | 2 | R5 | 2026-10-26 | Anthropic, PBC | [Federal contract: Department of Health and Human Services to ANTHROPIC, PBC, $3,573,000 (award 7571TE27C00003)](https://www.usaspending.gov/award/CONT_AWD_7571TE27C00003_7571_-NONE-_-NONE-) |  |
-| 2 | R6 | 2026-10-19 | BlackRock | [Lobbying: BLACKROCK FUND SERVICES GROUP, LLC — Registration 2026, registrant RESONANT TAX STRATEGIES, LLP](https://lda.gov/filings/public/filing/7aab8e6a-4b94-4b05-ad41-31996ed99c1e/print/) |  |
-| 2 | R5 | 2026-10-01 | Amazon / AWS | [Federal contract: Department of Justice to AMAZON WEB SERVICES, INC., $3,000,000 (award 15DDHQ26F00000866)](https://www.usaspending.gov/award/CONT_AWD_15DDHQ26F00000866_1524_15JPSS21A00000237_1501) |  |
-| 2 | R5 | 2026-09-29 | Amazon / AWS | [Federal contract: Department of Homeland Security to AMAZON WEB SERVICES, INC., $1,700,000 (award 70RSAT26FR0000068)](https://www.usaspending.gov/award/CONT_AWD_70RSAT26FR0000068_7001_70RTAC26D00000004_7001) |  |
-| 2 | R5 | 2026-09-29 | Amazon / AWS | [Federal contract: Department of Justice to AMAZON WEB SERVICES, INC., $1,400,000 (award 15JPSS26F00001822)](https://www.usaspending.gov/award/CONT_AWD_15JPSS26F00001822_1501_15JPSS21A00000237_1501) |  |
-| 2 | R5 | 2026-09-29 | Palantir Technologies | [Federal contract: Department of the Treasury to PALANTIR TECHNOLOGIES INC., $9,002,423 (award 205AE926F00122)](https://www.usaspending.gov/award/CONT_AWD_205AE926F00122_2050_205AE926A00004_2050) |  |
-| 2 | R5 | 2026-09-28 | Palantir Technologies | [Federal contract: Department of Health and Human Services to PALANTIR TECHNOLOGIES INC., $9,738,016 (award 7571TE26F66007)](https://www.usaspending.gov/award/CONT_AWD_7571TE26F66007_7571_75P00122A00010_7570) |  |
-| 2 | R5 | 2026-09-15 | Palantir Technologies | [Federal contract: Department of State to PALANTIR USG INC, $1,437,192 (award 19AQMM26F7208)](https://www.usaspending.gov/award/CONT_AWD_19AQMM26F7208_1900_19AQMM25A1228_1900) |  |
-| 2 | R5 | 2026-09-01 | Amazon / AWS | [Federal contract: General Services Administration to AMAZON WEB SERVICES, INC., $8,221,003 (award 47QACB26F0069)](https://www.usaspending.gov/award/CONT_AWD_47QACB26F0069_4732_47QTCA19D000C_4732) |  |
-| 2 | R5 | 2026-08-01 | Amazon / AWS | [Federal contract: Department of Justice to AMAZON WEB SERVICES, INC., $1,000,000 (award 15JPSS26F00001458)](https://www.usaspending.gov/award/CONT_AWD_15JPSS26F00001458_1501_15JPSS21A00000237_1501) |  |
-| 2 | R5 | 2026-06-11 | Oracle | [Federal contract: Office of Personnel Management to ORACLE AMERICA, INC, $1,440,000 (award 24322626F0011)](https://www.usaspending.gov/award/CONT_AWD_24322626F0011_2400_24322626D0001_2400) |  |
-| 2 | R5 | 2026-06-08 | Palantir Technologies | [Federal contract: Department of Transportation to PALANTIR TECHNOLOGIES INC., $7,299,938 (award 693JJ426F00058N)](https://www.usaspending.gov/award/CONT_AWD_693JJ426F00058N_6953_47QTCA24D004L_4732) |  |
-| 2 | R5 | 2026-05-01 | Palantir Technologies | [Federal contract: Department of Agriculture to PALANTIR TECHNOLOGIES INC., $8,608,990 (award 12314426F0158)](https://www.usaspending.gov/award/CONT_AWD_12314426F0158_1205_47QTCA24D004L_4732) |  |
-| 2 | R5 | 2026-04-01 | Amazon / AWS | [Federal contract: Department of Justice to AMAZON WEB SERVICES, INC., $1,007,726 (award 15JPSS26F00000971)](https://www.usaspending.gov/award/CONT_AWD_15JPSS26F00000971_1501_47QTCA19D000C_4732) |  |
-| 2 | R5 | 2025-07-21 | Microsoft | [Federal contract: Department of State to MICROSOFT CORPORATION, $5,328,294 (award 19AQMM25F0978)](https://www.usaspending.gov/award/CONT_AWD_19AQMM25F0978_1900_19AQMM25D0079_1900) |  |
-| 2 | R5 | 2024-10-01 | Amazon / AWS | [Federal contract: Department of Energy to AMAZON WEB SERVICES, INC., $9,356,675 (award 89233124PNA000192)](https://www.usaspending.gov/award/CONT_AWD_89233124PNA000192_8900_-NONE-_-NONE-) |  |
-| 2 | R5 | 2024-10-01 | Amazon / AWS | [Federal contract: Department of Justice to AMAZON WEB SERVICES, INC., $4,977,942 (award 15JPSS24F00000875)](https://www.usaspending.gov/award/CONT_AWD_15JPSS24F00000875_1501_15JPSS21A00000237_1501) |  |
-| 2 | R5 | 2024-04-15 | Amazon / AWS | [Federal contract: Department of Energy to AMAZON WEB SERVICES, INC., $1,419,731 (award 89233124PNA000186)](https://www.usaspending.gov/award/CONT_AWD_89233124PNA000186_8900_-NONE-_-NONE-) |  |
-| 2 | R5 | 2020-09-28 | Microsoft | [Federal contract: Department of State to MICROSOFT CORPORATION, $7,529,769 (award 19AQMM20F3602)](https://www.usaspending.gov/award/CONT_AWD_19AQMM20F3602_1900_19AQMM18D0108_1900) |  |
-| 2 | R5 | 2020-05-21 | Oracle | [Federal contract: U.S. International Development Finance Corporation to ORACLE AMERICA, INC, $2,062,195 (award 77344420C0012)](https://www.usaspending.gov/award/CONT_AWD_77344420C0012_7700_-NONE-_-NONE-) |  |
-| 1 | R7 | 2026-11-24 | Anthropic, PBC | Anthropic, PBC appears across 5 divisions: D1, D2, D3, D5, D6 (67 records) |  |
-| 1 | R7 | 2026-11-24 | NVIDIA | NVIDIA appears across 5 divisions: D1, D2, D4, D5, D6 (39 records) |  |
-| 1 | R7 | 2026-11-24 | Advanced Micro Devices | Advanced Micro Devices appears across 4 divisions: D1, D2, D5, D6 (13 records) |  |
-| 1 | R7 | 2026-11-24 | Microsoft | Microsoft appears across 5 divisions: D1, D2, D4, D5, D6 (49 records) |  |
-| 1 | R7 | 2026-11-24 | Alphabet / Google | Alphabet / Google appears across 5 divisions: D1, D2, D4, D5, D6 (36 records) |  |
-| 1 | R7 | 2026-11-24 | Amazon / AWS | Amazon / AWS appears across 5 divisions: D1, D2, D4, D5, D6 (62 records) |  |
-| 1 | R7 | 2026-11-24 | Meta Platforms | Meta Platforms appears across 6 divisions: D1, D2, D3, D4, D5, D6 (37 records) |  |
-| 1 | R7 | 2026-11-24 | Oracle | Oracle appears across 5 divisions: D1, D2, D4, D5, D6 (33 records) |  |
-| 1 | R7 | 2026-11-24 | CoreWeave | CoreWeave appears across 4 divisions: D2, D4, D5, D6 (10 records) |  |
-| 1 | R7 | 2026-11-24 | Apple | Apple appears across 5 divisions: D1, D3, D4, D5, D6 (25 records) |  |
-| 1 | R7 | 2026-11-24 | JPMorgan Chase | JPMorgan Chase appears across 4 divisions: D3, D4, D5, D6 (16 records) |  |
-| 1 | R7 | 2026-11-24 | OpenAI | OpenAI appears across 4 divisions: D1, D2, D5, D6 (122 records) |  |
-| 1 | R6 | 2026-10-20 | OpenAI | [Lobbying: OPENAI OPCO, LLC — 3rd Quarter - Report 2026, registrant OPENAI OPCO, LLC, reported $1,530,000](https://lda.gov/filings/public/filing/81e83fa3-9a11-4cbd-be37-3032cb4696f4/print/) |  |
-| 1 | R6 | 2026-10-20 | Anthropic, PBC | [Lobbying: ANTHROPIC — 3rd Quarter - Report 2026, registrant ANTHROPIC, reported $2,110,000](https://lda.gov/filings/public/filing/d0b9f104-2212-4fcc-8304-5c978c366768/print/) |  |
-| 1 | R6 | 2026-10-20 | Scale AI | [Lobbying: SCALE AI, INC. — 3rd Quarter - Report 2026, registrant SCALE AI, INC., reported $610,000](https://lda.gov/filings/public/filing/1d49ce7b-d5b3-49d5-b741-2a044e864c7d/print/) |  |
-| 1 | R6 | 2026-10-20 | NVIDIA | [Lobbying: NVIDIA CORPORATION — 3rd Quarter - Report 2026, registrant NVIDIA CORPORATION, reported $2,150,000](https://lda.gov/filings/public/filing/017c32c9-d63b-43f1-bf16-8e1e70da4b7d/print/) |  |
-| 1 | R6 | 2026-10-20 | Advanced Micro Devices | [Lobbying: ADVANCED MICRO DEVICES, INC. — 3rd Quarter - Report 2026, registrant ADVANCED MICRO DEVICES, INC., reported $920,000](https://lda.gov/filings/public/filing/c692bbed-7197-4810-96fd-9287baccf557/print/) |  |
-| 1 | R6 | 2026-10-20 | Broadcom | [Lobbying: BROADCOM INC — 3rd Quarter - Report 2026, registrant BROADCOM INC., reported $500,000](https://lda.gov/filings/public/filing/807765b1-87d1-44e6-a58b-86938dd1116b/print/) |  |
-| 1 | R6 | 2026-10-20 | Intel | [Lobbying: INTEL CORPORATION — 3rd Quarter - Report 2026, registrant INTEL CORPORATION, reported $1,070,000](https://lda.gov/filings/public/filing/19c908a4-64e9-4eda-a3d9-f4aa5dcb8726/print/) |  |
-| 1 | R6 | 2026-10-20 | Microsoft | [Lobbying: MICROSOFT CORPORATION — 3rd Quarter - Report 2026, registrant MICROSOFT CORPORATION, reported $2,440,000](https://lda.gov/filings/public/filing/ad3bb2ee-1374-49e2-b90c-be6f247cfad8/print/) |  |
-| 1 | R6 | 2026-10-20 | Alphabet / Google | [Lobbying: GOOGLE CLIENT SERVICES LLC — 3rd Quarter - Report 2026, registrant GOOGLE CLIENT SERVICES LLC, reported $3,230,000](https://lda.gov/filings/public/filing/08837d92-519d-4607-b01a-9186702f755c/print/) |  |
-| 1 | R6 | 2026-10-20 | Amazon / AWS | [Lobbying: AMAZON.COM SERVICES LLC — 3rd Quarter - Report 2026, registrant AMAZON.COM SERVICES LLC, reported $4,490,000](https://lda.gov/filings/public/filing/f57759bc-7305-428e-83b4-7c4ce6195bbf/print/) |  |
-| 1 | R6 | 2026-10-20 | Meta Platforms | [Lobbying: META PLATFORMS, INC. AND VARIOUS SUBSIDIARIES — 3rd Quarter - Report 2026, registrant META PLATFORMS, INC. AND VARIOUS SUBSIDIARIES, reported $5,880,000](https://lda.gov/filings/public/filing/de1c1bae-7ae1-4902-8168-8c6c78696409/print/) |  |
-| 1 | R6 | 2026-10-20 | Oracle | [Lobbying: ORACLE CORPORATION — 3rd Quarter - Report 2026, registrant ORACLE CORPORATION, reported $2,890,000](https://lda.gov/filings/public/filing/a2ea0747-61b3-4459-94aa-4c80380c8dcc/print/) |  |
-| 1 | R6 | 2026-10-20 | Apple | [Lobbying: APPLE INC — 3rd Quarter - Report 2026, registrant APPLE INC., reported $3,090,000](https://lda.gov/filings/public/filing/7dc30c1c-4c0d-4ea1-85ad-4f246e3d2e0e/print/) |  |

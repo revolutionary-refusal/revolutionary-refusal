@@ -14,14 +14,17 @@
 
 SoftBank Group, BlackRock, Vanguard Group, State Street, JPMorgan Chase, Goldman Sachs, Bank of America, Citigroup, Wells Fargo, Morgan Stanley, Berkshire Hathaway, Blackstone, KKR, Apollo Global Management, Visa, Mastercard, Thrive Capital, Andreessen Horowitz, Equifax, TransUnion, Experian
 
-## Records first seen in the last 30 days (92)
+## Records first seen in the last 30 days (95)
 
-By kind: regulatory-filing 58, lobbying-disclosure 14, regulator-notice 11, regulator-statement 8, complaint-database 1
+By kind: regulatory-filing 58, regulator-notice 14, lobbying-disclosure 14, regulator-statement 8, complaint-database 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-24 | Federal Register (Securities and Exchange Commission) | [Proposed Rule: Restructuring the Governance and Funding Model of the Consolidated Audit Trail](https://www.federalregister.gov/documents/2026/11/24/2026-23951/restructuring-the-governance-and-funding-model-of-the-consolidated-audit-trail) |  | rulemaking |
+| 2026-11-24 | Federal Register (Federal Reserve System) | [Notice: Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company](https://www.federalregister.gov/documents/2026/11/24/2026-23904/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company) |  |  |
+| 2026-11-24 | Federal Register (Treasury Department, Comptroller of the Currency) | [Rule: Notification of Inflation Adjustments for Civil Money Penalties](https://www.federalregister.gov/documents/2026/11/24/2026-23851/notification-of-inflation-adjustments-for-civil-money-penalties) |  |  |
 | 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR) | [VISA INC. filed 8-K (Item 5.02: Departure or appointment of directors or officers)](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000143/v-20261118.htm) | Visa |  |
 | 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Hyperscale Data, Inc. (GPUS, GPUS-PD) 8-K filed 2026-11-23 contains "data center" "private credit"](https://www.sec.gov/Archives/edgar/data/896493/000121465926014646/0001214659-26-014646-index.htm) |  |  |
 | 2026-11-23 | European Commission | [Keynote speech by Commissioner Albuquerque at the launch of the 6th European Retirement Week at the European Fund and Asset Management Association](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2558) |  |  |

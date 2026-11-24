@@ -14,14 +14,16 @@
 
 Berkshire Hathaway, NextEra Energy, Dominion Energy, Constellation Energy, Vistra, Duke Energy, Southern Company, AT&T, Verizon, Comcast, Charter Communications, T-Mobile US, UnitedHealth Group, CVS Health, Cigna Group, Elevance Health
 
-## Records first seen in the last 30 days (116)
+## Records first seen in the last 30 days (118)
 
-By kind: lobbying-disclosure 51, regulatory-filing 50, regulator-notice 10, regulator-statement 2, oversight-report 2, government-award 1
+By kind: lobbying-disclosure 51, regulatory-filing 50, regulator-notice 11, regulator-statement 2, oversight-report 2, court-record 1, government-award 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-24 | Federal Register (Federal Communications Commission) | [Notice: Deletion of Item From November 19, 2026 Open Meeting](https://www.federalregister.gov/documents/2026/11/24/2026-23828/deletion-of-item-from-november-19-2026-open-meeting) |  |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Massively Broadband LLC v. Apple Inc.](https://www.courtlistener.com/docket/75164433/massively-broadband-llc-v-apple-inc/) | Apple |  |
 | 2026-11-23 | Federal Register (Energy Department, Federal Energy Regulatory Commission) | [Notice: Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/11/23/2026-23765/combined-notice-of-filings-1) |  |  |
 | 2026-11-23 | Federal Register (Federal Communications Commission) | [Proposed Rule: Connect America Fund; A National Broadband Plan for Our Future High-Cost Universal Support, Reforming the High-Cost Program for an All-IP Future, Safeguarding Universal Service Funding Through Effective Applicant Vetting](https://www.federalregister.gov/documents/2026/11/23/2026-23830/connect-america-fund-a-national-broadband-plan-for-our-future-high-cost-universal-support-reforming) |  | rulemaking |
 | 2026-11-23 | Federal Register (Federal Communications Commission) | [Proposed Rule: Cybersecurity Labeling for Internet of Things](https://www.federalregister.gov/documents/2026/11/23/2026-23812/cybersecurity-labeling-for-internet-of-things) |  | rulemaking |
