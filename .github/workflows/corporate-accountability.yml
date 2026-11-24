@@ -1,0 +1,27 @@
+name: Corporate Accountability
+on:
+  schedule:
+    - cron: '0 5,6,7,8,11,12,14,15,17,18,20,21 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: corporate-accountability
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Collect public evidence
+        run: python3 research/corporate-accountability/collect.py
+      - name: Preserve evidence
+        run: |
+          git config user.name "accountability-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add research/corporate-accountability/
+          if ! git diff --cached --quiet; then
+            git commit -m "Record public-source evidence checks"
+            git push
+          fi
