@@ -1,0 +1,28 @@
+{
+ "hits": {
+  "total": {
+   "value": 768147
+  }
+ },
+ "aggregations": {
+  "company": {
+   "doc_count": 768147,
+   "company": {
+    "buckets": [
+     {
+      "key": "Experian Information Solutions Inc.",
+      "doc_count": 271119
+     },
+     {
+      "key": "EQUIFAX, INC.",
+      "doc_count": 250000
+     },
+     {
+      "key": "JPMORGAN CHASE & CO.",
+      "doc_count": 2300
+     }
+    ]
+   }
+  }
+ }
+}

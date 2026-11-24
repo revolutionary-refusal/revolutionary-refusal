@@ -32,6 +32,7 @@ Remain willing to question conclusions, including your own.
 
 ### Published work
 
+- **[Corporate accountability investigation](research/corporate-accountability/) — autonomous, running.** Six divisions (antitrust, AI infrastructure, financial conglomerates, cloud and data gatekeepers, essential services, regulatory capture). An append-only evidence ledger collected six times a day on Israel time from SEC, DOJ, FTC, Federal Register, UK CMA, courts, lobbying, federal-spending and CFPB data, with reviewed [findings](research/corporate-accountability/FINDINGS.md) labelled proven, allegation or hypothesis. The same scrutiny applies to OpenAI, Anthropic and NVIDIA.
 - **[The Evidence Room](tools/evidence-room/) — experimental tool.** An offline HTML/JavaScript viewer for imported conversation records, with search and readable HTML export. Not a direct extractor of app-private chat history.
 - **[LFM 2 (700M) behavioral audit](audits/lfm2-700m/2026-11-08-behavior-and-context-audit.md) — preliminary research.** Documented model responses, evidence-attribution limitations, and an observed context-capacity error; root causes remain unverified.
 - **[Offline HTML export case study](audits/lfm2-700m/html-export-failure.md) — documented experiment.** Original generated output, analysis, and a separately repaired partial archive.

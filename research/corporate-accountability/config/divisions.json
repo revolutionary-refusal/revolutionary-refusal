@@ -1,0 +1,77 @@
+{
+  "_note": "Division keywords are Python regular expressions. A record joins a division when its title or summary matches one of the division's keywords, or when the source query that produced it belongs to the division. Matching is mechanical and reproducible; it is a filing system, not a finding.",
+  "divisions": [
+    {
+      "id": "D1",
+      "slug": "01-corporate-power-antitrust",
+      "title": "Corporate power and antitrust",
+      "scope": "Mergers, acquisitions, minority stakes and interlocks; monopolization and exclusionary conduct; merger review outcomes; consent decrees and their enforcement.",
+      "questions": [
+        "Which acquisitions or minority investments by watched entities avoided or survived merger review, and on what stated grounds?",
+        "Where has a regulator alleged exclusionary conduct, and how did the matter end (judgment, settlement, closure, still pending)?",
+        "Which investor-partner-customer loops (one firm funding another that then buys from it) appear in filings?"
+      ],
+      "keywords": ["(?i)antitrust", "(?i)monopol", "(?i)\\bmergers?\\b", "(?i)acquisitions?\\b", "(?i)anti-?competitive", "(?i)\\bcompetition\\b", "(?i)sherman act", "(?i)clayton act", "(?i)hart-scott-rodino|\\bHSR\\b", "(?i)consent decree", "(?i)divest", "(?i)exclusive dealing", "(?i)market power", "(?i)undertakings"]
+    },
+    {
+      "id": "D2",
+      "slug": "02-ai-infrastructure",
+      "title": "AI infrastructure accountability",
+      "scope": "Model developers, chipmakers, compute providers and their financing: OpenAI, Anthropic, Nvidia, xAI, Google, Meta, Microsoft, Amazon, CoreWeave, Oracle and others treated identically. Compute commitments, circular financing, government contracts, export controls, disclosures of risk.",
+      "questions": [
+        "What do the AI developers' own filings say about who owns them, who supplies their compute, and on what terms?",
+        "Which chip, cloud and model companies are each other's investors, suppliers and customers at the same time?",
+        "What public money (contracts, grants, tax incentives) flows to AI developers and compute providers?"
+      ],
+      "keywords": ["(?i)artificial intelligence", "\\bAI\\b", "(?i)\\bGPUs?\\b", "(?i)accelerators?\\b", "(?i)data ?cent(er|re)s?", "(?i)\\bcompute\\b", "(?i)semiconductor", "(?i)\\bchips?\\b", "(?i)foundation models?", "(?i)large language model", "(?i)export control"]
+    },
+    {
+      "id": "D3",
+      "slug": "03-financial-conglomerates",
+      "title": "Financial conglomerates",
+      "scope": "Large banks, asset managers, private equity and payment networks: common ownership, systemic size, enforcement history, consumer harm documented in complaint data, and their financing of the other divisions' subjects.",
+      "questions": [
+        "Which asset managers hold large stakes across competing firms in the same market?",
+        "What enforcement actions have bank regulators taken against watched institutions, and were penalties paid?",
+        "Who financed the AI and data-centre build-out (debt, private credit, SPVs), and what do the filings say about the terms?"
+      ],
+      "keywords": ["(?i)\\bbank(s|ing)?\\b", "(?i)asset manag", "(?i)private (equity|credit)", "(?i)hedge fund", "(?i)broker-dealer", "(?i)bank holding company", "(?i)systemically important", "(?i)capital requirement", "(?i)interchange", "(?i)payment (network|card)s?", "(?i)\\bloans?\\b", "(?i)securities fraud"]
+    },
+    {
+      "id": "D4",
+      "slug": "04-cloud-data-gatekeepers",
+      "title": "Cloud and data gatekeepers",
+      "scope": "Hyperscale cloud, search, app stores, data brokers and credit bureaus: control points over data, distribution and switching; privacy enforcement; interoperability and egress.",
+      "questions": [
+        "Where do cloud providers hold equity in the AI developers that are their largest customers?",
+        "What enforcement or market investigations target search, app-store, cloud or data-broker conduct?",
+        "Which data gatekeepers generate the most documented consumer complaints, and how do they respond?"
+      ],
+      "keywords": ["(?i)\\bcloud\\b", "(?i)hyperscal", "(?i)data brokers?", "(?i)personal (data|information)", "(?i)privacy", "(?i)interoperab", "(?i)app stores?", "(?i)search (engine|services)", "(?i)digital markets", "(?i)credit (report|bureau)", "(?i)egress", "(?i)strategic market status"]
+    },
+    {
+      "id": "D5",
+      "slug": "05-essential-services",
+      "title": "Essential services concentration",
+      "scope": "Electricity, grid and generation (including data-centre power deals), telecom and broadband, health insurance and pharmacy benefit management: consolidation and its effect on prices and access.",
+      "questions": [
+        "Which utility mergers or long-term power deals for data centres were reviewed, and what conditions were imposed?",
+        "Who bears the grid and generation costs created by data-centre demand?",
+        "Where do health insurers, PBMs or telecom carriers hold concentrated regional positions under regulatory review?"
+      ],
+      "keywords": ["(?i)\\butilit(y|ies)\\b", "(?i)electric(ity)?\\b", "(?i)power grid|\\bgrid\\b", "(?i)transmission", "(?i)interconnection", "(?i)\\bFERC\\b|energy regulatory commission", "(?i)broadband", "(?i)telecom", "(?i)wireless", "(?i)spectrum", "(?i)pharmacy benefit|\\bPBMs?\\b", "(?i)health insur", "(?i)medicare advantage", "(?i)hospital", "(?i)nuclear"]
+    },
+    {
+      "id": "D6",
+      "slug": "06-regulatory-capture-consumer-protection",
+      "title": "Regulatory capture and consumer protection",
+      "scope": "Lobbying spend and registrations, rulemaking and its withdrawal, enforcement closures, revolving-door appointments, deceptive or unfair practices, refunds and penalties actually paid.",
+      "questions": [
+        "How much do watched entities report spending on federal lobbying, through which firms, on which issues?",
+        "Which rules or enforcement matters were withdrawn, narrowed or closed, and what reason was given on the record?",
+        "Where regulators announced consumer redress, is there a record that it was paid?"
+      ],
+      "keywords": ["(?i)consumer protection", "(?i)deceptive", "(?i)\\bunfair\\b", "(?i)lobby", "(?i)revolving door", "(?i)rulemaking|proposed rule|final rule", "(?i)withdraw", "(?i)junk fees?", "(?i)dark patterns?", "(?i)refunds?", "(?i)civil penalt", "(?i)settle", "(?i)\\bCFPB\\b|consumer financial protection"]
+    }
+  ]
+}

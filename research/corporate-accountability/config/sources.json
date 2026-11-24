@@ -1,0 +1,282 @@
+{
+  "_note": "Every source here is a free public endpoint that needs no API key. source_class says what kind of document a record is; it never upgrades a record into a finding. Edit queries freely; the method stays reproducible because the config is versioned with the ledger. Federal Register term syntax: '|' means OR, a space means AND, quotes mean phrase.",
+  "sec_forms_of_interest": [
+    "10-K",
+    "10-Q",
+    "8-K",
+    "20-F",
+    "6-K",
+    "S-1",
+    "S-1/A",
+    "424B4",
+    "DEF 14A",
+    "SC 13D",
+    "SC 13D/A",
+    "SC 13G",
+    "SC 13G/A",
+    "SCHEDULE 13D",
+    "SCHEDULE 13G",
+    "S-4",
+    "425",
+    "DEFM14A",
+    "10-K/A",
+    "8-K/A"
+  ],
+  "sec_lookback_days": 21,
+  "sec_8k_item_labels": {
+    "1.01": "Entry into a material definitive agreement",
+    "1.02": "Termination of a material definitive agreement",
+    "2.01": "Completion of acquisition or disposition of assets",
+    "2.03": "Creation of a direct financial obligation",
+    "2.06": "Material impairments",
+    "3.01": "Delisting notice",
+    "4.02": "Non-reliance on previously issued financial statements",
+    "5.01": "Changes in control of registrant",
+    "5.02": "Departure or appointment of directors or officers",
+    "7.01": "Regulation FD disclosure",
+    "8.01": "Other events"
+  },
+  "sec_fulltext": [
+    {
+      "division": "D2",
+      "q": "\"OpenAI\"",
+      "forms": "10-K,10-Q,8-K,S-1,424B4"
+    },
+    {
+      "division": "D2",
+      "q": "\"Anthropic\"",
+      "forms": "10-K,10-Q,8-K,S-1,424B4"
+    },
+    {
+      "division": "D2",
+      "q": "\"xAI\"",
+      "forms": "10-K,10-Q,8-K,S-1,424B4"
+    },
+    {
+      "division": "D2",
+      "q": "\"Stargate\" \"OpenAI\"",
+      "forms": "10-K,10-Q,8-K"
+    },
+    {
+      "division": "D3",
+      "q": "\"OpenAI\"",
+      "forms": "D,D/A"
+    },
+    {
+      "division": "D3",
+      "q": "\"Anthropic\"",
+      "forms": "D,D/A"
+    },
+    {
+      "division": "D3",
+      "q": "\"data center\" \"private credit\"",
+      "forms": "8-K,10-Q"
+    },
+    {
+      "division": "D5",
+      "q": "\"data center\" \"power purchase agreement\"",
+      "forms": "8-K"
+    },
+    {
+      "division": "D1",
+      "q": "\"Hart-Scott-Rodino\" \"artificial intelligence\"",
+      "forms": "8-K,DEFM14A,S-4"
+    }
+  ],
+  "federal_register": [
+    {
+      "division": "D1",
+      "agencies": [
+        "federal-trade-commission",
+        "antitrust-division"
+      ],
+      "term": "merger | acquisition | competition"
+    },
+    {
+      "division": "D2",
+      "agencies": [],
+      "term": "\"artificial intelligence\""
+    },
+    {
+      "division": "D2",
+      "agencies": [
+        "industry-and-security-bureau"
+      ],
+      "term": "semiconductor | \"advanced computing\""
+    },
+    {
+      "division": "D3",
+      "agencies": [
+        "federal-reserve-system",
+        "comptroller-of-the-currency",
+        "federal-deposit-insurance-corporation",
+        "securities-and-exchange-commission"
+      ],
+      "term": "bank | \"asset manager\" | \"holding company\""
+    },
+    {
+      "division": "D4",
+      "agencies": [
+        "federal-trade-commission",
+        "consumer-financial-protection-bureau"
+      ],
+      "term": "\"data broker\" | privacy | \"personal data\" | cloud"
+    },
+    {
+      "division": "D5",
+      "agencies": [
+        "federal-energy-regulatory-commission"
+      ],
+      "term": "\"data center\" | \"large load\" | co-location | merger"
+    },
+    {
+      "division": "D5",
+      "agencies": [
+        "federal-communications-commission"
+      ],
+      "term": "merger | transfer | broadband"
+    },
+    {
+      "division": "D6",
+      "agencies": [
+        "consumer-financial-protection-bureau"
+      ],
+      "term": ""
+    },
+    {
+      "division": "D6",
+      "agencies": [
+        "federal-trade-commission"
+      ],
+      "term": "\"consumer protection\" | deceptive | unfair | rule"
+    }
+  ],
+  "rss": [
+    {
+      "id": "ftc-press",
+      "publisher": "U.S. Federal Trade Commission",
+      "url": "https://www.ftc.gov/feeds/press-release.xml",
+      "source_class": "regulator-statement",
+      "divisions": [
+        "D6"
+      ],
+      "filter": "none"
+    },
+    {
+      "id": "ftc-competition",
+      "publisher": "U.S. Federal Trade Commission",
+      "url": "https://www.ftc.gov/feeds/press-release-competition.xml",
+      "source_class": "regulator-statement",
+      "divisions": [
+        "D1"
+      ],
+      "filter": "none"
+    },
+    {
+      "id": "frb-enforcement",
+      "publisher": "U.S. Federal Reserve Board",
+      "url": "https://www.federalreserve.gov/feeds/press_enforcement.xml",
+      "source_class": "regulator-statement",
+      "divisions": [
+        "D3"
+      ],
+      "filter": "none"
+    },
+    {
+      "id": "gao-reports",
+      "publisher": "U.S. Government Accountability Office",
+      "url": "https://www.gao.gov/rss/reports.xml",
+      "source_class": "oversight-report",
+      "divisions": [],
+      "filter": "division-or-entity"
+    },
+    {
+      "id": "ec-press",
+      "publisher": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+      "source_class": "regulator-statement",
+      "divisions": [],
+      "filter": "division-or-entity"
+    },
+    {
+      "id": "openai-news",
+      "publisher": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "source_class": "company-statement",
+      "divisions": [
+        "D2"
+      ],
+      "filter": "none",
+      "entity": "openai",
+      "path_exclude": [
+        "/business/"
+      ],
+      "_why": "Customer stories under /business/ are marketing; excluded so OpenAI coverage matches the news-only coverage used for Anthropic and NVIDIA."
+    },
+    {
+      "id": "nvidia-news",
+      "publisher": "NVIDIA",
+      "url": "https://nvidianews.nvidia.com/releases.xml",
+      "source_class": "company-statement",
+      "divisions": [
+        "D2"
+      ],
+      "filter": "none",
+      "entity": "nvidia"
+    }
+  ],
+  "sitemaps": [
+    {
+      "id": "anthropic-news",
+      "publisher": "Anthropic",
+      "url": "https://www.anthropic.com/sitemap.xml",
+      "path_contains": "/news/",
+      "source_class": "company-statement",
+      "divisions": [
+        "D2"
+      ],
+      "entity": "anthropic",
+      "_why": "Anthropic publishes no RSS feed; its sitemap lists news URLs with modification times, which gives equivalent coverage to the OpenAI and NVIDIA feeds. The sitemap's lastmod changes on every redeploy, so the first run records a silent baseline of known URLs and later runs record only URLs never seen before."
+    }
+  ],
+  "doj": {
+    "pages": 4,
+    "components": [
+      "Antitrust Division",
+      "Civil Division",
+      "Consumer Protection Branch"
+    ],
+    "_why": "Antitrust Division releases are always kept. Civil Division and Consumer Protection Branch releases are kept only when they name a watched entity or match division D3/D4/D6 keywords."
+  },
+  "cma": {
+    "count": 60
+  },
+  "lda": {
+    "lookback_days": 45
+  },
+  "usaspending": {
+    "lookback_days": 60,
+    "min_amount": 0
+  },
+  "cfpb": {
+    "top_n": 25
+  },
+  "federal_register_lookback_days": 14,
+  "courtlistener": {
+    "_why": "Anonymous Atom search feed (the JSON API needs a token). caseName queries keep results to cases where the entity is a named party. One record per docket, the first time it is seen.",
+    "case_name_terms": {
+      "openai": "\"OpenAI\"",
+      "anthropic": "\"Anthropic\"",
+      "xai": "\"X.AI\" OR \"X. AI\" OR xAI",
+      "nvidia": "\"Nvidia\"",
+      "microsoft": "\"Microsoft\"",
+      "alphabet": "\"Google\"",
+      "amazon": "\"Amazon.com\" OR \"Amazon Web Services\"",
+      "meta": "\"Meta Platforms\"",
+      "coreweave": "\"CoreWeave\"",
+      "oracle": "\"Oracle America\" OR \"Oracle Corporation\"",
+      "apple": "\"Apple Inc\""
+    }
+  },
+  "federal_register_exclude_title_regex": "^(Self-Regulatory Organizations;|Agency Information Collection Activities|Sunshine Act Meetings|Privacy Act of 1974; System of Records)"
+}

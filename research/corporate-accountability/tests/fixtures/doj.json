@@ -1,0 +1,41 @@
+{
+ "results": [
+  {
+   "uuid": "a",
+   "title": "Statement on the Closing of Its Investigation of NextEra's Acquisition of Dominion",
+   "url": "https://www.justice.gov/opa/pr/x",
+   "date": "1795046400",
+   "teaser": "<p>The Antitrust Division closed its review.</p>",
+   "component": [
+    {
+     "name": "Antitrust Division"
+    }
+   ],
+   "number": "26-1"
+  },
+  {
+   "uuid": "b",
+   "title": "Justice Department Secures Injunction Against State Law",
+   "url": "https://www.justice.gov/opa/pr/y",
+   "date": "1795046400",
+   "teaser": "<p>Federal law enforcement operations.</p>",
+   "component": [
+    {
+     "name": "Civil Division"
+    }
+   ]
+  },
+  {
+   "uuid": "c",
+   "title": "Man sentenced for fentanyl distribution",
+   "url": "https://www.justice.gov/usao/pr/z",
+   "date": "1795046400",
+   "teaser": "",
+   "component": [
+    {
+     "name": "USAO - Texas, Southern"
+    }
+   ]
+  }
+ ]
+}

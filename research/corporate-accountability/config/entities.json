@@ -1,0 +1,1577 @@
+{
+ "_note": "Watched entities. Every entity is matched by the same rules; no entity is exempt. CIKs were resolved from https://www.sec.gov/files/company_tickers.json on 2026-11-23; entities with ticker but null cik are resolved at runtime from the same file. edgar_fulltext=true means the name is also searched in other companies' SEC filings (used for private firms whose own disclosures are thin).",
+ "entities": [
+  {
+   "id": "openai",
+   "name": "OpenAI",
+   "kind": "private",
+   "ticker": null,
+   "cik": null,
+   "aliases": [
+    "OpenAI"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D2",
+    "D6"
+   ],
+   "roles": [
+    "ai-developer"
+   ],
+   "lda_clients": [
+    "OpenAI"
+   ],
+   "usaspending_recipients": [
+    "OPENAI"
+   ],
+   "edgar_fulltext": true,
+   "lda_exclude": []
+  },
+  {
+   "id": "anthropic",
+   "name": "Anthropic, PBC",
+   "kind": "public",
+   "ticker": "ANT",
+   "cik": "2130357",
+   "aliases": [
+    "Anthropic"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D2",
+    "D6"
+   ],
+   "roles": [
+    "ai-developer"
+   ],
+   "lda_clients": [
+    "Anthropic"
+   ],
+   "usaspending_recipients": [
+    "ANTHROPIC"
+   ],
+   "edgar_fulltext": true,
+   "lda_exclude": []
+  },
+  {
+   "id": "xai",
+   "name": "xAI",
+   "kind": "private",
+   "ticker": null,
+   "cik": null,
+   "aliases": [
+    "X.AI Corp",
+    "X.AI Holdings"
+   ],
+   "aliases_case_sensitive": [
+    "xAI"
+   ],
+   "divisions": [
+    "D1",
+    "D2",
+    "D6"
+   ],
+   "roles": [
+    "ai-developer"
+   ],
+   "lda_clients": [
+    "X.AI"
+   ],
+   "usaspending_recipients": [
+    "X.AI"
+   ],
+   "edgar_fulltext": true,
+   "lda_exclude": []
+  },
+  {
+   "id": "mistral",
+   "name": "Mistral AI",
+   "kind": "private",
+   "ticker": null,
+   "cik": null,
+   "aliases": [
+    "Mistral AI"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2"
+   ],
+   "roles": [
+    "ai-developer"
+   ],
+   "lda_clients": [
+    "Mistral AI"
+   ],
+   "usaspending_recipients": [],
+   "edgar_fulltext": true,
+   "lda_exclude": []
+  },
+  {
+   "id": "scale-ai",
+   "name": "Scale AI",
+   "kind": "private",
+   "ticker": null,
+   "cik": null,
+   "aliases": [
+    "Scale AI"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2"
+   ],
+   "roles": [
+    "ai-data"
+   ],
+   "lda_clients": [
+    "Scale AI"
+   ],
+   "usaspending_recipients": [
+    "SCALE AI"
+   ],
+   "edgar_fulltext": true,
+   "lda_exclude": []
+  },
+  {
+   "id": "nvidia",
+   "name": "NVIDIA",
+   "kind": "public",
+   "ticker": "NVDA",
+   "cik": "1045810",
+   "aliases": [
+    "Nvidia"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D2",
+    "D6"
+   ],
+   "roles": [
+    "chipmaker",
+    "ai-investor"
+   ],
+   "lda_clients": [
+    "NVIDIA"
+   ],
+   "usaspending_recipients": [
+    "NVIDIA"
+   ],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "amd",
+   "name": "Advanced Micro Devices",
+   "kind": "public",
+   "ticker": "AMD",
+   "cik": "2488",
+   "aliases": [
+    "Advanced Micro Devices"
+   ],
+   "aliases_case_sensitive": [
+    "AMD"
+   ],
+   "divisions": [
+    "D1",
+    "D2"
+   ],
+   "roles": [
+    "chipmaker"
+   ],
+   "lda_clients": [
+    "Advanced Micro Devices"
+   ],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "broadcom",
+   "name": "Broadcom",
+   "kind": "public",
+   "ticker": "AVGO",
+   "cik": "1730168",
+   "aliases": [
+    "Broadcom"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D2"
+   ],
+   "roles": [
+    "chipmaker"
+   ],
+   "lda_clients": [
+    "Broadcom"
+   ],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "intel",
+   "name": "Intel",
+   "kind": "public",
+   "ticker": "INTC",
+   "cik": "50863",
+   "aliases": [
+    "Intel Corporation",
+    "Intel Corp"
+   ],
+   "aliases_case_sensitive": [
+    "Intel"
+   ],
+   "divisions": [
+    "D2"
+   ],
+   "roles": [
+    "chipmaker"
+   ],
+   "lda_clients": [
+    "Intel"
+   ],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "tsmc",
+   "name": "Taiwan Semiconductor Manufacturing",
+   "kind": "public",
+   "ticker": "TSM",
+   "cik": "1046179",
+   "aliases": [
+    "Taiwan Semiconductor",
+    "TSMC"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2"
+   ],
+   "roles": [
+    "foundry"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "micron",
+   "name": "Micron Technology",
+   "kind": "public",
+   "ticker": "MU",
+   "cik": "723125",
+   "aliases": [
+    "Micron Technology"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2"
+   ],
+   "roles": [
+    "chipmaker"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "arm",
+   "name": "Arm Holdings",
+   "kind": "public",
+   "ticker": "ARM",
+   "cik": "1973239",
+   "aliases": [
+    "Arm Holdings"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2"
+   ],
+   "roles": [
+    "chip-ip"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "asml",
+   "name": "ASML",
+   "kind": "public",
+   "ticker": "ASML",
+   "cik": "937966",
+   "aliases": [
+    "ASML"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2"
+   ],
+   "roles": [
+    "chip-equipment"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "cerebras",
+   "name": "Cerebras Systems",
+   "kind": "public",
+   "ticker": "CBRS",
+   "cik": "2021728",
+   "aliases": [
+    "Cerebras"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2"
+   ],
+   "roles": [
+    "chipmaker"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "supermicro",
+   "name": "Super Micro Computer",
+   "kind": "public",
+   "ticker": "SMCI",
+   "cik": "1375365",
+   "aliases": [
+    "Super Micro Computer",
+    "Supermicro"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2"
+   ],
+   "roles": [
+    "server-maker"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "dell",
+   "name": "Dell Technologies",
+   "kind": "public",
+   "ticker": "DELL",
+   "cik": "1571996",
+   "aliases": [
+    "Dell Technologies"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2"
+   ],
+   "roles": [
+    "server-maker"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "microsoft",
+   "name": "Microsoft",
+   "kind": "public",
+   "ticker": "MSFT",
+   "cik": "789019",
+   "aliases": [
+    "Microsoft"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D2",
+    "D4",
+    "D6"
+   ],
+   "roles": [
+    "cloud",
+    "ai-investor"
+   ],
+   "lda_clients": [
+    "Microsoft"
+   ],
+   "usaspending_recipients": [
+    "MICROSOFT"
+   ],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "alphabet",
+   "name": "Alphabet / Google",
+   "kind": "public",
+   "ticker": "GOOGL",
+   "cik": "1652044",
+   "aliases": [
+    "Alphabet Inc",
+    "Google"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D2",
+    "D4",
+    "D6"
+   ],
+   "roles": [
+    "cloud",
+    "ai-developer",
+    "ai-investor"
+   ],
+   "lda_clients": [
+    "Google"
+   ],
+   "usaspending_recipients": [
+    "GOOGLE"
+   ],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "amazon",
+   "name": "Amazon / AWS",
+   "kind": "public",
+   "ticker": "AMZN",
+   "cik": "1018724",
+   "aliases": [
+    "Amazon.com",
+    "Amazon Web Services",
+    "Amazon"
+   ],
+   "aliases_case_sensitive": [
+    "AWS"
+   ],
+   "divisions": [
+    "D1",
+    "D2",
+    "D4",
+    "D6"
+   ],
+   "roles": [
+    "cloud",
+    "ai-investor"
+   ],
+   "lda_clients": [
+    "Amazon"
+   ],
+   "usaspending_recipients": [
+    "AMAZON WEB SERVICES"
+   ],
+   "edgar_fulltext": false,
+   "lda_exclude": [
+    "Amazon Watch"
+   ]
+  },
+  {
+   "id": "meta",
+   "name": "Meta Platforms",
+   "kind": "public",
+   "ticker": "META",
+   "cik": "1326801",
+   "aliases": [
+    "Meta Platforms"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D2",
+    "D4",
+    "D6"
+   ],
+   "roles": [
+    "ai-developer",
+    "platform"
+   ],
+   "lda_clients": [
+    "Meta Platforms"
+   ],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "oracle",
+   "name": "Oracle",
+   "kind": "public",
+   "ticker": "ORCL",
+   "cik": "1341439",
+   "aliases": [
+    "Oracle Corporation",
+    "Oracle Corp",
+    "Oracle America"
+   ],
+   "aliases_case_sensitive": [
+    "Oracle"
+   ],
+   "divisions": [
+    "D2",
+    "D4"
+   ],
+   "roles": [
+    "cloud"
+   ],
+   "lda_clients": [
+    "Oracle"
+   ],
+   "usaspending_recipients": [
+    "ORACLE AMERICA"
+   ],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "coreweave",
+   "name": "CoreWeave",
+   "kind": "public",
+   "ticker": "CRWV",
+   "cik": "1769628",
+   "aliases": [
+    "CoreWeave"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2",
+    "D4"
+   ],
+   "roles": [
+    "cloud"
+   ],
+   "lda_clients": [
+    "CoreWeave"
+   ],
+   "usaspending_recipients": [
+    "COREWEAVE"
+   ],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "nebius",
+   "name": "Nebius Group",
+   "kind": "public",
+   "ticker": "NBIS",
+   "cik": "1513845",
+   "aliases": [
+    "Nebius"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2",
+    "D4"
+   ],
+   "roles": [
+    "cloud"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "apple",
+   "name": "Apple",
+   "kind": "public",
+   "ticker": "AAPL",
+   "cik": "320193",
+   "aliases": [
+    "Apple Inc"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D4"
+   ],
+   "roles": [
+    "platform"
+   ],
+   "lda_clients": [
+    "Apple Inc"
+   ],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "ibm",
+   "name": "IBM",
+   "kind": "public",
+   "ticker": "IBM",
+   "cik": "51143",
+   "aliases": [
+    "International Business Machines"
+   ],
+   "aliases_case_sensitive": [
+    "IBM"
+   ],
+   "divisions": [
+    "D2",
+    "D4"
+   ],
+   "roles": [
+    "cloud"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "salesforce",
+   "name": "Salesforce",
+   "kind": "public",
+   "ticker": "CRM",
+   "cik": "1108524",
+   "aliases": [
+    "Salesforce"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D4"
+   ],
+   "roles": [
+    "cloud"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "snowflake",
+   "name": "Snowflake",
+   "kind": "public",
+   "ticker": "SNOW",
+   "cik": "1640147",
+   "aliases": [
+    "Snowflake Inc"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D4"
+   ],
+   "roles": [
+    "cloud"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "palantir",
+   "name": "Palantir Technologies",
+   "kind": "public",
+   "ticker": "PLTR",
+   "cik": "1321655",
+   "aliases": [
+    "Palantir"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2",
+    "D4",
+    "D6"
+   ],
+   "roles": [
+    "ai-contractor"
+   ],
+   "lda_clients": [
+    "Palantir"
+   ],
+   "usaspending_recipients": [
+    "PALANTIR"
+   ],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "tesla",
+   "name": "Tesla",
+   "kind": "public",
+   "ticker": "TSLA",
+   "cik": "1318605",
+   "aliases": [
+    "Tesla, Inc",
+    "Tesla Inc"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2"
+   ],
+   "roles": [
+    "related-party"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "equinix",
+   "name": "Equinix",
+   "kind": "public",
+   "ticker": "EQIX",
+   "cik": "1101239",
+   "aliases": [
+    "Equinix"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2",
+    "D4"
+   ],
+   "roles": [
+    "data-centers"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "digital-realty",
+   "name": "Digital Realty",
+   "kind": "public",
+   "ticker": "DLR",
+   "cik": "1297996",
+   "aliases": [
+    "Digital Realty"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2",
+    "D4"
+   ],
+   "roles": [
+    "data-centers"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "softbank",
+   "name": "SoftBank Group",
+   "kind": "public",
+   "ticker": "SFTBF",
+   "cik": "1065521",
+   "aliases": [
+    "SoftBank"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2",
+    "D3"
+   ],
+   "roles": [
+    "ai-investor"
+   ],
+   "lda_clients": [
+    "SoftBank"
+   ],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "blackrock",
+   "name": "BlackRock",
+   "kind": "public",
+   "ticker": "BLK",
+   "cik": "2012383",
+   "aliases": [
+    "BlackRock"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D3"
+   ],
+   "roles": [
+    "asset-manager"
+   ],
+   "lda_clients": [
+    "BlackRock"
+   ],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "vanguard",
+   "name": "Vanguard Group",
+   "kind": "private",
+   "ticker": null,
+   "cik": null,
+   "aliases": [
+    "Vanguard Group"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D3"
+   ],
+   "roles": [
+    "asset-manager"
+   ],
+   "lda_clients": [
+    "Vanguard"
+   ],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "state-street",
+   "name": "State Street",
+   "kind": "public",
+   "ticker": "STT",
+   "cik": "93751",
+   "aliases": [
+    "State Street"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D3"
+   ],
+   "roles": [
+    "asset-manager"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "jpmorgan",
+   "name": "JPMorgan Chase",
+   "kind": "public",
+   "ticker": "JPM",
+   "cik": "19617",
+   "aliases": [
+    "JPMorgan",
+    "J.P. Morgan"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D3"
+   ],
+   "roles": [
+    "bank"
+   ],
+   "lda_clients": [
+    "JPMorgan"
+   ],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "goldman",
+   "name": "Goldman Sachs",
+   "kind": "public",
+   "ticker": "GS",
+   "cik": "886982",
+   "aliases": [
+    "Goldman Sachs"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D3"
+   ],
+   "roles": [
+    "bank"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "bofa",
+   "name": "Bank of America",
+   "kind": "public",
+   "ticker": "BAC",
+   "cik": "70858",
+   "aliases": [
+    "Bank of America"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D3"
+   ],
+   "roles": [
+    "bank"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "citigroup",
+   "name": "Citigroup",
+   "kind": "public",
+   "ticker": "C",
+   "cik": "831001",
+   "aliases": [
+    "Citigroup",
+    "Citibank"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D3"
+   ],
+   "roles": [
+    "bank"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "wells-fargo",
+   "name": "Wells Fargo",
+   "kind": "public",
+   "ticker": "WFC",
+   "cik": "72971",
+   "aliases": [
+    "Wells Fargo"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D3"
+   ],
+   "roles": [
+    "bank"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "morgan-stanley",
+   "name": "Morgan Stanley",
+   "kind": "public",
+   "ticker": "MS",
+   "cik": "895421",
+   "aliases": [
+    "Morgan Stanley"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D3"
+   ],
+   "roles": [
+    "bank"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "berkshire",
+   "name": "Berkshire Hathaway",
+   "kind": "public",
+   "ticker": "BRK-B",
+   "cik": "1067983",
+   "aliases": [
+    "Berkshire Hathaway"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D3",
+    "D5"
+   ],
+   "roles": [
+    "conglomerate"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "blackstone",
+   "name": "Blackstone",
+   "kind": "public",
+   "ticker": "BX",
+   "cik": "1393818",
+   "aliases": [
+    "Blackstone"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2",
+    "D3"
+   ],
+   "roles": [
+    "private-equity",
+    "data-centers"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "kkr",
+   "name": "KKR",
+   "kind": "public",
+   "ticker": "KKR",
+   "cik": "1404912",
+   "aliases": [
+    "Kohlberg Kravis"
+   ],
+   "aliases_case_sensitive": [
+    "KKR"
+   ],
+   "divisions": [
+    "D3"
+   ],
+   "roles": [
+    "private-equity"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "apollo",
+   "name": "Apollo Global Management",
+   "kind": "public",
+   "ticker": "APO",
+   "cik": "1858681",
+   "aliases": [
+    "Apollo Global"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D3"
+   ],
+   "roles": [
+    "private-credit"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "visa",
+   "name": "Visa",
+   "kind": "public",
+   "ticker": "V",
+   "cik": "1403161",
+   "aliases": [
+    "Visa Inc",
+    "Visa U.S.A."
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D3"
+   ],
+   "roles": [
+    "payments"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "mastercard",
+   "name": "Mastercard",
+   "kind": "public",
+   "ticker": "MA",
+   "cik": "1141391",
+   "aliases": [
+    "Mastercard"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D3"
+   ],
+   "roles": [
+    "payments"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "thrive",
+   "name": "Thrive Capital",
+   "kind": "private",
+   "ticker": null,
+   "cik": null,
+   "aliases": [
+    "Thrive Capital"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2",
+    "D3"
+   ],
+   "roles": [
+    "ai-investor"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": true,
+   "lda_exclude": []
+  },
+  {
+   "id": "a16z",
+   "name": "Andreessen Horowitz",
+   "kind": "private",
+   "ticker": null,
+   "cik": null,
+   "aliases": [
+    "Andreessen Horowitz"
+   ],
+   "aliases_case_sensitive": [
+    "a16z"
+   ],
+   "divisions": [
+    "D3",
+    "D6"
+   ],
+   "roles": [
+    "ai-investor"
+   ],
+   "lda_clients": [
+    "Andreessen Horowitz"
+   ],
+   "usaspending_recipients": [],
+   "edgar_fulltext": true,
+   "lda_exclude": []
+  },
+  {
+   "id": "equifax",
+   "name": "Equifax",
+   "kind": "public",
+   "ticker": "EFX",
+   "cik": null,
+   "aliases": [
+    "Equifax"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D3",
+    "D4"
+   ],
+   "roles": [
+    "credit-bureau"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "transunion",
+   "name": "TransUnion",
+   "kind": "public",
+   "ticker": "TRU",
+   "cik": null,
+   "aliases": [
+    "TransUnion"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D3",
+    "D4"
+   ],
+   "roles": [
+    "credit-bureau"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "experian",
+   "name": "Experian",
+   "kind": "private",
+   "ticker": null,
+   "cik": null,
+   "aliases": [
+    "Experian"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D3",
+    "D4"
+   ],
+   "roles": [
+    "credit-bureau"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "nextera",
+   "name": "NextEra Energy",
+   "kind": "public",
+   "ticker": "NEE",
+   "cik": "753308",
+   "aliases": [
+    "NextEra"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D5"
+   ],
+   "roles": [
+    "utility"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "dominion",
+   "name": "Dominion Energy",
+   "kind": "public",
+   "ticker": "D",
+   "cik": "715957",
+   "aliases": [
+    "Dominion Energy"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D5"
+   ],
+   "roles": [
+    "utility"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "constellation",
+   "name": "Constellation Energy",
+   "kind": "public",
+   "ticker": "CEG",
+   "cik": "1868275",
+   "aliases": [
+    "Constellation Energy"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2",
+    "D5"
+   ],
+   "roles": [
+    "generator"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "vistra",
+   "name": "Vistra",
+   "kind": "public",
+   "ticker": "VST",
+   "cik": "1692819",
+   "aliases": [
+    "Vistra"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D2",
+    "D5"
+   ],
+   "roles": [
+    "generator"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "duke",
+   "name": "Duke Energy",
+   "kind": "public",
+   "ticker": "DUK",
+   "cik": "1326160",
+   "aliases": [
+    "Duke Energy"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D5"
+   ],
+   "roles": [
+    "utility"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "southern",
+   "name": "Southern Company",
+   "kind": "public",
+   "ticker": "SO",
+   "cik": "92122",
+   "aliases": [
+    "Southern Company",
+    "Georgia Power"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D5"
+   ],
+   "roles": [
+    "utility"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "att",
+   "name": "AT&T",
+   "kind": "public",
+   "ticker": "T",
+   "cik": "732717",
+   "aliases": [
+    "AT&T"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D5"
+   ],
+   "roles": [
+    "telecom"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "verizon",
+   "name": "Verizon",
+   "kind": "public",
+   "ticker": "VZ",
+   "cik": "732712",
+   "aliases": [
+    "Verizon"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D5"
+   ],
+   "roles": [
+    "telecom"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "comcast",
+   "name": "Comcast",
+   "kind": "public",
+   "ticker": "CMCSA",
+   "cik": "1166691",
+   "aliases": [
+    "Comcast"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D5"
+   ],
+   "roles": [
+    "telecom"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "charter",
+   "name": "Charter Communications",
+   "kind": "public",
+   "ticker": "CHTR",
+   "cik": "1091667",
+   "aliases": [
+    "Charter Communications"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D5"
+   ],
+   "roles": [
+    "telecom"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "tmobile",
+   "name": "T-Mobile US",
+   "kind": "public",
+   "ticker": "TMUS",
+   "cik": "1283699",
+   "aliases": [
+    "T-Mobile"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D5"
+   ],
+   "roles": [
+    "telecom"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "unitedhealth",
+   "name": "UnitedHealth Group",
+   "kind": "public",
+   "ticker": "UNH",
+   "cik": "731766",
+   "aliases": [
+    "UnitedHealth",
+    "Optum"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D5"
+   ],
+   "roles": [
+    "health-insurer",
+    "pbm"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "cvs",
+   "name": "CVS Health",
+   "kind": "public",
+   "ticker": "CVS",
+   "cik": "64803",
+   "aliases": [
+    "CVS Health",
+    "CVS Caremark",
+    "Aetna"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D5"
+   ],
+   "roles": [
+    "health-insurer",
+    "pbm"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "cigna",
+   "name": "Cigna Group",
+   "kind": "public",
+   "ticker": "CI",
+   "cik": "1739940",
+   "aliases": [
+    "Cigna",
+    "Express Scripts"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D1",
+    "D5"
+   ],
+   "roles": [
+    "health-insurer",
+    "pbm"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  },
+  {
+   "id": "elevance",
+   "name": "Elevance Health",
+   "kind": "public",
+   "ticker": "ELV",
+   "cik": "1156039",
+   "aliases": [
+    "Elevance"
+   ],
+   "aliases_case_sensitive": [],
+   "divisions": [
+    "D5"
+   ],
+   "roles": [
+    "health-insurer"
+   ],
+   "lda_clients": [],
+   "usaspending_recipients": [],
+   "edgar_fulltext": false,
+   "lda_exclude": []
+  }
+ ]
+}

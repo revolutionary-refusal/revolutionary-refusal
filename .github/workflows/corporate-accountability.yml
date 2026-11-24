@@ -1,27 +1,60 @@
 name: Corporate Accountability
+
+# Six collection windows a day on Israel time, with daylight saving handled by GitHub
+# (native IANA timezone support for schedules, March 2026). Minute 17 avoids the
+# top-of-hour queue where scheduled runs are most often delayed or dropped.
 on:
   schedule:
-    - cron: '0 5,6,7,8,11,12,14,15,17,18,20,21 * * *'
+    - cron: '17 8,10,14,17,20,23 * * *'
+      timezone: 'Asia/Jerusalem'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'research/corporate-accountability/accountability/**'
+      - 'research/corporate-accountability/config/**'
+      - 'research/corporate-accountability/tests/**'
+      - 'research/corporate-accountability/run.py'
+      - '.github/workflows/corporate-accountability.yml'
+
 permissions:
   contents: write
+
 concurrency:
   group: corporate-accountability
   cancel-in-progress: false
+
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: research/corporate-accountability
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
+
+      - name: Offline tests
+        run: python3 -m unittest discover -s tests -v
+
       - name: Collect public evidence
-        run: python3 research/corporate-accountability/collect.py
+        id: collect
+        env:
+          # SEC requires a real contact address. Override with a repository variable named SEC_CONTACT.
+          SEC_CONTACT: ${{ vars.SEC_CONTACT || 'billed.annually@protonmail.com' }}
+        run: python3 run.py
+
       - name: Preserve evidence
+        if: always() && steps.collect.outcome != 'skipped'
         run: |
           git config user.name "accountability-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add research/corporate-accountability/
-          if ! git diff --cached --quiet; then
-            git commit -m "Record public-source evidence checks"
-            git push
-          fi
+          git add -A -- ledger runs state divisions LEADS.md STATUS.md
+          if git diff --cached --quiet; then echo "Nothing new to record."; exit 0; fi
+          git commit -q -m "Evidence ledger $(date -u +%Y-%m-%dT%H:%MZ) UTC / $(TZ=Asia/Jerusalem date +'%Y-%m-%d %H:%M') Asia/Jerusalem"
+          for attempt in 1 2 3 4 5; do
+            if git push -q; then exit 0; fi
+            git pull -q --rebase || { git rebase --abort; exit 1; }
+            sleep $((attempt * 5))
+          done
+          exit 1
