@@ -2,7 +2,7 @@
 
 # Open leads (last 30 days)
 
-Generated 2026-11-24T02:10:14+00:00 UTC / 2026-11-24 04:10 Asia/Jerusalem.
+Generated 2026-11-24T02:14:56+00:00 UTC / 2026-11-24 04:14 Asia/Jerusalem.
 
 A lead is a mechanical reason to look closer. It is not an accusation and not a finding. Rules are applied identically to every watched entity:
 

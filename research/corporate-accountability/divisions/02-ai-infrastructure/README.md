@@ -22,7 +22,6 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
-| 2027-03-30 | USAspending.gov (U.S. Treasury) | [Federal contract: District of Columbia Courts to MICROSOFT CORPORATION, $342,004 (award 95C67826P0195)](https://www.usaspending.gov/award/CONT_AWD_95C67826P0195_9534_-NONE-_-NONE-) | Microsoft |  |
 | 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR) | [NVIDIA CORP filed 8-K (Item 5.02: Departure or appointment of directors or officers; Item 9.01)](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm) | NVIDIA |  |
 | 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR) | [ARM HOLDINGS PLC /UK filed 6-K](https://www.sec.gov/Archives/edgar/data/1973239/000197323926000155/arm-20261123.htm) | Arm Holdings |  |
 | 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR) | [Meta Platforms, Inc. filed 8-K (Item 8.01: Other events)](https://www.sec.gov/Archives/edgar/data/1326801/000162828026075541/meta-20261118.htm) | Meta Platforms |  |
@@ -222,6 +221,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-16 | OpenAI | [Our first phase of embedded assessments](https://openai.com/index/our-first-phase-of-embedded-assessments) | OpenAI |  |
 | 2026-11-16 | OpenAI | [More ways to move care forward with ChatGPT for Healthcare](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare) | OpenAI |  |
 | 2026-11-16 | OpenAI | [Advancing computer-use agents for healthcare teams](https://openai.com/index/advancing-computer-use-for-healthcare-teams) | OpenAI |  |
+| 2026-11-16 | OpenAI | [The King’s Trust and OpenAI launch £1m partnership](https://openai.com/index/the-kings-trust-and-openai) | OpenAI |  |
 
 _270 older rows omitted here; all are in `ledger/`._
 
