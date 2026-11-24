@@ -19,13 +19,20 @@ def _link(title: str, url: str) -> str:
     return f"[{_cell(title)}]({url})" if url else _cell(title)
 
 
+def _sort_date(r: dict) -> str:
+    """Published date. A date after first sighting (e.g. a contract's future start date) sorts last."""
+    seen = r["first_seen"]["utc"][:10]
+    pub = r.get("published") or seen
+    return pub if pub <= seen else "0000-00-00"
+
+
 def division_pages(divisions: list[dict], entities: list[dict], records: list[dict], now: dt.datetime) -> None:
     since = now - dt.timedelta(days=30)
     names = {e["id"]: e["name"] for e in entities}
     for d in divisions:
         rows = [r for r in records if d["id"] in r["divisions"]
                 and dt.datetime.fromisoformat(r["first_seen"]["utc"]) >= since]
-        rows.sort(key=lambda r: (r.get("published") or "", r["first_seen"]["utc"]), reverse=True)
+        rows.sort(key=lambda r: (_sort_date(r), r["first_seen"]["utc"]), reverse=True)
         watched = [e for e in entities if d["id"] in e["divisions"]]
         by_class = collections.Counter(r["source_class"] for r in rows)
         out = [BANNER, f"# {d['id']} · {d['title']}\n", f"**Scope.** {d['scope']}\n", "## Standing questions\n"]

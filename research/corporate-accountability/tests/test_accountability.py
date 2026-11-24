@@ -132,6 +132,14 @@ class TestSignalsAndLeads(unittest.TestCase):
         self.assertTrue(any(l["rule"] == "R7" and l["entities"] == ["nvidia"] for l in out))
 
 
+class TestReportOrdering(unittest.TestCase):
+    def test_future_dates_do_not_jump_the_queue(self):
+        future = {"published": "2027-03-30", "first_seen": core.stamp(NOW)}
+        past = {"published": "2026-11-20", "first_seen": core.stamp(NOW)}
+        self.assertEqual(report._sort_date(future), "0000-00-00")
+        self.assertEqual(report._sort_date(past), "2026-11-20")
+
+
 class TestAdaptersOffline(unittest.TestCase):
     def test_sitemap_baseline_then_new(self):
         one = (FIX / "sitemap_1.xml").read_bytes()

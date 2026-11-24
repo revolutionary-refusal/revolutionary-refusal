@@ -56,7 +56,7 @@ def build_leads(records: list[dict], now: dt.datetime, window_days: int = 30, na
     for r in recent:
         for rule, score in score_record(r):
             leads.append({"rule": rule, "score": score, "entities": r["entities"], "records": [r["id"]],
-                          "title": r["title"], "url": r["url"], "date": r.get("published") or r["first_seen"]["utc"][:10],
+                          "title": r["title"], "url": r["url"], "date": min(r.get("published") or "9999", r["first_seen"]["utc"][:10]),
                           "signal": r.get("title_signal"), "source_class": r["source_class"]})
     divs = collections.defaultdict(set)
     ids = collections.defaultdict(list)
