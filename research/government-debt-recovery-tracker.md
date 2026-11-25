@@ -69,3 +69,67 @@ GAO-18-203, issued 2018-02-02: at FY2016 close, $110 billion federal criminal re
 ### Follow-up
 
 D-002: DOJ sentencing announcement dated 2026-09-22 confirms $9,128,515 restitution for Cory Taylor Wright; no payment record established. Prior entries preserved. Obtain signed judgments and actual collection/disbursement records for D-001–009 and R-001; distinguish victim credits, fines, forfeiture receipts and remissions.
+
+## 2026-11-24 — IRS restitution, Medicare order, SBA collections and D-004 follow-up
+
+### Newly documented case obligations
+
+Amounts are from DOJ accounts of court proceedings; signed judgments and payment schedules have not been independently retrieved. UNKNOWN is not zero. Plea commitments are not final orders.
+
+| ID | Debtor / obligor | Creditor / beneficiary | Obligation | Amount ordered | Amount agreed (if not ordered) | Actual recovered | Outstanding balance | Evidence date / status |
+| --- | --- | --- | --- | ---: | ---: | ---: | ---: | --- |
+| D-010 | Keith Williams | IRS | Restitution commitment | UNKNOWN | $46,756,084.89 | UNKNOWN | UNKNOWN | 2026-11-24 guilty plea; sentencing pending |
+| D-011 | Jamari Lewis | IRS | Restitution commitment, same scheme as D-010 | UNKNOWN | $46,756,084.89 | UNKNOWN | UNKNOWN | 2026-11-19 plea, reported 2026-11-24; sentencing scheduled 2027-04-19 |
+| D-012 | Keith Williams | United States | Forfeiture commitment | UNKNOWN | $4,848,998.44 | UNKNOWN | UNKNOWN | 2026-11-24 report |
+| D-013 | Jamari Lewis | United States | Forfeiture commitment | UNKNOWN | $671,511.11 | UNKNOWN | UNKNOWN | 2026-11-24 report |
+| D-014 | Moises Torres | IRS | Restitution commitment | UNKNOWN | Approximately $529,130 | UNKNOWN | UNKNOWN | 2026-11-23 report; sentencing scheduled 2027-02-17 |
+| D-015 | Whitnee Leach | IRS | Criminal restitution | $13,890,697 | N/A | UNKNOWN | UNKNOWN | 2026-11-23 sentencing report |
+| D-016 | Jeannie Negron | IRS | Criminal restitution, same scheme as D-015 | $73,514 | N/A | UNKNOWN | UNKNOWN | 2026-11-23 sentencing report |
+| D-017 | Yolanda Matthews | Medicare | Criminal restitution | $539,300 | N/A | UNKNOWN | UNKNOWN | 2026-11-23 sentencing |
+| D-018 | Yolanda Matthews | United States | Immediate forfeiture ordered | $539,300 | N/A | UNKNOWN | UNKNOWN | 2026-11-23 sentencing; intended return of same funds as D-017 |
+| R-002 | MP Lab Solutions, LLC | United States / Medicare claims | Civil settlement resolving alleged false claims for COVID-19 test kits | N/A (settlement) | $200,000 | $200,000 | $0 for this settlement | 2026-04-21 DOJ report, collections Jan–Mar 2026; explicitly paid in full |
+
+Sources:
+- D-010–013: https://www.justice.gov/opa/pr/new-york-father-and-son-plead-guilty-600m-covid-tax-fraud-scheme
+- D-014: https://www.justice.gov/usao-sdtx/pr/tax-preparer-admits-scheme-involving-deductions-workers-unauthorized-work-us
+- D-015–016: https://www.justice.gov/opa/pr/north-carolina-return-preparers-sentenced-prison-pandemic-relief-fraud-scheme
+- Related scheme history: https://www.justice.gov/opa/pr/sixth-north-carolina-return-preparer-sentenced-239-pandemic-relief-fraud-scheme
+- D-017–018: https://www.justice.gov/opa/pr/adult-day-care-owner-sentenced-15-months-prison-medicare-fraud
+- R-002: https://www.justice.gov/usao-ndoh/pr/us-attorneys-office-reports-more-43m-criminal-and-civil-collections-january-march
+
+D-010/011: more than $600 million sought versus approximately $46 million actually paid by IRS. Identical restitution commitments must not be summed as separate victim losses; joint liability and credits require judgment review. D-012/013 are not additional restitution. D-015/016: approximately $23.9 million claimed versus $13,890,697 paid by IRS (October 13 release); do not add same-scheme restitution amounts to calculate loss or outstanding balance. D-017/018: forfeiture order does not independently establish receipt, disbursement or satisfaction. R-002 is a historical confirmed payment, not new cash received today; settlement resolves allegations rather than establishing a criminal conviction.
+
+### Aggregate delinquent loan referrals and receipts (not all fraud)
+
+GAO-27-107701, published 2026-10-07, released 2026-11-09, Appendix II Table 4; Treasury data as of 2026-02-06. Debtors: delinquent PPP and COVID-19 EIDL borrowers; creditor: SBA/federal government; collection agent: Treasury. Amounts in USD millions.
+
+| Program / collection route | Amount referred | Collected | Remaining balance |
+| --- | ---: | ---: | --- |
+| PPP / Treasury Offset | 7,957 | 40 | UNKNOWN |
+| PPP / Cross-Servicing | 2,878 | 60 | UNKNOWN |
+| COVID-19 EIDL / Treasury Offset | 70,888 | 218 | UNKNOWN |
+| COVID-19 EIDL / Cross-Servicing | 53,674 | 128 | UNKNOWN |
+| GAO reported total | 135,398 | 445 | UNKNOWN |
+
+Use GAO totals rather than summing rounded line items. Referral counts/amounts are not established unique borrower exposure; overlap between collection channels and changes in loan balances are not reconciled here. Do not subtract collections from gross referrals to assert outstanding debt. No court order implied, and delinquency does not prove fraud. GAO also found SBA had not adequately incorporated known fraud risk into its pandemic-program improper-payment sampling plans.
+- https://files.gao.gov/reports/GAO-27-107701/index.html
+
+Separate SBA disclosures (historical, different dates and populations):
+- 2026-04-07 SBA OIG: two unnamed financial institutions returned over $15 million in funds connected to potentially fraudulent loans (March 31 and April 2 wires). OIG reported cumulative direct returns over $86.7 million and broader investigative recoveries over $2.8 billion. Do not add nested measures, treat broader investigative recoveries as verified cash, or assume the institutions were debtors. Case-level balances UNKNOWN.
+  - https://www.sba.gov/sba-newsroom/2026/04/07/sba-oig-advances-fraud-recovery-efforts-facilitates-return-over-15-million-two-financial/
+- 2026-04-24 SBA: $22.2 billion of delinquent PPP/EIDL loans associated with 562,000 suspected-fraud loans referred to Treasury; collections and current outstanding balances not supplied. Suspected fraud is not adjudicated fraud. No addition to GAO referral totals without reconciliation.
+  - https://www.sba.gov/sba-newsroom/2026/04/24/sba-sends-562000-suspected-fraudulent-loans-treasury-collections-totaling-22-billion/
+
+### D-004 — David J. Rush: asset custody versus debt recovery
+
+DOJ's 2026-10-06 release (updated 2026-10-07), case 1:26-cr-00185 (E.D. Va.), reports FBI recovered 298 gold bars, about $2,106,550 cash, EUR 104,795 and watches during a 2026-05-19 search. The gold's approximate historical government acquisition cost was $46 million, not verified liquidation proceeds or current value. The plea includes forfeiture commitments covering those assets, real estate, 30 watches and two vehicles. No independently verified final forfeiture, restitution principal, net cash credited or outstanding balance. Do not deduct asset cost or seized cash from the $193,590,400 fraud figure to claim a remaining debt. Sentencing scheduled 2027-01-28.
+- https://www.justice.gov/opa/pr/former-federal-employee-pleads-guilty-defrauding-federal-government-approximately-194
+
+### Pending monetary orders — Huawei (watch only)
+
+DOJ reported guilty verdicts on 2026-11-24 against Huawei Technologies Co., Ltd., Huawei Device Co. Ltd., Futurewei Technologies Inc. and Huawei Device USA Inc. Financial penalties may include restitution, fines and forfeiture; sentencing scheduled 2027-09-14. Amount ordered, creditor allocations, actual collections and balance UNKNOWN. Not a quantified debt entry.
+- https://www.justice.gov/opa/pr/chinese-tech-giant-huawei-and-subsidiaries-convicted-sanctions-violations-fraud-conspiracy
+
+### Evidence gaps
+
+Signed judgments, plea instruments and case-level payment/disbursement records were not retrieved in this review. Obtain them for overlapping IRS obligations and Matthews forfeiture credits; reconcile Treasury referral cohorts and OIG recovery definitions before asserting unpaid balances. Prior entries retained unchanged.
