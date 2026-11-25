@@ -2,7 +2,7 @@
 
 # Open leads (last 30 days)
 
-Generated 2026-11-24T17:48:21+00:00 UTC / 2026-11-24 19:48 Asia/Jerusalem.
+Generated 2026-11-25T02:31:34+00:00 UTC / 2026-11-25 04:31 Asia/Jerusalem.
 
 A lead is a mechanical reason to look closer. It is not an accusation and not a finding. Rules are applied identically to every watched entity:
 
@@ -14,7 +14,7 @@ A lead is a mechanical reason to look closer. It is not an accusation and not a 
 - **R6** A watched entity registered a new lobbying relationship or reported $500k+ in a quarter
 - **R7** The same entity surfaced in four or more divisions within 30 days (convergence; low priority, large firms trip it often)
 
-Leads by rule: R1 5, R2 161, R3 17, R4 95, R5 38, R6 21, R7 12
+Leads by rule: R1 5, R2 202, R3 17, R4 101, R5 38, R6 21, R7 12
 
 | Score | Rule | Date | Entities | Document | Signal |
 |---|---|---|---|---|---|
@@ -95,6 +95,53 @@ Leads by rule: R1 5, R2 161, R3 17, R4 95, R5 38, R6 21, R7 12
 | 2 | R2 | 2026-11-24 | Apple | [Federal case: LBT IP I LLC v. Apple Inc.](https://www.courtlistener.com/docket/15865411/lbt-ip-i-llc-v-apple-inc/) |  |
 | 2 | R2 | 2026-11-24 | Apple | [Federal case: APPLE INC. SMARTPHONE ANTITRUST LITIGATION](https://www.courtlistener.com/docket/68869775/apple-inc-smartphone-antitrust-litigation/) |  |
 | 2 | R2 | 2026-11-24 | Apple | [Federal case: UNITED STATES OF AMERICA v. APPLE INC.](https://www.courtlistener.com/docket/68362334/united-states-of-america-v-apple-inc/) |  |
+| 2 | R4 | 2026-11-24 | OpenAI | [Zoom Communications, Inc. (ZM) 10-Q filed 2026-11-24 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1585521/000158552126000173/0001585521-26-000173-index.htm) |  |
+| 2 | R4 | 2026-11-24 | OpenAI | [Patriot Mobile Inc. S-1/A filed 2026-11-24 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/2148546/000110465926131695/0001104659-26-131695-index.htm) |  |
+| 2 | R4 | 2026-11-24 | Anthropic, PBC | [Zoom Communications, Inc. (ZM) 10-Q filed 2026-11-24 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1585521/000158552126000173/0001585521-26-000173-index.htm) |  |
+| 2 | R4 | 2026-11-24 | Anthropic, PBC | [Workday, Inc. (WDAY) 8-K filed 2026-11-24 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1327811/000132781126000057/0001327811-26-000057-index.htm) |  |
+| 2 | R4 | 2026-11-24 | Anthropic, PBC | [Patriot Mobile Inc. S-1/A filed 2026-11-24 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/2148546/000110465926131695/0001104659-26-131695-index.htm) |  |
+| 2 | R4 | 2026-11-24 | Anthropic, PBC | [CLEANSPARK, INC. (CLSK, CLSKW) 10-K filed 2026-11-24 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/827876/000119312526476040/0001193125-26-476040-index.htm) |  |
+| 2 | R2 | 2026-11-24 | OpenAI | [Federal case: Checchia v. OpenAI OpCo, LLC](https://www.courtlistener.com/docket/75013883/checchia-v-openai-opco-llc/) |  |
+| 2 | R2 | 2026-11-24 | OpenAI | [Federal case: Swint v. OpenAI OpCo, LLC](https://www.courtlistener.com/docket/75113344/swint-v-openai-opco-llc/) |  |
+| 2 | R2 | 2026-11-24 | OpenAI | [Federal case: SpaceX Super Intelligence LLC v. OpenAI Inc](https://www.courtlistener.com/docket/71191818/spacex-super-intelligence-llc-v-openai-inc/) |  |
+| 2 | R2 | 2026-11-24 | Anthropic, PBC | [Federal case: Round Hill Music LP v. Anthropic PBC](https://www.courtlistener.com/docket/74658311/round-hill-music-lp-v-anthropic-pbc/) |  |
+| 2 | R2 | 2026-11-24 | Anthropic, PBC | [Federal case: ABG EPE IP LLC v. Anthropic PBC](https://www.courtlistener.com/docket/75016087/abg-epe-ip-llc-v-anthropic-pbc/) |  |
+| 2 | R2 | 2026-11-24 | xAI | [Federal case: Al-Khatahtbeh v. X.AI Corp.](https://www.courtlistener.com/docket/75136939/al-khatahtbeh-v-xai-corp/) |  |
+| 2 | R2 | 2026-11-24 | NVIDIA | [Federal case: Hamilcar Barca IP LLC v. NVIDIA Corp.](https://www.courtlistener.com/docket/69945997/hamilcar-barca-ip-llc-v-nvidia-corp/) |  |
+| 2 | R2 | 2026-11-24 | NVIDIA | [Federal case: SiliconArts Technology US Inc. v. NVIDIA Corporation](https://www.courtlistener.com/docket/69771536/siliconarts-technology-us-inc-v-nvidia-corporation/) |  |
+| 2 | R2 | 2026-11-24 | Microsoft | [Federal case: Edge Networking Systems, LLC v. Microsoft Corporation](https://www.courtlistener.com/docket/68299975/edge-networking-systems-llc-v-microsoft-corporation/) |  |
+| 2 | R2 | 2026-11-24 | Microsoft | [Federal case: Sterling Computers Corporation v. Microsoft Corporation](https://www.courtlistener.com/docket/68446515/sterling-computers-corporation-v-microsoft-corporation/) |  |
+| 2 | R2 | 2026-11-24 | Microsoft | [Federal case: Exafer Ltd v. Microsoft Corporation](https://www.courtlistener.com/docket/17219726/exafer-ltd-v-microsoft-corporation/) |  |
+| 2 | R2 | 2026-11-24 | Alphabet / Google | [Federal case: Kwitny v. Google LLC](https://www.courtlistener.com/docket/71956788/kwitny-v-google-llc/) |  |
+| 2 | R2 | 2026-11-24 | Alphabet / Google | [Federal case: Network-1 Technologies, Inc. v. Google, L.L.C.](https://www.courtlistener.com/docket/4354514/network-1-technologies-inc-v-google-llc/) |  |
+| 2 | R2 | 2026-11-24 | Alphabet / Google | [Federal case: Network-1 Technologies, Inc. v. Google, L.L.C.](https://www.courtlistener.com/docket/4522893/network-1-technologies-inc-v-google-llc/) |  |
+| 2 | R2 | 2026-11-24 | Alphabet / Google | [Federal case: AMRS Creditors Trust v. Google LLC](https://www.courtlistener.com/docket/71059620/amrs-creditors-trust-v-google-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Kermanshahi v. Amazon Web Services, Inc.](https://www.courtlistener.com/docket/73261701/kermanshahi-v-amazon-web-services-inc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Tracy Boyden v. Amazon.com Services LLC](https://www.courtlistener.com/docket/75081490/tracy-boyden-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Nicholas Shoemake v. Amazon.com Services LLC](https://www.courtlistener.com/docket/69782237/nicholas-shoemake-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: De Vasquez v. Amazon.com Services LLC](https://www.courtlistener.com/docket/69899972/de-vasquez-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Molosky v. Amazon Web Services, Inc.](https://www.courtlistener.com/docket/69604218/molosky-v-amazon-web-services-inc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Siemasko v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/74812184/siemasko-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Ajagbawa v. Amazon.com Services LLC](https://www.courtlistener.com/docket/70808521/ajagbawa-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Amorosino v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/70251306/amorosino-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: Lopez v. Amazon.com Inc](https://www.courtlistener.com/docket/73542276/lopez-v-amazoncom-inc/) |  |
+| 2 | R2 | 2026-11-24 | Amazon / AWS | [Federal case: State Farm General Insurance Company v. Amazon.com Services, Inc.](https://www.courtlistener.com/docket/72356256/state-farm-general-insurance-company-v-amazoncom-services-inc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: Red Bud Community Unit School District No. 132 v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75167915/red-bud-community-unit-school-district-no-132-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: Lebanon Community Unit School District No. 9 v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75168558/lebanon-community-unit-school-district-no-9-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: S. v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75152484/s-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: P. v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75119065/p-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: Cochrane-Fountain City School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75109874/cochrane-fountain-city-school-district-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: Glenwood City School District Board of Education v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75168514/glenwood-city-school-district-board-of-education-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Meta Platforms | [Federal case: Oregon Community Unit School District No. 220 v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75141119/oregon-community-unit-school-district-no-220-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-24 | Oracle | [Federal case: Vandever v. Oracle America Inc](https://www.courtlistener.com/docket/69591864/vandever-v-oracle-america-inc/) |  |
+| 2 | R2 | 2026-11-24 | Oracle | [Federal case: Hutman, Trustee v. Oracle Corporation](https://www.courtlistener.com/docket/75011159/hutman-trustee-v-oracle-corporation/) |  |
+| 2 | R2 | 2026-11-24 | Oracle | [Federal case: Oracle Corporation v. Vilox Technologies, LLC](https://www.courtlistener.com/docket/66781066/oracle-corporation-v-vilox-technologies-llc/) |  |
+| 2 | R2 | 2026-11-24 | Apple | [Federal case: LaBella v. Apple Inc](https://www.courtlistener.com/docket/69338391/labella-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-24 | Apple | [Federal case: Emmons v. Apple, Inc.](https://www.courtlistener.com/docket/72178673/emmons-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-24 | Apple | [Federal case: Landsheft v. Apple Inc.](https://www.courtlistener.com/docket/69759747/landsheft-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-24 | Apple | [Federal case: United States v. Apple, Inc One Apple Park Way, Cupertino, CA 95014; 213-219-9676](https://www.courtlistener.com/docket/75171910/united-states-v-apple-inc-one-apple-park-way-cupertino-ca-95014/) |  |
+| 2 | R2 | 2026-11-24 | Apple | [Federal case: Jane Doe GS-0006 v. Apple Inc.](https://www.courtlistener.com/docket/75152517/jane-doe-gs-0006-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-24 | Apple | [Federal case: SpaceTime3D, Inc. v. Apple Inc.](https://www.courtlistener.com/docket/67406445/spacetime3d-inc-v-apple-inc/) |  |
 | 2 | R4 | 2026-11-23 | OpenAI | [BITMINE IMMERSION TECHNOLOGIES, INC. (BMNP, BMNR) 8-K filed 2026-11-23 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1829311/000149315226053668/0001493152-26-053668-index.htm) |  |
 | 2 | R4 | 2026-11-23 | OpenAI | [CrowdStrike Holdings, Inc. (CRWD) 8-K filed 2026-11-23 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/0001535527-26-000035-index.htm) |  |
 | 2 | R4 | 2026-11-23 | Anthropic, PBC | [CrowdStrike Holdings, Inc. (CRWD) 8-K filed 2026-11-23 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/0001535527-26-000035-index.htm) |  |
@@ -271,50 +318,3 @@ Leads by rule: R1 5, R2 161, R3 17, R4 95, R5 38, R6 21, R7 12
 | 2 | R4 | 2026-11-09 | Anthropic, PBC | [FiscalNote Holdings, Inc. (NOTE, NOTEW) 8-K filed 2026-11-09 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1823466/000119312526453689/0001193125-26-453689-index.htm) |  |
 | 2 | R4 | 2026-11-09 | Constellation Energy | [Constellation Energy Corp (CEG) 10-Q filed 2026-11-09 contains "data center" "private credit"](https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/0001868275-26-000119-index.htm) |  |
 | 2 | R4 | 2026-11-06 | OpenAI | [WEC ENERGY GROUP, INC. (WEC) 8-K filed 2026-11-06 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/783325/000078332526000109/0000783325-26-000109-index.htm) |  |
-| 2 | R4 | 2026-11-06 | OpenAI | [YELP INC (YELP) 10-Q filed 2026-11-06 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1345016/000134501626000075/0001345016-26-000075-index.htm) |  |
-| 2 | R4 | 2026-11-06 | OpenAI | [ZIFF DAVIS, INC. (ZD) 10-Q filed 2026-11-06 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1084048/000108404826000052/0001084048-26-000052-index.htm) |  |
-| 2 | R4 | 2026-11-06 | Anthropic, PBC | [TERAWULF INC. (WULF) 10-Q filed 2026-11-06 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1083301/000162828026071671/0001628280-26-071671-index.htm) |  |
-| 2 | R4 | 2026-11-06 | Anthropic, PBC | [TERAWULF INC. (WULF) 8-K filed 2026-11-06 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1083301/000162828026071306/0001628280-26-071306-index.htm) |  |
-| 2 | R4 | 2026-11-06 | Anthropic, PBC | [AKAMAI TECHNOLOGIES INC (AKAM) 10-Q filed 2026-11-06 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1086222/000108622226000100/0001086222-26-000100-index.htm) |  |
-| 2 | R4 | 2026-11-06 | OpenAI | [WEC ENERGY GROUP, INC. (WEC) 8-K filed 2026-11-06 contains "Stargate" "OpenAI"](https://www.sec.gov/Archives/edgar/data/783325/000078332526000109/0000783325-26-000109-index.htm) |  |
-| 2 | R5 | 2026-11-06 | Palantir Technologies | [Federal contract: Department of the Treasury to PALANTIR TECHNOLOGIES INC., $4,899,522 (award 205AE927F00003)](https://www.usaspending.gov/award/CONT_AWD_205AE927F00003_2050_205AE926A00004_2050) |  |
-| 2 | R4 | 2026-11-05 | OpenAI | [Atlassian Corp (TEAM) 8-K filed 2026-11-05 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1650372/000165037226000049/0001650372-26-000049-index.htm) |  |
-| 2 | R4 | 2026-11-05 | OpenAI | [Ginkgo Bioworks Holdings, Inc. (DNA) 8-K filed 2026-11-05 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1830214/000162828026071022/0001628280-26-071022-index.htm) |  |
-| 2 | R4 | 2026-11-05 | OpenAI | [Braemar Hotels & Resorts Inc. (BHR, BHR-PB, BHR-PD) 8-K filed 2026-11-05 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1574085/000157408526000172/0001574085-26-000172-index.htm) |  |
-| 2 | R4 | 2026-11-05 | OpenAI | [Brilliant Earth Group, Inc. (BRLT) 10-Q filed 2026-11-05 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1866757/000162828026071113/0001628280-26-071113-index.htm) |  |
-| 2 | R4 | 2026-11-05 | OpenAI | [YELP INC (YELP) 8-K filed 2026-11-05 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1345016/000134501626000072/0001345016-26-000072-index.htm) |  |
-| 2 | R4 | 2026-11-05 | OpenAI | [INSIGHT ENTERPRISES INC (NSIT) 8-K filed 2026-11-05 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/932696/000093269626000076/0000932696-26-000076-index.htm) |  |
-| 2 | R4 | 2026-11-05 | OpenAI | [Coursera, Inc. (COUR) 10-Q filed 2026-11-05 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1651562/000165156226000072/0001651562-26-000072-index.htm) |  |
-| 2 | R4 | 2026-11-05 | OpenAI | [Apollo Debt Solutions BDC 10-Q filed 2026-11-05 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1837532/000119312526449955/0001193125-26-449955-index.htm) |  |
-| 2 | R4 | 2026-11-05 | Anthropic, PBC | [Braemar Hotels & Resorts Inc. (BHR, BHR-PB, BHR-PD) 8-K filed 2026-11-05 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1574085/000157408526000172/0001574085-26-000172-index.htm) |  |
-| 2 | R4 | 2026-11-05 | Anthropic, PBC | [10x Genomics, Inc. (TXG) 8-K filed 2026-11-05 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1770787/000162828026071025/0001628280-26-071025-index.htm) |  |
-| 2 | R4 | 2026-11-05 | Anthropic, PBC | [McGraw Hill, Inc. (MH) 8-K filed 2026-11-05 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1951070/000195107026000053/0001951070-26-000053-index.htm) |  |
-| 2 | R4 | 2026-11-05 | Anthropic, PBC | [AvePoint, Inc. (AVPT) 8-K filed 2026-11-05 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1777921/000117184326007179/0001171843-26-007179-index.htm) |  |
-| 2 | R4 | 2026-11-05 | Anthropic, PBC | [Atlassian Corp (TEAM) 8-K filed 2026-11-05 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1650372/000165037226000049/0001650372-26-000049-index.htm) |  |
-| 2 | R4 | 2026-11-05 | Anthropic, PBC | [CENTURY ALUMINUM CO (CENX) 10-Q filed 2026-11-05 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/949157/000162828026071033/0001628280-26-071033-index.htm) |  |
-| 2 | R4 | 2026-11-05 | Anthropic, PBC | [NEWS CORP (NWS, NWSA, NWSLL) 10-Q filed 2026-11-05 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1564708/000156470826000250/0001564708-26-000250-index.htm) |  |
-| 2 | R4 | 2026-11-05 | Anthropic, PBC | [Coursera, Inc. (COUR) 10-Q filed 2026-11-05 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1651562/000165156226000072/0001651562-26-000072-index.htm) |  |
-| 2 | R4 | 2026-11-05 | Anthropic, PBC | [Athene Holding Ltd. (ATHS, ATH-PA, ATH-PB, ATH-PD, ATH-PE) 10-Q filed 2026-11-05 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1527469/000152746926000085/0001527469-26-000085-index.htm) |  |
-| 2 | R4 | 2026-11-05 | Anthropic, PBC, Apollo Global Management | [Apollo Global Management, Inc. (APO, APOS) 10-Q filed 2026-11-05 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1858681/000185868126000067/0001858681-26-000067-index.htm) |  |
-| 2 | R4 | 2026-11-05 | Southern Company | [SOUTHERN CO (SO, SOJC, SOJD, SOJE, SOJF, SOMN) 10-Q filed 2026-11-05 contains "data center" "private credit"](https://www.sec.gov/Archives/edgar/data/92122/000009212226000069/0000092122-26-000069-index.htm) |  |
-| 2 | R4 | 2026-11-04 | OpenAI | [NEW YORK TIMES CO (NYT) 10-Q filed 2026-11-04 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/71691/000007169126000041/0000071691-26-000041-index.htm) |  |
-| 2 | R4 | 2026-11-04 | OpenAI | [Neostellar Capital Corp. (NSLR, NSLRL) 10-Q filed 2026-11-04 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1509470/000149315226049893/0001493152-26-049893-index.htm) |  |
-| 2 | R4 | 2026-11-04 | OpenAI | [ZoomInfo Technologies Inc. (GTM) 8-K filed 2026-11-04 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1794515/000179451526000066/0001794515-26-000066-index.htm) |  |
-| 2 | R4 | 2026-11-04 | OpenAI | [NEWS CORP (NWS, NWSA, NWSLL) 8-K filed 2026-11-04 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1564708/000156470826000248/0001564708-26-000248-index.htm) |  |
-| 2 | R4 | 2026-11-04 | Advanced Micro Devices, OpenAI | [ADVANCED MICRO DEVICES INC (AMD) 10-Q filed 2026-11-04 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/0000002488-26-000191-index.htm) |  |
-| 2 | R4 | 2026-11-04 | OpenAI | [Flywire Corp (FLYW) 10-Q filed 2026-11-04 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1580560/000162828026069661/0001628280-26-069661-index.htm) |  |
-| 2 | R4 | 2026-11-04 | Anthropic, PBC | [TERAWULF INC. (WULF) 8-K filed 2026-11-04 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1083301/000162828026069810/0001628280-26-069810-index.htm) |  |
-| 2 | R4 | 2026-11-04 | Anthropic, PBC | [ZoomInfo Technologies Inc. (GTM) 8-K filed 2026-11-04 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1794515/000179451526000066/0001794515-26-000066-index.htm) |  |
-| 2 | R4 | 2026-11-04 | Anthropic, PBC | [Figma, Inc. (FIG) 10-Q filed 2026-11-04 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1579878/000162828026070272/0001628280-26-070272-index.htm) |  |
-| 2 | R4 | 2026-11-04 | Anthropic, PBC | [Riot Platforms, Inc. (RIOT) 10-Q filed 2026-11-04 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1167419/000110465926122417/0001104659-26-122417-index.htm) |  |
-| 2 | R2 | 2026-11-04 | CoreWeave | [Federal case: NextGen Innovations, LLC v. CoreWeave, Inc.](https://www.courtlistener.com/docket/74912010/nextgen-innovations-llc-v-coreweave-inc/) |  |
-| 2 | R4 | 2026-11-03 | OpenAI | [Neostellar Capital Corp. (NSLR, NSLRL) 8-K filed 2026-11-03 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1509470/000149315226049794/0001493152-26-049794-index.htm) |  |
-| 2 | R4 | 2026-11-03 | Advanced Micro Devices, OpenAI | [ADVANCED MICRO DEVICES INC (AMD) 8-K filed 2026-11-03 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/0000002488-26-000188-index.htm) |  |
-| 2 | R4 | 2026-11-03 | OpenAI | [Arista Networks, Inc. (ANET) 8-K filed 2026-11-03 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1596532/000159653226000252/0001596532-26-000252-index.htm) |  |
-| 2 | R4 | 2026-11-03 | Advanced Micro Devices, Anthropic, PBC | [ADVANCED MICRO DEVICES INC (AMD) 8-K filed 2026-11-03 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/0000002488-26-000188-index.htm) |  |
-| 2 | R4 | 2026-11-03 | Anthropic, PBC | [Arista Networks, Inc. (ANET) 8-K filed 2026-11-03 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1596532/000159653226000252/0001596532-26-000252-index.htm) |  |
-| 2 | R4 | 2026-11-03 | Anthropic, PBC | [Tenable Holdings, Inc. (TENB) 10-Q filed 2026-11-03 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1660280/000166028026000054/0001660280-26-000054-index.htm) |  |
-| 2 | R6 | 2026-11-03 | Advanced Micro Devices | [Lobbying: ADVANCED MICRO DEVICES, INC. (AMD) — Registration 2026, registrant SALT POINT STRATEGIES](https://lda.gov/filings/public/filing/a97d6f3d-20c7-4fae-9f3a-4d53f7e30b05/print/) |  |
-| 2 | R5 | 2026-10-28 | Microsoft | [Federal contract: Social Security Administration to MICROSOFT CORPORATION, $1,404,437 (award 28321327FDS030010)](https://www.usaspending.gov/award/CONT_AWD_28321327FDS030010_2800_28321324D00060001_2800) |  |
-| 2 | R5 | 2026-10-26 | Anthropic, PBC | [Federal contract: Department of Health and Human Services to ANTHROPIC, PBC, $4,842,000 (award 7571TE27C00002)](https://www.usaspending.gov/award/CONT_AWD_7571TE27C00002_7571_-NONE-_-NONE-) |  |
-| 2 | R5 | 2026-10-26 | Anthropic, PBC | [Federal contract: Department of Health and Human Services to ANTHROPIC, PBC, $3,573,000 (award 7571TE27C00003)](https://www.usaspending.gov/award/CONT_AWD_7571TE27C00003_7571_-NONE-_-NONE-) |  |

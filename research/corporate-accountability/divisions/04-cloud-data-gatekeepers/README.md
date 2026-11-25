@@ -14,14 +14,48 @@
 
 Microsoft, Alphabet / Google, Amazon / AWS, Meta Platforms, Oracle, CoreWeave, Nebius Group, Apple, IBM, Salesforce, Snowflake, Palantir Technologies, Equinix, Digital Realty, Equifax, TransUnion, Experian
 
-## Records first seen in the last 30 days (170)
+## Records first seen in the last 30 days (204)
 
-By kind: court-record 112, regulatory-filing 27, government-award 18, regulator-statement 7, oversight-report 2, lobbying-disclosure 2, company-statement 1, complaint-database 1
+By kind: court-record 145, regulatory-filing 28, government-award 18, regulator-statement 7, oversight-report 2, lobbying-disclosure 2, company-statement 1, complaint-database 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-24 | U.S. Securities and Exchange Commission (EDGAR) | [Alphabet Inc. filed 8-K (Item 8.01: Other events; Item 9.01)](https://www.sec.gov/Archives/edgar/data/1652044/000119312526475973/d91615d8k.htm) | Alphabet / Google |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Edge Networking Systems, LLC v. Microsoft Corporation](https://www.courtlistener.com/docket/68299975/edge-networking-systems-llc-v-microsoft-corporation/) | Microsoft |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Sterling Computers Corporation v. Microsoft Corporation](https://www.courtlistener.com/docket/68446515/sterling-computers-corporation-v-microsoft-corporation/) | Microsoft |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Exafer Ltd v. Microsoft Corporation](https://www.courtlistener.com/docket/17219726/exafer-ltd-v-microsoft-corporation/) | Microsoft |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Kwitny v. Google LLC](https://www.courtlistener.com/docket/71956788/kwitny-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Network-1 Technologies, Inc. v. Google, L.L.C.](https://www.courtlistener.com/docket/4354514/network-1-technologies-inc-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Network-1 Technologies, Inc. v. Google, L.L.C.](https://www.courtlistener.com/docket/4522893/network-1-technologies-inc-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: AMRS Creditors Trust v. Google LLC](https://www.courtlistener.com/docket/71059620/amrs-creditors-trust-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Kermanshahi v. Amazon Web Services, Inc.](https://www.courtlistener.com/docket/73261701/kermanshahi-v-amazon-web-services-inc/) | Amazon / AWS |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Tracy Boyden v. Amazon.com Services LLC](https://www.courtlistener.com/docket/75081490/tracy-boyden-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Nicholas Shoemake v. Amazon.com Services LLC](https://www.courtlistener.com/docket/69782237/nicholas-shoemake-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: De Vasquez v. Amazon.com Services LLC](https://www.courtlistener.com/docket/69899972/de-vasquez-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Molosky v. Amazon Web Services, Inc.](https://www.courtlistener.com/docket/69604218/molosky-v-amazon-web-services-inc/) | Amazon / AWS |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Siemasko v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/74812184/siemasko-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Ajagbawa v. Amazon.com Services LLC](https://www.courtlistener.com/docket/70808521/ajagbawa-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Amorosino v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/70251306/amorosino-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Lopez v. Amazon.com Inc](https://www.courtlistener.com/docket/73542276/lopez-v-amazoncom-inc/) | Amazon / AWS |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: State Farm General Insurance Company v. Amazon.com Services, Inc.](https://www.courtlistener.com/docket/72356256/state-farm-general-insurance-company-v-amazoncom-services-inc/) | Amazon / AWS |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Red Bud Community Unit School District No. 132 v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75167915/red-bud-community-unit-school-district-no-132-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Lebanon Community Unit School District No. 9 v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75168558/lebanon-community-unit-school-district-no-9-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: S. v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75152484/s-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: P. v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75119065/p-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Cochrane-Fountain City School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75109874/cochrane-fountain-city-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Glenwood City School District Board of Education v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75168514/glenwood-city-school-district-board-of-education-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Oregon Community Unit School District No. 220 v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75141119/oregon-community-unit-school-district-no-220-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Vandever v. Oracle America Inc](https://www.courtlistener.com/docket/69591864/vandever-v-oracle-america-inc/) | Oracle |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Hutman, Trustee v. Oracle Corporation](https://www.courtlistener.com/docket/75011159/hutman-trustee-v-oracle-corporation/) | Oracle |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Oracle Corporation v. Vilox Technologies, LLC](https://www.courtlistener.com/docket/66781066/oracle-corporation-v-vilox-technologies-llc/) | Oracle |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: LaBella v. Apple Inc](https://www.courtlistener.com/docket/69338391/labella-v-apple-inc/) | Apple |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Emmons v. Apple, Inc.](https://www.courtlistener.com/docket/72178673/emmons-v-apple-inc/) | Apple |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Landsheft v. Apple Inc.](https://www.courtlistener.com/docket/69759747/landsheft-v-apple-inc/) | Apple |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: United States v. Apple, Inc One Apple Park Way, Cupertino, CA 95014; 213-219-9676](https://www.courtlistener.com/docket/75171910/united-states-v-apple-inc-one-apple-park-way-cupertino-ca-95014/) | Apple |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Jane Doe GS-0006 v. Apple Inc.](https://www.courtlistener.com/docket/75152517/jane-doe-gs-0006-v-apple-inc/) | Apple |  |
+| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: SpaceTime3D, Inc. v. Apple Inc.](https://www.courtlistener.com/docket/67406445/spacetime3d-inc-v-apple-inc/) | Apple |  |
 | 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Tuntland v. Microsoft Corporation](https://www.courtlistener.com/docket/74646041/tuntland-v-microsoft-corporation/) | Microsoft |  |
 | 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Aptoide, S.A. v. Google LLC](https://www.courtlistener.com/docket/73188828/aptoide-sa-v-google-llc/) | Alphabet / Google |  |
 | 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Hachette Book Group, Inc. v. Google LLC](https://www.courtlistener.com/docket/73603888/hachette-book-group-inc-v-google-llc/) | Alphabet / Google |  |
@@ -188,9 +222,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-04-01 | USAspending.gov (U.S. Treasury) | [Federal contract: Department of Justice to AMAZON WEB SERVICES, INC., $1,007,726 (award 15JPSS26F00000971)](https://www.usaspending.gov/award/CONT_AWD_15JPSS26F00000971_1501_47QTCA19D000C_4732) | Amazon / AWS |  |
 | 2026-04-01 | USAspending.gov (U.S. Treasury) | [Federal contract: Department of Energy to AMAZON WEB SERVICES, INC., $746,071 (award 89303026PET000035)](https://www.usaspending.gov/award/CONT_AWD_89303026PET000035_8900_-NONE-_-NONE-) | Amazon / AWS |  |
 | 2026-02-17 | USAspending.gov (U.S. Treasury) | [Federal contract: Department of Energy to AMAZON WEB SERVICES, INC., $394,496 (award 89233126PNA000209)](https://www.usaspending.gov/award/CONT_AWD_89233126PNA000209_8900_-NONE-_-NONE-) | Amazon / AWS |  |
-| 2025-07-18 | USAspending.gov (U.S. Treasury) | [Federal contract: Department of Justice to AMAZON WEB SERVICES, INC., $330,000 (award 15JPSS25F00000588)](https://www.usaspending.gov/award/CONT_AWD_15JPSS25F00000588_1501_47QTCA19D000C_4732) | Amazon / AWS |  |
-| 2024-10-01 | USAspending.gov (U.S. Treasury) | [Federal contract: Department of Justice to AMAZON WEB SERVICES, INC., $4,977,942 (award 15JPSS24F00000875)](https://www.usaspending.gov/award/CONT_AWD_15JPSS24F00000875_1501_15JPSS21A00000237_1501) | Amazon / AWS |  |
-| 2021-06-14 | USAspending.gov (U.S. Treasury) | [Federal contract: General Services Administration to AMAZON WEB SERVICES, INC., $104,554,319 (award 47QDCB21F0015)](https://www.usaspending.gov/award/CONT_AWD_47QDCB21F0015_4732_47QTCA19D000C_4732) | Amazon / AWS |  |
-| 2020-05-21 | USAspending.gov (U.S. Treasury) | [Federal contract: U.S. International Development Finance Corporation to ORACLE AMERICA, INC, $2,062,195 (award 77344420C0012)](https://www.usaspending.gov/award/CONT_AWD_77344420C0012_7700_-NONE-_-NONE-) | Oracle |  |
+
+_4 older rows omitted here; all are in `ledger/`._
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.
