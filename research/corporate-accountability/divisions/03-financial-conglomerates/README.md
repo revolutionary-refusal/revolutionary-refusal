@@ -14,14 +14,15 @@
 
 SoftBank Group, BlackRock, Vanguard Group, State Street, JPMorgan Chase, Goldman Sachs, Bank of America, Citigroup, Wells Fargo, Morgan Stanley, Berkshire Hathaway, Blackstone, KKR, Apollo Global Management, Visa, Mastercard, Thrive Capital, Andreessen Horowitz, Equifax, TransUnion, Experian
 
-## Records first seen in the last 30 days (96)
+## Records first seen in the last 30 days (97)
 
-By kind: regulatory-filing 58, lobbying-disclosure 15, regulator-notice 14, regulator-statement 8, complaint-database 1
+By kind: regulatory-filing 59, lobbying-disclosure 15, regulator-notice 14, regulator-statement 8, complaint-database 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-25 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Morningstar, Inc. (MORN) 8-K filed 2026-11-25 contains "data center" "private credit"](https://www.sec.gov/Archives/edgar/data/1289419/000128941926000058/0001289419-26-000058-index.htm) |  |  |
 | 2026-11-25 | U.S. Lobbying Disclosure Act filings (LDA.gov) | [Lobbying: META PLATFORMS INC (FORMERLY FACEBOOK INC AND VARIOUS SUBSIDIARIES — 2nd Quarter - Amendment 2026, registrant HOLLIER & ASSOCIATES, reported $22,500](https://lda.gov/filings/public/filing/6c4a1fff-30ba-4089-a165-42109baab848/print/) | Meta Platforms |  |
 | 2026-11-24 | Federal Register (Securities and Exchange Commission) | [Proposed Rule: Restructuring the Governance and Funding Model of the Consolidated Audit Trail](https://www.federalregister.gov/documents/2026/11/24/2026-23951/restructuring-the-governance-and-funding-model-of-the-consolidated-audit-trail) |  | rulemaking |
 | 2026-11-24 | Federal Register (Federal Reserve System) | [Notice: Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company](https://www.federalregister.gov/documents/2026/11/24/2026-23904/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company) |  |  |

@@ -14,14 +14,41 @@
 
 Microsoft, Alphabet / Google, Amazon / AWS, Meta Platforms, Oracle, CoreWeave, Nebius Group, Apple, IBM, Salesforce, Snowflake, Palantir Technologies, Equinix, Digital Realty, Equifax, TransUnion, Experian
 
-## Records first seen in the last 30 days (244)
+## Records first seen in the last 30 days (271)
 
-By kind: court-record 185, regulatory-filing 28, government-award 18, regulator-statement 7, oversight-report 2, lobbying-disclosure 2, company-statement 1, complaint-database 1
+By kind: court-record 212, regulatory-filing 28, government-award 18, regulator-statement 7, oversight-report 2, lobbying-disclosure 2, company-statement 1, complaint-database 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: United States v. Google 357](https://www.courtlistener.com/docket/75177304/united-states-v-google-357/) | Alphabet / Google |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: United States v. Google 357](https://www.courtlistener.com/docket/75177301/united-states-v-google-357/) | Alphabet / Google |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Connected Orange LLC v. Google LLC](https://www.courtlistener.com/docket/71873057/connected-orange-llc-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: United States v. Google 357](https://www.courtlistener.com/docket/75177305/united-states-v-google-357/) | Alphabet / Google |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Sanmarco v. Google LLC](https://www.courtlistener.com/docket/71030859/sanmarco-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: United States v. Google 357](https://www.courtlistener.com/docket/75177302/united-states-v-google-357/) | Alphabet / Google |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Korean Publishers Association v. Google LLC](https://www.courtlistener.com/docket/70450086/korean-publishers-association-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: DAEDALUS PRIME LLC v. Google LLC](https://www.courtlistener.com/docket/70806632/daedalus-prime-llc-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: A.S. v. Meta Platforms, Inc., fka Facebook, Inc.](https://www.courtlistener.com/docket/75178747/as-v-meta-platforms-inc-fka-facebook-inc/) | Meta Platforms |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Sullivan v. Meta Platforms, Inc](https://www.courtlistener.com/docket/73571004/sullivan-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Marcus-Meriden-Cleghorn Community School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75164274/marcus-meriden-cleghorn-community-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Volkov v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/73694076/volkov-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Salfai v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75142725/salfai-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Summit Academy Secondary School - Youngstown v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179738/summit-academy-secondary-school-youngstown-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Lynn Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75170132/lynn-public-schools-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Pottsville School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75159460/pottsville-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: King v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75170637/king-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: R.G. v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75170517/rg-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Kapil v. Apple, Inc.](https://www.courtlistener.com/docket/69489796/kapil-v-apple-inc/) | Apple |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Wapp Tech Limited Partnership v. Apple Inc.](https://www.courtlistener.com/docket/74778776/wapp-tech-limited-partnership-v-apple-inc/) | Apple |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Taction Technology, Inc. v. Apple Inc.](https://www.courtlistener.com/docket/59854908/taction-technology-inc-v-apple-inc/) | Apple |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: VE Opening LLC v. Apple Inc.](https://www.courtlistener.com/docket/74685071/ve-opening-llc-v-apple-inc/) | Apple |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: SANDSTONE INNOVATION, LLC v. Apple Inc.](https://www.courtlistener.com/docket/72493002/sandstone-innovation-llc-v-apple-inc/) | Apple |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: OPTICS INNOVATION LLC v. APPLE INC.](https://www.courtlistener.com/docket/73379939/optics-innovation-llc-v-apple-inc/) | Apple |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: iCashe, Inc. v. Apple Inc.](https://www.courtlistener.com/docket/73319037/icashe-inc-v-apple-inc/) | Apple |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Goddard v. Apple Inc.](https://www.courtlistener.com/docket/70905146/goddard-v-apple-inc/) | Apple |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Acoustic Array Technologies, LLC v. Apple, Inc.](https://www.courtlistener.com/docket/73480412/acoustic-array-technologies-llc-v-apple-inc/) | Apple |  |
 | 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Boone Newsmedia, Inc. v. Microsoft Corporation](https://www.courtlistener.com/docket/75050103/boone-newsmedia-inc-v-microsoft-corporation/) | Microsoft |  |
 | 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Garcia v. Microsoft Corporation](https://www.courtlistener.com/docket/74825461/garcia-v-microsoft-corporation/) | Microsoft |  |
 | 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Kapach v. Google LLC](https://www.courtlistener.com/docket/73721772/kapach-v-google-llc/) | Alphabet / Google |  |
@@ -195,34 +222,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Apple Inc. v. International Trade Commission](https://www.courtlistener.com/docket/75104275/1/) | Apple |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Apple Inc. v. Hannibal IP, LLC](https://www.courtlistener.com/docket/74979784/apple-inc-v-hannibal-ip-llc/) | Apple |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Porter v. Apple, Inc.](https://www.courtlistener.com/docket/71370546/porter-v-apple-inc/) | Apple |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: IOENGINE, LLC v. Apple Inc.](https://www.courtlistener.com/docket/75049249/ioengine-llc-v-apple-inc/) | Apple |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: BenedorTSE, LLC v. Apple Inc.](https://www.courtlistener.com/docket/72063264/benedortse-llc-v-apple-inc/) | Apple |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: CHAUDRY v. APPLE INC./CT CORP. SYSTEM](https://www.courtlistener.com/docket/73657769/chaudry-v-apple-incct-corp-system/) | Apple |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: iScan2D Technologies, LLC v. Apple Inc.](https://www.courtlistener.com/docket/74268233/iscan2d-technologies-llc-v-apple-inc/) | Apple |  |
-| 2026-11-20 | U.S. Securities and Exchange Commission (EDGAR) | [ORACLE CORP filed 8-K (Item 5.07)](https://www.sec.gov/Archives/edgar/data/1341439/000119312526470351/orcl-20261118.htm) | Oracle |  |
-| 2026-11-20 | U.S. Government Accountability Office | [AI and Cybersecurity: Technologies Can Magnify Cyberattacks and Enhance Cyber Defense](https://www.gao.gov/products/gao-27-108458) |  |  |
-| 2026-11-20 | U.S. Government Accountability Office | [Science & Tech Spotlight: AI Chatbots and Mental Health](https://www.gao.gov/products/gao-27-109184) |  |  |
-| 2026-11-20 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: ToutVirtual, Inc. v. Microsoft Corporation](https://www.courtlistener.com/docket/71296398/toutvirtual-inc-v-microsoft-corporation/) | Microsoft |  |
-| 2026-11-20 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: United States v. Microsoft Skype Accounts](https://www.courtlistener.com/docket/75152386/united-states-v-microsoft-skype-accounts/) | Microsoft |  |
-| 2026-11-20 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: KOMOR v. COREWEAVE, INC.](https://www.courtlistener.com/docket/75137080/komor-v-coreweave-inc/) | CoreWeave |  |
-| 2026-11-20 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Stockwell v. Oracle Corporation](https://www.courtlistener.com/docket/73738345/stockwell-v-oracle-corporation/) | Oracle |  |
-| 2026-11-20 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Cornelius v. Oracle America, Inc.](https://www.courtlistener.com/docket/69371460/cornelius-v-oracle-america-inc/) | Oracle |  |
-| 2026-11-20 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Komor v. Oracle Corporation](https://www.courtlistener.com/docket/75150134/komor-v-oracle-corporation/) | Oracle |  |
-| 2026-11-20 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Katz-Lacabe v. Oracle America, Inc.](https://www.courtlistener.com/docket/64908655/katz-lacabe-v-oracle-america-inc/) | Oracle |  |
-| 2026-11-19 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Miller v. Oracle America, Inc.](https://www.courtlistener.com/docket/74931431/miller-v-oracle-america-inc/) | Oracle |  |
-| 2026-11-19 | U.S. Securities and Exchange Commission (EDGAR) | [INTERNATIONAL BUSINESS MACHINES CORP filed 8-K (Item 9.01)](https://www.sec.gov/Archives/edgar/data/51143/000110465926130189/tm2630132d1_8k.htm) | IBM |  |
-| 2026-11-19 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Hyperscale Data, Inc. (GPUS, GPUS-PD) 8-K filed 2026-11-19 contains "data center" "private credit"](https://www.sec.gov/Archives/edgar/data/896493/000121465926014587/0001214659-26-014587-index.htm) |  |  |
-| 2026-11-19 | UK Competition and Markets Authority (GOV.UK) | [Developer experience with IAM and Kubernetes](https://www.gov.uk/government/calls-for-evidence/developer-experience-with-iam-and-kubernetes) |  |  |
-| 2026-11-19 | UK Competition and Markets Authority (GOV.UK) | [Business software and cloud services](https://www.gov.uk/government/publications/business-software-and-cloud-services) |  |  |
-| 2026-11-19 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Jamieson v. Oracle America, Inc.](https://www.courtlistener.com/docket/75098823/jamieson-v-oracle-america-inc/) | Oracle |  |
-| 2026-11-18 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: IN RE ORACLE CORPORATION DATA BREACH LITIGATION](https://www.courtlistener.com/docket/71895405/in-re-oracle-corporation-data-breach-litigation/) | Oracle |  |
-| 2026-11-18 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Hyperscale Data, Inc. (GPUS, GPUS-PD) 8-K filed 2026-11-18 contains "data center" "private credit"](https://www.sec.gov/Archives/edgar/data/896493/000121465926014553/0001214659-26-014553-index.htm) |  |  |
-| 2026-11-18 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Hyperscale Data, Inc. (GPUS, GPUS-PD) 10-Q filed 2026-11-18 contains "data center" "private credit"](https://www.sec.gov/Archives/edgar/data/896493/000121465926014565/0001214659-26-014565-index.htm) |  |  |
-| 2026-11-16 | U.S. Securities and Exchange Commission (EDGAR) | [TransUnion filed SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/1552033/000189761226000737/xslSCHEDULE_13G_X02/primary_doc.xml) | TransUnion |  |
-| 2026-11-16 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Hyperscale Data, Inc. (GPUS, GPUS-PD) 8-K filed 2026-11-16 contains "data center" "private credit"](https://www.sec.gov/Archives/edgar/data/896493/000121465926014423/0001214659-26-014423-index.htm) |  |  |
-| 2026-11-16 | NVIDIA | [Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics](https://blogs.nvidia.com/blog/lambda-photonics/) | NVIDIA |  |
-| 2026-11-13 | U.S. Securities and Exchange Commission (EDGAR) | [EQUIFAX INC filed SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/33185/000156223026000149/xslSCHEDULE_13G_X02/primary_doc.xml) | Equifax |  |
 
-_44 older rows omitted here; all are in `ledger/`._
+_71 older rows omitted here; all are in `ledger/`._
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.

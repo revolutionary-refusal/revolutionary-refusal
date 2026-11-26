@@ -2,7 +2,7 @@
 
 # Open leads (last 30 days)
 
-Generated 2026-11-25T17:15:33+00:00 UTC / 2026-11-25 19:15 Asia/Jerusalem.
+Generated 2026-11-26T01:46:57+00:00 UTC / 2026-11-26 03:46 Asia/Jerusalem.
 
 A lead is a mechanical reason to look closer. It is not an accusation and not a finding. Rules are applied identically to every watched entity:
 
@@ -14,10 +14,11 @@ A lead is a mechanical reason to look closer. It is not an accusation and not a 
 - **R6** A watched entity registered a new lobbying relationship or reported $500k+ in a quarter
 - **R7** The same entity surfaced in four or more divisions within 30 days (convergence; low priority, large firms trip it often)
 
-Leads by rule: R1 5, R2 247, R3 17, R4 101, R5 38, R6 21, R7 12
+Leads by rule: R1 5, R2 278, R3 18, R4 101, R5 38, R6 21, R7 12
 
 | Score | Rule | Date | Entities | Document | Signal |
 |---|---|---|---|---|---|
+| 3 | R3 | 2026-11-25 | Anthropic, PBC | [Anthropic, PBC filed 8-K (Item 1.01: Entry into a material definitive agreement; Item 3.02; Item 3.03; Item 5.03; Item 7.01: Regulation FD disclosure; Item 8.01: Other events; Item 9.01)](https://www.sec.gov/Archives/edgar/data/2130357/000162828026075973/ant-20261119.htm) |  |
 | 3 | R1 | 2026-11-23 | Alphabet / Google | [Google’s general search services: proposed user choice conduct requirement](https://www.gov.uk/government/consultations/googles-general-search-services-proposed-user-choice-conduct-requirement) |  |
 | 3 | R3 | 2026-11-20 | NextEra Energy | [NEXTERA ENERGY INC filed 425](https://www.sec.gov/Archives/edgar/data/753308/000110465926130293/tm2627455d11_425.htm) |  |
 | 3 | R3 | 2026-11-19 | Anthropic, PBC | [Anthropic, PBC filed 424B4](https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm) |  |
@@ -97,6 +98,37 @@ Leads by rule: R1 5, R2 247, R3 17, R4 101, R5 38, R6 21, R7 12
 | 2 | R2 | 2026-11-25 | Apple | [Federal case: Apple Inc. v. Powermat Technologies Ltd.](https://www.courtlistener.com/docket/72525857/apple-inc-v-powermat-technologies-ltd/) |  |
 | 2 | R2 | 2026-11-25 | Apple | [Federal case: KAIFI LLC v. APPLE INC.](https://www.courtlistener.com/docket/71211204/kaifi-llc-v-apple-inc/) |  |
 | 2 | R2 | 2026-11-25 | Apple | [Federal case: HBCU Messaging US LP v. Apple, Inc.](https://www.courtlistener.com/docket/69233849/hbcu-messaging-us-lp-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-25 | Anthropic, PBC | [Federal case: Kao v. Anthropic, PBC](https://www.courtlistener.com/docket/75179028/kao-v-anthropic-pbc/) |  |
+| 2 | R2 | 2026-11-25 | Anthropic, PBC | [Federal case: Anthropic, PBC v. Abnormal AI, Inc.](https://www.courtlistener.com/docket/73566709/anthropic-pbc-v-abnormal-ai-inc/) |  |
+| 2 | R2 | 2026-11-25 | NVIDIA | [Federal case: Health Discovery Corporation v. Nvidia Corporation](https://www.courtlistener.com/docket/72098563/health-discovery-corporation-v-nvidia-corporation/) |  |
+| 2 | R2 | 2026-11-25 | NVIDIA | [Federal case: INFERENCE STACK INC. v. NVIDIA Corporation](https://www.courtlistener.com/docket/75119553/inference-stack-inc-v-nvidia-corporation/) |  |
+| 2 | R2 | 2026-11-25 | Alphabet / Google | [Federal case: United States v. Google 357](https://www.courtlistener.com/docket/75177304/united-states-v-google-357/) |  |
+| 2 | R2 | 2026-11-25 | Alphabet / Google | [Federal case: United States v. Google 357](https://www.courtlistener.com/docket/75177301/united-states-v-google-357/) |  |
+| 2 | R2 | 2026-11-25 | Alphabet / Google | [Federal case: Connected Orange LLC v. Google LLC](https://www.courtlistener.com/docket/71873057/connected-orange-llc-v-google-llc/) |  |
+| 2 | R2 | 2026-11-25 | Alphabet / Google | [Federal case: United States v. Google 357](https://www.courtlistener.com/docket/75177305/united-states-v-google-357/) |  |
+| 2 | R2 | 2026-11-25 | Alphabet / Google | [Federal case: Sanmarco v. Google LLC](https://www.courtlistener.com/docket/71030859/sanmarco-v-google-llc/) |  |
+| 2 | R2 | 2026-11-25 | Alphabet / Google | [Federal case: United States v. Google 357](https://www.courtlistener.com/docket/75177302/united-states-v-google-357/) |  |
+| 2 | R2 | 2026-11-25 | Alphabet / Google | [Federal case: Korean Publishers Association v. Google LLC](https://www.courtlistener.com/docket/70450086/korean-publishers-association-v-google-llc/) |  |
+| 2 | R2 | 2026-11-25 | Alphabet / Google | [Federal case: DAEDALUS PRIME LLC v. Google LLC](https://www.courtlistener.com/docket/70806632/daedalus-prime-llc-v-google-llc/) |  |
+| 2 | R2 | 2026-11-25 | Meta Platforms | [Federal case: A.S. v. Meta Platforms, Inc., fka Facebook, Inc.](https://www.courtlistener.com/docket/75178747/as-v-meta-platforms-inc-fka-facebook-inc/) |  |
+| 2 | R2 | 2026-11-25 | Meta Platforms | [Federal case: Sullivan v. Meta Platforms, Inc](https://www.courtlistener.com/docket/73571004/sullivan-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-25 | Meta Platforms | [Federal case: Marcus-Meriden-Cleghorn Community School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75164274/marcus-meriden-cleghorn-community-school-district-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-25 | Meta Platforms | [Federal case: Volkov v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/73694076/volkov-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-25 | Meta Platforms | [Federal case: Salfai v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75142725/salfai-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-25 | Meta Platforms | [Federal case: Summit Academy Secondary School - Youngstown v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179738/summit-academy-secondary-school-youngstown-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-25 | Meta Platforms | [Federal case: Lynn Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75170132/lynn-public-schools-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-25 | Meta Platforms | [Federal case: Pottsville School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75159460/pottsville-school-district-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-25 | Meta Platforms | [Federal case: King v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75170637/king-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-25 | Meta Platforms | [Federal case: R.G. v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75170517/rg-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-25 | Apple | [Federal case: Kapil v. Apple, Inc.](https://www.courtlistener.com/docket/69489796/kapil-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-25 | Apple | [Federal case: Wapp Tech Limited Partnership v. Apple Inc.](https://www.courtlistener.com/docket/74778776/wapp-tech-limited-partnership-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-25 | Apple | [Federal case: Taction Technology, Inc. v. Apple Inc.](https://www.courtlistener.com/docket/59854908/taction-technology-inc-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-25 | Apple | [Federal case: VE Opening LLC v. Apple Inc.](https://www.courtlistener.com/docket/74685071/ve-opening-llc-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-25 | Apple | [Federal case: SANDSTONE INNOVATION, LLC v. Apple Inc.](https://www.courtlistener.com/docket/72493002/sandstone-innovation-llc-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-25 | Apple | [Federal case: OPTICS INNOVATION LLC v. APPLE INC.](https://www.courtlistener.com/docket/73379939/optics-innovation-llc-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-25 | Apple | [Federal case: iCashe, Inc. v. Apple Inc.](https://www.courtlistener.com/docket/73319037/icashe-inc-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-25 | Apple | [Federal case: Goddard v. Apple Inc.](https://www.courtlistener.com/docket/70905146/goddard-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-25 | Apple | [Federal case: Acoustic Array Technologies, LLC v. Apple, Inc.](https://www.courtlistener.com/docket/73480412/acoustic-array-technologies-llc-v-apple-inc/) |  |
 | 2 | R4 | 2026-11-24 | Anthropic, PBC | [Earlens Corp S-1 filed 2026-11-24 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1490171/000119312526472933/0001193125-26-472933-index.htm) |  |
 | 2 | R2 | 2026-11-24 | OpenAI | [Federal case: Doe v. OpenAi Foundation f/k/a OpenAi Inc.](https://www.courtlistener.com/docket/74953817/doe-v-openai-foundation-fka-openai-inc/) |  |
 | 2 | R2 | 2026-11-24 | OpenAI | [Federal case: Flinn Artificial Intelligence (AI) Technologies, LLC v. OpenAI OpCo, LLC](https://www.courtlistener.com/docket/75109515/flinn-artificial-intelligence-ai-technologies-llc-v-openai-opco-llc/) |  |
@@ -286,35 +318,3 @@ Leads by rule: R1 5, R2 247, R3 17, R4 101, R5 38, R6 21, R7 12
 | 2 | R2 | 2026-11-23 | Apple | [Federal case: Apple, Inc. v. Cloud Controls LLC](https://www.courtlistener.com/docket/72307962/apple-inc-v-cloud-controls-llc/) |  |
 | 2 | R2 | 2026-11-23 | Apple | [Federal case: IPEK v. APPLE INC.](https://www.courtlistener.com/docket/73434869/ipek-v-apple-inc/) |  |
 | 2 | R2 | 2026-11-23 | Apple | [Federal case: OMNI MEDSCI, INC. v. APPLE INC.](https://www.courtlistener.com/docket/73456916/omni-medsci-inc-v-apple-inc/) |  |
-| 2 | R2 | 2026-11-23 | Apple | [Federal case: Apple Inc. v. International Trade Commission](https://www.courtlistener.com/docket/75104275/1/) |  |
-| 2 | R2 | 2026-11-23 | Apple | [Federal case: Apple Inc. v. Hannibal IP, LLC](https://www.courtlistener.com/docket/74979784/apple-inc-v-hannibal-ip-llc/) |  |
-| 2 | R2 | 2026-11-23 | Apple | [Federal case: Porter v. Apple, Inc.](https://www.courtlistener.com/docket/71370546/porter-v-apple-inc/) |  |
-| 2 | R2 | 2026-11-23 | Apple | [Federal case: IOENGINE, LLC v. Apple Inc.](https://www.courtlistener.com/docket/75049249/ioengine-llc-v-apple-inc/) |  |
-| 2 | R2 | 2026-11-23 | Apple | [Federal case: BenedorTSE, LLC v. Apple Inc.](https://www.courtlistener.com/docket/72063264/benedortse-llc-v-apple-inc/) |  |
-| 2 | R2 | 2026-11-23 | Apple | [Federal case: CHAUDRY v. APPLE INC./CT CORP. SYSTEM](https://www.courtlistener.com/docket/73657769/chaudry-v-apple-incct-corp-system/) |  |
-| 2 | R2 | 2026-11-23 | Apple | [Federal case: iScan2D Technologies, LLC v. Apple Inc.](https://www.courtlistener.com/docket/74268233/iscan2d-technologies-llc-v-apple-inc/) |  |
-| 2 | R2 | 2026-11-23 | NVIDIA | [Federal case: Haugland v. NVIDIA Corporation](https://www.courtlistener.com/docket/73647607/haugland-v-nvidia-corporation/) |  |
-| 2 | R2 | 2026-11-23 | Microsoft | [Federal case: Komor v. Microsoft Corporation](https://www.courtlistener.com/docket/75146208/komor-v-microsoft-corporation/) |  |
-| 2 | R2 | 2026-11-23 | Microsoft | [Federal case: STATS LLC v. Microsoft Online, Inc.](https://www.courtlistener.com/docket/73571714/stats-llc-v-microsoft-online-inc/) |  |
-| 2 | R2 | 2026-11-22 | Anthropic, PBC | [Federal case: Concord Music Group, Inc. v. Anthropic PBC](https://www.courtlistener.com/docket/72199828/concord-music-group-inc-v-anthropic-pbc/) |  |
-| 2 | R4 | 2026-11-20 | OpenAI | [Forge Nano Holdings, Inc. (NANO, NANOW) S-1 filed 2026-11-20 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/2101833/000110465926130613/0001104659-26-130613-index.htm) |  |
-| 2 | R2 | 2026-11-20 | Anthropic, PBC | [Federal case: Flinn Artificial Intelligence (AI) Technologies, LLC v. Anthropic, PBC](https://www.courtlistener.com/docket/75107003/flinn-artificial-intelligence-ai-technologies-llc-v-anthropic-pbc/) |  |
-| 2 | R2 | 2026-11-20 | NVIDIA | [Federal case: Beltran v. NVIDIA Corporation](https://www.courtlistener.com/docket/75142144/beltran-v-nvidia-corporation/) |  |
-| 2 | R2 | 2026-11-20 | Microsoft | [Federal case: ToutVirtual, Inc. v. Microsoft Corporation](https://www.courtlistener.com/docket/71296398/toutvirtual-inc-v-microsoft-corporation/) |  |
-| 2 | R2 | 2026-11-20 | Microsoft | [Federal case: United States v. Microsoft Skype Accounts](https://www.courtlistener.com/docket/75152386/united-states-v-microsoft-skype-accounts/) |  |
-| 2 | R2 | 2026-11-20 | CoreWeave | [Federal case: KOMOR v. COREWEAVE, INC.](https://www.courtlistener.com/docket/75137080/komor-v-coreweave-inc/) |  |
-| 2 | R2 | 2026-11-20 | Oracle | [Federal case: Stockwell v. Oracle Corporation](https://www.courtlistener.com/docket/73738345/stockwell-v-oracle-corporation/) |  |
-| 2 | R2 | 2026-11-20 | Oracle | [Federal case: Cornelius v. Oracle America, Inc.](https://www.courtlistener.com/docket/69371460/cornelius-v-oracle-america-inc/) |  |
-| 2 | R2 | 2026-11-20 | Oracle | [Federal case: Komor v. Oracle Corporation](https://www.courtlistener.com/docket/75150134/komor-v-oracle-corporation/) |  |
-| 2 | R2 | 2026-11-20 | Oracle | [Federal case: Katz-Lacabe v. Oracle America, Inc.](https://www.courtlistener.com/docket/64908655/katz-lacabe-v-oracle-america-inc/) |  |
-| 2 | R4 | 2026-11-19 | OpenAI | [SB Energy, Inc. (SBE) S-1/A filed 2026-11-19 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/2133037/000162828026075026/0001628280-26-075026-index.htm) |  |
-| 2 | R4 | 2026-11-19 | OpenAI | [Elastic N.V. (ESTC) 8-K filed 2026-11-19 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1707753/000170775326000067/0001707753-26-000067-index.htm) |  |
-| 2 | R4 | 2026-11-19 | Anthropic, PBC, OpenAI | [Anthropic, PBC (ANT) 424B4 filed 2026-11-19 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/0001628280-26-074944-index.htm) |  |
-| 2 | R4 | 2026-11-19 | Anthropic, PBC | [Elastic N.V. (ESTC) 8-K filed 2026-11-19 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1707753/000170775326000067/0001707753-26-000067-index.htm) |  |
-| 2 | R4 | 2026-11-19 | xAI | [SB Energy, Inc. (SBE) S-1/A filed 2026-11-19 contains "xAI"](https://www.sec.gov/Archives/edgar/data/2133037/000162828026075026/0001628280-26-075026-index.htm) |  |
-| 2 | R2 | 2026-11-19 | Anthropic, PBC | [Federal case: Gilbert v. Anthropic PBC](https://www.courtlistener.com/docket/73391700/gilbert-v-anthropic-pbc/) |  |
-| 2 | R2 | 2026-11-19 | Oracle | [Federal case: Jamieson v. Oracle America, Inc.](https://www.courtlistener.com/docket/75098823/jamieson-v-oracle-america-inc/) |  |
-| 2 | R6 | 2026-11-19 | Meta Platforms | [Lobbying: META PLATFORMS, INC. — Registration 2026, registrant FLOREAT PARTNERS LLC](https://lda.gov/filings/public/filing/d219a73e-18ad-42cd-ab48-ec7b68b95605/print/) |  |
-| 2 | R2 | 2026-11-19 | Oracle | [Federal case: Miller v. Oracle America, Inc.](https://www.courtlistener.com/docket/74931431/miller-v-oracle-america-inc/) |  |
-| 2 | R4 | 2026-11-18 | OpenAI | [Vision Marine Technologies Inc. (VMAR) 10-K filed 2026-11-18 contains "OpenAI"](https://www.sec.gov/Archives/edgar/data/1813783/000110465926129700/0001104659-26-129700-index.htm) |  |
-| 2 | R4 | 2026-11-18 | Anthropic, PBC | [McGraw Hill, Inc. (MH) 8-K filed 2026-11-18 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1951070/000119312526466201/0001193125-26-466201-index.htm) |  |
