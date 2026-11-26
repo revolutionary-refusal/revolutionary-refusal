@@ -14,14 +14,24 @@
 
 OpenAI, Anthropic, PBC, xAI, NVIDIA, Advanced Micro Devices, Broadcom, Microsoft, Alphabet / Google, Amazon / AWS, Meta Platforms, Apple, Visa, Mastercard, NextEra Energy, Dominion Energy, AT&T, Verizon, Comcast, Charter Communications, T-Mobile US, UnitedHealth Group, CVS Health, Cigna Group
 
-## Records first seen in the last 30 days (447)
+## Records first seen in the last 30 days (458)
 
-By kind: court-record 230, regulatory-filing 95, regulator-statement 82, lobbying-disclosure 24, regulator-notice 13, oversight-report 3
+By kind: court-record 236, regulatory-filing 95, regulator-statement 86, lobbying-disclosure 24, regulator-notice 14, oversight-report 3
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-26 | UK Competition and Markets Authority (GOV.UK) | [The Brink’s Company / NCR Atleos Corporation merger inquiry](https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry) |  |  |
+| 2026-11-26 | UK Competition and Markets Authority (GOV.UK) | [CMA correspondence in relation to private provision in the dentistry market](https://www.gov.uk/government/publications/cma-correspondence-in-relation-to-private-provision-in-the-dentistry-market) |  |  |
+| 2026-11-26 | UK Competition and Markets Authority (GOV.UK) | [Private dental services market study: interim report](https://www.gov.uk/government/consultations/private-dental-services-market-study-interim-report) |  | market-investigation |
+| 2026-11-26 | UK Competition and Markets Authority (GOV.UK) | [CMA study reveals catalogue of concerns in private dentistry market](https://www.gov.uk/government/news/cma-study-reveals-catalogue-of-concerns-in-private-dentistry-market) |  |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Fullybright v. Amazon.com Inc](https://www.courtlistener.com/docket/71020697/fullybright-v-amazoncom-inc/) | Amazon / AWS |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Barnesville Exempted Village School District v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179813/barnesville-exempted-village-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Stamford Public Schools v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179816/stamford-public-schools-v-meta-platforms-inc-formerly-known-as/) | Meta Platforms |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Morgan Local School District v. Meta Platforms Inc.](https://www.courtlistener.com/docket/75180909/morgan-local-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Giovanni v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/75178311/giovanni-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Summit Academy Community School - Columbus v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179771/summit-academy-community-school-columbus-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-25 | U.S. Securities and Exchange Commission (EDGAR) | [Anthropic, PBC filed 8-K (Item 1.01: Entry into a material definitive agreement; Item 3.02; Item 3.03; Item 5.03; Item 7.01: Regulation FD disclosure; Item 8.01: Other events; Item 9.01)](https://www.sec.gov/Archives/edgar/data/2130357/000162828026075973/ant-20261119.htm) | Anthropic, PBC |  |
 | 2026-11-25 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [C. H. ROBINSON WORLDWIDE, INC. (CHRW) S-4 filed 2026-11-25 contains "Hart-Scott-Rodino" "artificial intelligence"](https://www.sec.gov/Archives/edgar/data/1043277/000114036126045731/0001140361-26-045731-index.htm) |  |  |
 | 2026-11-25 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [AMERICAS CARMART INC (CRMT) 8-K/A filed 2026-11-25 contains "Hart-Scott-Rodino" "artificial intelligence"](https://www.sec.gov/Archives/edgar/data/799850/000117184326007728/0001171843-26-007728-index.htm) |  |  |
@@ -212,17 +222,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Chabon v. OpenAI, Inc.](https://www.courtlistener.com/docket/69920598/chabon-v-openai-inc/) | OpenAI |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Authors Guild v. OpenAI Inc.](https://www.courtlistener.com/docket/67810584/authors-guild-v-openai-inc/) | OpenAI |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Ziff Davis, Inc. v. OpenAI, Inc.](https://www.courtlistener.com/docket/70338311/ziff-davis-inc-v-openai-inc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Raw Story Media, Inc. v. OpenAI Inc.](https://www.courtlistener.com/docket/68290709/raw-story-media-inc-v-openai-inc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Buist v. Anthropic, PBC](https://www.courtlistener.com/docket/74816200/buist-v-anthropic-pbc/) | Anthropic, PBC |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Ortiz Colon v. Anthropic, PBC](https://www.courtlistener.com/docket/75119140/ortiz-colon-v-anthropic-pbc/) | Anthropic, PBC |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Carlson LLC v. Anthropic PBC](https://www.courtlistener.com/docket/75148502/carlson-llc-v-anthropic-pbc/) | Anthropic, PBC |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Mobility Workx, LLC v. NVIDIA Corporation](https://www.courtlistener.com/docket/72283478/mobility-workx-llc-v-nvidia-corporation/) | NVIDIA |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Nazemian v. NVIDIA Corporation](https://www.courtlistener.com/docket/68325563/nazemian-v-nvidia-corporation/) | NVIDIA |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Kistenmacher v. NVIDIA Corporation](https://www.courtlistener.com/docket/75092150/kistenmacher-v-nvidia-corporation/) | NVIDIA |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Mila US Inc. v. NVIDIA Corporation](https://www.courtlistener.com/docket/71197938/mila-us-inc-v-nvidia-corporation/) | NVIDIA |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Fisher v. Nvidia Corporation](https://www.courtlistener.com/docket/71972050/fisher-v-nvidia-corporation/) | NVIDIA |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Lee v. NVIDIA Corporation](https://www.courtlistener.com/docket/75141023/lee-v-nvidia-corporation/) | NVIDIA |  |
 
-_247 older rows omitted here; all are in `ledger/`._
+_258 older rows omitted here; all are in `ledger/`._
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.

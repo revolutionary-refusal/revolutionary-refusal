@@ -14,9 +14,9 @@
 
 SoftBank Group, BlackRock, Vanguard Group, State Street, JPMorgan Chase, Goldman Sachs, Bank of America, Citigroup, Wells Fargo, Morgan Stanley, Berkshire Hathaway, Blackstone, KKR, Apollo Global Management, Visa, Mastercard, Thrive Capital, Andreessen Horowitz, Equifax, TransUnion, Experian
 
-## Records first seen in the last 30 days (97)
+## Records first seen in the last 30 days (100)
 
-By kind: regulatory-filing 59, lobbying-disclosure 15, regulator-notice 14, regulator-statement 8, complaint-database 1
+By kind: regulatory-filing 59, regulator-notice 17, lobbying-disclosure 15, regulator-statement 8, complaint-database 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
@@ -119,5 +119,8 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-10-17 | U.S. Lobbying Disclosure Act filings (LDA.gov) | [Lobbying: JPMORGAN CHASE HOLDINGS LLC — 3rd Quarter - Report 2026, registrant BALLARD PARTNERS, reported $60,000](https://lda.gov/filings/public/filing/4da10bcc-491c-408e-9680-2131faed2325/print/) | JPMorgan Chase |  |
 | 2026-10-16 | U.S. Lobbying Disclosure Act filings (LDA.gov) | [Lobbying: JPMORGAN CHASE HOLDINGS LLC — 3rd Quarter - Report 2026, registrant S-3 GROUP, reported $50,000](https://lda.gov/filings/public/filing/ad303f80-54a9-4275-8b7f-ed63b7b6b765/print/) | JPMorgan Chase |  |
 | 2026-10-15 | U.S. Lobbying Disclosure Act filings (LDA.gov) | [Lobbying: BLACKROCK FUND SERVICES GROUP, LLC — 3rd Quarter - Report 2026, registrant THE PETRIZZO GROUP, INC., reported $45,000](https://lda.gov/filings/public/filing/214aa859-52d8-4d47-b7f3-fef2bd1f8927/print/) | BlackRock |  |
+| 2026-11-27 | Federal Register (Federal Reserve System) | [Notice: Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company](https://www.federalregister.gov/documents/2026/11/27/2026-24154/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company) |  |  |
+| 2026-11-27 | Federal Register (Securities and Exchange Commission) | [Notice: OX Gamma LLC; Notice of Filing of Application, as Amended, for Registration as a National Securities Exchange Under Section 6 of the Securities Exchange Act of 1934](https://www.federalregister.gov/documents/2026/11/27/2026-24070/ox-gamma-llc-notice-of-filing-of-application-as-amended-for-registration-as-a-national-securities) |  |  |
+| 2026-11-27 | Federal Register (Securities and Exchange Commission) | [Notice: OX Delta LLC; Notice of Filing of Application, as Amended, for Registration as a National Securities Exchange Under Section 6 of the Securities Exchange Act of 1934](https://www.federalregister.gov/documents/2026/11/27/2026-24069/ox-delta-llc-notice-of-filing-of-application-as-amended-for-registration-as-a-national-securities) |  |  |
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.

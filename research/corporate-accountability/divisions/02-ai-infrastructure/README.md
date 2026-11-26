@@ -14,14 +14,21 @@
 
 OpenAI, Anthropic, PBC, xAI, Mistral AI, Scale AI, NVIDIA, Advanced Micro Devices, Broadcom, Intel, Taiwan Semiconductor Manufacturing, Micron Technology, Arm Holdings, ASML, Cerebras Systems, Super Micro Computer, Dell Technologies, Microsoft, Alphabet / Google, Amazon / AWS, Meta Platforms, Oracle, CoreWeave, Nebius Group, IBM, Palantir Technologies, Tesla, Equinix, Digital Realty, SoftBank Group, Blackstone, Thrive Capital, Constellation Energy, Vistra
 
-## Records first seen in the last 30 days (624)
+## Records first seen in the last 30 days (633)
 
-By kind: regulatory-filing 233, court-record 233, company-statement 82, government-award 59, regulator-notice 8, oversight-report 4, lobbying-disclosure 4, regulator-statement 1
+By kind: court-record 239, regulatory-filing 233, company-statement 83, government-award 60, regulator-notice 9, oversight-report 4, lobbying-disclosure 4, regulator-statement 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-26 | NVIDIA | [Come for the Games, Stay for the Community With GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/) | NVIDIA |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Fullybright v. Amazon.com Inc](https://www.courtlistener.com/docket/71020697/fullybright-v-amazoncom-inc/) | Amazon / AWS |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Barnesville Exempted Village School District v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179813/barnesville-exempted-village-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Stamford Public Schools v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179816/stamford-public-schools-v-meta-platforms-inc-formerly-known-as/) | Meta Platforms |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Morgan Local School District v. Meta Platforms Inc.](https://www.courtlistener.com/docket/75180909/morgan-local-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Giovanni v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/75178311/giovanni-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Summit Academy Community School - Columbus v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179771/summit-academy-community-school-columbus-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-25 | U.S. Securities and Exchange Commission (EDGAR) | [Anthropic, PBC filed 8-K (Item 1.01: Entry into a material definitive agreement; Item 3.02; Item 3.03; Item 5.03; Item 7.01: Regulation FD disclosure; Item 8.01: Other events; Item 9.01)](https://www.sec.gov/Archives/edgar/data/2130357/000162828026075973/ant-20261119.htm) | Anthropic, PBC |  |
 | 2026-11-25 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Morningstar, Inc. (MORN) 8-K filed 2026-11-25 contains "data center" "private credit"](https://www.sec.gov/Archives/edgar/data/1289419/000128941926000058/0001289419-26-000058-index.htm) |  |  |
 | 2026-11-25 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [C. H. ROBINSON WORLDWIDE, INC. (CHRW) S-4 filed 2026-11-25 contains "Hart-Scott-Rodino" "artificial intelligence"](https://www.sec.gov/Archives/edgar/data/1043277/000114036126045731/0001140361-26-045731-index.htm) |  |  |
@@ -215,14 +222,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: DOE v. X.AI Corp.](https://www.courtlistener.com/docket/72185111/doe-v-xai-corp/) | xAI |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Doe 5 v. X. AI Corp.](https://www.courtlistener.com/docket/75082280/doe-5-v-x-ai-corp/) | xAI |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Doe 1 v. X. AI Corp.](https://www.courtlistener.com/docket/74805322/doe-1-v-x-ai-corp/) | xAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Doe v. X. AI Corp.](https://www.courtlistener.com/docket/74767531/doe-v-x-ai-corp/) | xAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Doe 7 v. X. AI Corp.](https://www.courtlistener.com/docket/75144728/doe-7-v-x-ai-corp/) | xAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Doe 3 v. X. AI Corp.](https://www.courtlistener.com/docket/73729630/doe-3-v-x-ai-corp/) | xAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Mobility Workx, LLC v. NVIDIA Corporation](https://www.courtlistener.com/docket/72283478/mobility-workx-llc-v-nvidia-corporation/) | NVIDIA |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Nazemian v. NVIDIA Corporation](https://www.courtlistener.com/docket/68325563/nazemian-v-nvidia-corporation/) | NVIDIA |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Kistenmacher v. NVIDIA Corporation](https://www.courtlistener.com/docket/75092150/kistenmacher-v-nvidia-corporation/) | NVIDIA |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Mila US Inc. v. NVIDIA Corporation](https://www.courtlistener.com/docket/71197938/mila-us-inc-v-nvidia-corporation/) | NVIDIA |  |
 
-_424 older rows omitted here; all are in `ledger/`._
+_433 older rows omitted here; all are in `ledger/`._
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.

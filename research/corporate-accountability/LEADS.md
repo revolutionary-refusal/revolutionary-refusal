@@ -2,7 +2,7 @@
 
 # Open leads (last 30 days)
 
-Generated 2026-11-26T01:46:57+00:00 UTC / 2026-11-26 03:46 Asia/Jerusalem.
+Generated 2026-11-26T16:56:29+00:00 UTC / 2026-11-26 18:56 Asia/Jerusalem.
 
 A lead is a mechanical reason to look closer. It is not an accusation and not a finding. Rules are applied identically to every watched entity:
 
@@ -14,7 +14,7 @@ A lead is a mechanical reason to look closer. It is not an accusation and not a 
 - **R6** A watched entity registered a new lobbying relationship or reported $500k+ in a quarter
 - **R7** The same entity surfaced in four or more divisions within 30 days (convergence; low priority, large firms trip it often)
 
-Leads by rule: R1 5, R2 278, R3 18, R4 101, R5 38, R6 21, R7 12
+Leads by rule: R1 5, R2 284, R3 18, R4 101, R5 39, R6 21, R7 12
 
 | Score | Rule | Date | Entities | Document | Signal |
 |---|---|---|---|---|---|
@@ -57,6 +57,10 @@ Leads by rule: R1 5, R2 278, R3 18, R4 101, R5 38, R6 21, R7 12
 | 3 | R5 | 2025-01-31 | Oracle | [Federal contract: Department of Agriculture to ORACLE AMERICA, INC., $27,450,515 (award 12314425F0071)](https://www.usaspending.gov/award/CONT_AWD_12314425F0071_1205_12314424G0070_1205) |  |
 | 3 | R5 | 2024-07-17 | Microsoft | [Federal contract: Department of Agriculture to MICROSOFT CORPORATION, $114,888,285 (award 12314424F0350)](https://www.usaspending.gov/award/CONT_AWD_12314424F0350_1205_12314424G0011_1205) |  |
 | 3 | R5 | 2021-06-14 | Amazon / AWS | [Federal contract: General Services Administration to AMAZON WEB SERVICES, INC., $104,554,319 (award 47QDCB21F0015)](https://www.usaspending.gov/award/CONT_AWD_47QDCB21F0015_4732_47QTCA19D000C_4732) |  |
+| 2 | R2 | 2026-11-26 | Amazon / AWS | [Federal case: Fullybright v. Amazon.com Inc](https://www.courtlistener.com/docket/71020697/fullybright-v-amazoncom-inc/) |  |
+| 2 | R2 | 2026-11-26 | Meta Platforms | [Federal case: Barnesville Exempted Village School District v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179813/barnesville-exempted-village-school-district-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-26 | Meta Platforms | [Federal case: Stamford Public Schools v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179816/stamford-public-schools-v-meta-platforms-inc-formerly-known-as/) |  |
+| 2 | R2 | 2026-11-26 | Meta Platforms | [Federal case: Morgan Local School District v. Meta Platforms Inc.](https://www.courtlistener.com/docket/75180909/morgan-local-school-district-v-meta-platforms-inc/) |  |
 | 2 | R2 | 2026-11-25 | OpenAI | [Federal case: The Intercept Media, Inc. v. OpenAI, Inc.](https://www.courtlistener.com/docket/68290804/the-intercept-media-inc-v-openai-inc/) |  |
 | 2 | R2 | 2026-11-25 | OpenAI | [Federal case: The Center for Investigative Reporting, Inc. v. OpenAI, Inc.](https://www.courtlistener.com/docket/68892274/the-center-for-investigative-reporting-inc-v-openai-inc/) |  |
 | 2 | R2 | 2026-11-25 | Microsoft | [Federal case: Boone Newsmedia, Inc. v. Microsoft Corporation](https://www.courtlistener.com/docket/75050103/boone-newsmedia-inc-v-microsoft-corporation/) |  |
@@ -129,6 +133,8 @@ Leads by rule: R1 5, R2 278, R3 18, R4 101, R5 38, R6 21, R7 12
 | 2 | R2 | 2026-11-25 | Apple | [Federal case: iCashe, Inc. v. Apple Inc.](https://www.courtlistener.com/docket/73319037/icashe-inc-v-apple-inc/) |  |
 | 2 | R2 | 2026-11-25 | Apple | [Federal case: Goddard v. Apple Inc.](https://www.courtlistener.com/docket/70905146/goddard-v-apple-inc/) |  |
 | 2 | R2 | 2026-11-25 | Apple | [Federal case: Acoustic Array Technologies, LLC v. Apple, Inc.](https://www.courtlistener.com/docket/73480412/acoustic-array-technologies-llc-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-25 | Amazon / AWS | [Federal case: Giovanni v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/75178311/giovanni-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-25 | Meta Platforms | [Federal case: Summit Academy Community School - Columbus v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179771/summit-academy-community-school-columbus-v-meta-platforms-inc/) |  |
 | 2 | R4 | 2026-11-24 | Anthropic, PBC | [Earlens Corp S-1 filed 2026-11-24 contains "Anthropic"](https://www.sec.gov/Archives/edgar/data/1490171/000119312526472933/0001193125-26-472933-index.htm) |  |
 | 2 | R2 | 2026-11-24 | OpenAI | [Federal case: Doe v. OpenAi Foundation f/k/a OpenAi Inc.](https://www.courtlistener.com/docket/74953817/doe-v-openai-foundation-fka-openai-inc/) |  |
 | 2 | R2 | 2026-11-24 | OpenAI | [Federal case: Flinn Artificial Intelligence (AI) Technologies, LLC v. OpenAI OpCo, LLC](https://www.courtlistener.com/docket/75109515/flinn-artificial-intelligence-ai-technologies-llc-v-openai-opco-llc/) |  |
@@ -312,9 +318,3 @@ Leads by rule: R1 5, R2 278, R3 18, R4 101, R5 38, R6 21, R7 12
 | 2 | R2 | 2026-11-23 | Oracle | [Federal case: Pete v. Oracle America, Inc. and All Affiliates](https://www.courtlistener.com/docket/75160808/pete-v-oracle-america-inc-and-all-affiliates/) |  |
 | 2 | R2 | 2026-11-23 | Oracle | [Federal case: Oracle America, Inc. v. Procore Technologies, Inc.](https://www.courtlistener.com/docket/69314070/oracle-america-inc-v-procore-technologies-inc/) |  |
 | 2 | R2 | 2026-11-23 | Apple | [Federal case: Hannibal IP, LLC v. Apple Inc.](https://www.courtlistener.com/docket/74716293/hannibal-ip-llc-v-apple-inc/) |  |
-| 2 | R2 | 2026-11-23 | Apple | [Federal case: Apple Inc v. Tangible IP](https://www.courtlistener.com/docket/73717396/apple-inc-v-tangible-ip/) |  |
-| 2 | R2 | 2026-11-23 | Apple | [Federal case: Stithem v. Apple Inc.](https://www.courtlistener.com/docket/73210617/stithem-v-apple-inc/) |  |
-| 2 | R2 | 2026-11-23 | Apple | [Federal case: Hendrix v. Apple Inc](https://www.courtlistener.com/docket/71279155/hendrix-v-apple-inc/) |  |
-| 2 | R2 | 2026-11-23 | Apple | [Federal case: Apple, Inc. v. Cloud Controls LLC](https://www.courtlistener.com/docket/72307962/apple-inc-v-cloud-controls-llc/) |  |
-| 2 | R2 | 2026-11-23 | Apple | [Federal case: IPEK v. APPLE INC.](https://www.courtlistener.com/docket/73434869/ipek-v-apple-inc/) |  |
-| 2 | R2 | 2026-11-23 | Apple | [Federal case: OMNI MEDSCI, INC. v. APPLE INC.](https://www.courtlistener.com/docket/73456916/omni-medsci-inc-v-apple-inc/) |  |

@@ -14,14 +14,21 @@
 
 OpenAI, Anthropic, PBC, xAI, NVIDIA, Microsoft, Alphabet / Google, Amazon / AWS, Meta Platforms, Palantir Technologies, Andreessen Horowitz
 
-## Records first seen in the last 30 days (442)
+## Records first seen in the last 30 days (449)
 
-By kind: lobbying-disclosure 203, court-record 187, regulator-statement 19, regulatory-filing 16, regulator-notice 15, oversight-report 1, complaint-database 1
+By kind: lobbying-disclosure 203, court-record 193, regulator-statement 20, regulatory-filing 16, regulator-notice 15, oversight-report 1, complaint-database 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-26 | European Commission | [Temu commits to complying with EU consumer protection rules following action by national authorities](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2594) |  |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Fullybright v. Amazon.com Inc](https://www.courtlistener.com/docket/71020697/fullybright-v-amazoncom-inc/) | Amazon / AWS |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Barnesville Exempted Village School District v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179813/barnesville-exempted-village-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Stamford Public Schools v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179816/stamford-public-schools-v-meta-platforms-inc-formerly-known-as/) | Meta Platforms |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Morgan Local School District v. Meta Platforms Inc.](https://www.courtlistener.com/docket/75180909/morgan-local-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Giovanni v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/75178311/giovanni-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Summit Academy Community School - Columbus v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179771/summit-academy-community-school-columbus-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-25 | U.S. Securities and Exchange Commission (EDGAR) | [Anthropic, PBC filed 8-K (Item 1.01: Entry into a material definitive agreement; Item 3.02; Item 3.03; Item 5.03; Item 7.01: Regulation FD disclosure; Item 8.01: Other events; Item 9.01)](https://www.sec.gov/Archives/edgar/data/2130357/000162828026075973/ant-20261119.htm) | Anthropic, PBC |  |
 | 2026-11-25 | U.S. Federal Trade Commission | [FTC Grants In Part and Denies In Part Northrop Grumman Petition to Set Aside Order](https://www.ftc.gov/news-events/news/press-releases/2026/11/ftc-grants-part-denies-part-northrop-grumman-petition-set-aside-order) |  |  |
 | 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Kao v. Anthropic, PBC](https://www.courtlistener.com/docket/75179028/kao-v-anthropic-pbc/) | Anthropic, PBC |  |
@@ -215,14 +222,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Chouhan v. Meta Platforms, Inc., fka Facebook, Inc.](https://www.courtlistener.com/docket/75147723/chouhan-v-meta-platforms-inc-fka-facebook-inc/) | Meta Platforms |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Howard Gardner Multiple Intelligence Charter School v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75157157/howard-gardner-multiple-intelligence-charter-school-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Board of Trustees of Hoboken Charter School v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156993/board-of-trustees-of-hoboken-charter-school-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Board of Education of the Town of Hackettstown, Warren County v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156987/board-of-education-of-the-town-of-hackettstown-warren-county-v-meta/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Corning School District v. Meta Platforms, Inc](https://www.courtlistener.com/docket/75134329/corning-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Prider v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75153241/prider-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Starzinski v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/68980064/starzinski-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Board of Education of the Borough of Glen Ridge, County of Essex v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156577/board-of-education-of-the-borough-of-glen-ridge-county-of-essex-v-meta/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Thomas County School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156914/thomas-county-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-22 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Concord Music Group, Inc. v. Anthropic PBC](https://www.courtlistener.com/docket/72199828/concord-music-group-inc-v-anthropic-pbc/) | Anthropic, PBC |  |
 
-_242 older rows omitted here; all are in `ledger/`._
+_249 older rows omitted here; all are in `ledger/`._
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.

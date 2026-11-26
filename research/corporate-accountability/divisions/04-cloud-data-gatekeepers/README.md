@@ -14,14 +14,21 @@
 
 Microsoft, Alphabet / Google, Amazon / AWS, Meta Platforms, Oracle, CoreWeave, Nebius Group, Apple, IBM, Salesforce, Snowflake, Palantir Technologies, Equinix, Digital Realty, Equifax, TransUnion, Experian
 
-## Records first seen in the last 30 days (271)
+## Records first seen in the last 30 days (278)
 
-By kind: court-record 212, regulatory-filing 28, government-award 18, regulator-statement 7, oversight-report 2, lobbying-disclosure 2, company-statement 1, complaint-database 1
+By kind: court-record 218, regulatory-filing 28, government-award 18, regulator-statement 7, company-statement 2, oversight-report 2, lobbying-disclosure 2, complaint-database 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-26 | NVIDIA | [Come for the Games, Stay for the Community With GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/) | NVIDIA |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Fullybright v. Amazon.com Inc](https://www.courtlistener.com/docket/71020697/fullybright-v-amazoncom-inc/) | Amazon / AWS |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Barnesville Exempted Village School District v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179813/barnesville-exempted-village-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Stamford Public Schools v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179816/stamford-public-schools-v-meta-platforms-inc-formerly-known-as/) | Meta Platforms |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Morgan Local School District v. Meta Platforms Inc.](https://www.courtlistener.com/docket/75180909/morgan-local-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Giovanni v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/75178311/giovanni-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Summit Academy Community School - Columbus v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179771/summit-academy-community-school-columbus-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: United States v. Google 357](https://www.courtlistener.com/docket/75177304/united-states-v-google-357/) | Alphabet / Google |  |
 | 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: United States v. Google 357](https://www.courtlistener.com/docket/75177301/united-states-v-google-357/) | Alphabet / Google |  |
 | 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Connected Orange LLC v. Google LLC](https://www.courtlistener.com/docket/71873057/connected-orange-llc-v-google-llc/) | Alphabet / Google |  |
@@ -215,14 +222,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Hannibal IP, LLC v. Apple Inc.](https://www.courtlistener.com/docket/74716293/hannibal-ip-llc-v-apple-inc/) | Apple |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Apple Inc v. Tangible IP](https://www.courtlistener.com/docket/73717396/apple-inc-v-tangible-ip/) | Apple |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Stithem v. Apple Inc.](https://www.courtlistener.com/docket/73210617/stithem-v-apple-inc/) | Apple |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Hendrix v. Apple Inc](https://www.courtlistener.com/docket/71279155/hendrix-v-apple-inc/) | Apple |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Apple, Inc. v. Cloud Controls LLC](https://www.courtlistener.com/docket/72307962/apple-inc-v-cloud-controls-llc/) | Apple |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: IPEK v. APPLE INC.](https://www.courtlistener.com/docket/73434869/ipek-v-apple-inc/) | Apple |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: OMNI MEDSCI, INC. v. APPLE INC.](https://www.courtlistener.com/docket/73456916/omni-medsci-inc-v-apple-inc/) | Apple |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Apple Inc. v. International Trade Commission](https://www.courtlistener.com/docket/75104275/1/) | Apple |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Apple Inc. v. Hannibal IP, LLC](https://www.courtlistener.com/docket/74979784/apple-inc-v-hannibal-ip-llc/) | Apple |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Porter v. Apple, Inc.](https://www.courtlistener.com/docket/71370546/porter-v-apple-inc/) | Apple |  |
 
-_71 older rows omitted here; all are in `ledger/`._
+_78 older rows omitted here; all are in `ledger/`._
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.
