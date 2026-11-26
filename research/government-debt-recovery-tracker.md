@@ -133,3 +133,27 @@ DOJ reported guilty verdicts on 2026-11-24 against Huawei Technologies Co., Ltd.
 ### Evidence gaps
 
 Signed judgments, plea instruments and case-level payment/disbursement records were not retrieved in this review. Obtain them for overlapping IRS obligations and Matthews forfeiture credits; reconcile Treasury referral cohorts and OIG recovery definitions before asserting unpaid balances. Prior entries retained unchanged.
+
+## 2026-11-25 — postal settlement, benefit-program forfeiture and scheduled federal settlement payments
+
+| ID | Obligor | Creditor / beneficiary | Obligation | Amount | Actual recovered | Outstanding as of 2026-11-25 | Status |
+| --- | --- | --- | --- | ---: | --- | --- | --- |
+| D-019 | YDH Express Inc., YDH Int’l Inc., Yizhao Hou | United States | Single court-ordered civil settlement, EDNY 25-CV-2719 | $300,000 | UNKNOWN | UNKNOWN | DOJ reports order entered 2026-11-25; no adjudication of underlying liability; allocation and due dates unknown |
+| D-020 | Jose Valles Villamizar | United States | Criminal forfeiture, SNAP proceeds | $73,655.27 | UNKNOWN | UNKNOWN | DOJ report 2026-11-24; plea 2026-08-10; not an additional restitution amount |
+| D-021 | Aptihealth Inc. and Aptihealth Medical PLLC | United States | Federal civil settlement principal | $183,296.77 plus 7% annual simple interest | UNKNOWN | UNKNOWN | Historical agreement announced 2026-06-23; scheduled installments below |
+| D-022 | Aptihealth entities | State of New York | State civil settlement component | $116,703.23 | UNKNOWN | UNKNOWN | Separate state agreement not retrieved |
+
+Sources:
+- D-019: https://www.justice.gov/usao-edny/pr/district-court-orders-queens-based-logistics-company-affiliate-and-their-owner-pay
+- D-020: https://www.justice.gov/usao-mdfl/pr/lake-county-man-sentenced-three-years-federal-prison-theft-government-funds-and-0
+- D-021/022: https://www.justice.gov/usao-ndny/pr/clifton-park-telehealth-company-pay-300000-resolve-allegations-improper-billing-no
+- Federal agreement, case 1:23-cv-878, pp. 4–5, 15–16: https://www.justice.gov/fraud/media/1447491/dl?inline=
+
+Aptihealth: federal and state principals sum to $300,000. Federal restitution component $91,648.39 is included, not additional. Four listed principal installments of $45,824.19 (2026-07-01, 2026-10-01, 2027-01-01, 2027-04-01) sum to $183,296.76, one cent below stated principal. Two scheduled installments totaling $91,648.38 plus interest have reached their due dates; no proof of payment or default. Prepayment is allowed. Federal relator share is 17% of receipts, not a separate debtor obligation. The published PDF is an execution-version counterpart; page 16 displayed blank company signature lines, and complete counterparts were not verified. DOJ announcement corroborates settlement; exact effective date remains unconfirmed. Primary record pages visually inspected. Obtain signed counterparts, payment credits and state agreement before calculating balance.
+
+### Pending order — SSA insider case
+
+DOJ report 2026-11-25: Najee Alexander Corbett pleaded guilty; $116,537.62 in SSI payments received and $71,304.62 retained. Difference $45,233.00 is not verified recovery, restitution or repayment. Sentencing set 2027-02-18. No quantified monetary order or verified collection yet. Watch only.
+- https://www.justice.gov/usao-md/pr/former-social-security-administration-worker-pleads-guilty-charges-connected-disability
+
+QA: preserve distinction between settlement, forfeiture, loss and receipts. Do not aggregate D-019 across its three obligors, or add federal restitution to federal principal. Postal order and SNAP forfeiture independently reported by DOJ but underlying orders not retrieved. No public complaints or records requests submitted.
