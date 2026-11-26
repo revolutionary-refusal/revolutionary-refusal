@@ -157,3 +157,21 @@ DOJ report 2026-11-25: Najee Alexander Corbett pleaded guilty; $116,537.62 in SS
 - https://www.justice.gov/usao-md/pr/former-social-security-administration-worker-pleads-guilty-charges-connected-disability
 
 QA: preserve distinction between settlement, forfeiture, loss and receipts. Do not aggregate D-019 across its three obligors, or add federal restitution to federal principal. Postal order and SNAP forfeiture independently reported by DOJ but underlying orders not retrieved. No public complaints or records requests submitted.
+
+
+## 2026-11-26 — confirmed settlement receipts and overlap check
+
+Newly entered historical disclosures, not cash received on the review date. DOJ expressly reports payment, not merely a promise.
+
+| ID | Obligor | Creditor / beneficiary | Legal basis | Settlement | Actual recovered | Outstanding for this settlement | Evidence date |
+| --- | --- | --- | --- | ---: | ---: | ---: | --- |
+| R-003 | Oklahoma Heart Hospital LLC, Oklahoma Heart Hospital South LLC, Oklahoma Heart Hospital Physicians LLC | United States; program allocations unknown | Civil FCA settlement | $4,200,000.00 | $4,200,000.00 | $0 on reported settlement principal | 2026-11-24; updated 2026-11-25 |
+| R-004 | Anthony (Andy) Sanborn | United States; SBA EIDL-related claims | Civil FCA settlement inclusive of criminal restitution | $510,454.44 | $510,454.44 | $0 on reported settlement principal | 2026-11-17 |
+
+R-003: DOJ reports actual payment; the alleged billing conduct covers 2015-08-01 through 2021-07-31. The three entities constitute a single settlement, not three separate recoveries. No admission of liability. Exact receipt dates, relator share, program allocations and executed agreement not independently retrieved. Source: https://www.justice.gov/usao-wdok/pr/oklahoma-hospitals-and-physician-group-pay-42-million-settle-allegations-submitting
+
+R-004: DOJ explicitly includes $255,232.72 already paid as criminal restitution within $510,454.44 total. Arithmetic: $510,454.44 minus $255,232.72 = $255,221.72 other settlement payment component; twice the exact restitution would be $510,465.44, $11 above the disclosed total. DOJ describes repayment as twice the misdirected funds; exact underlying misdirection and explanation of difference require agreement/judgment. No adjustment to source amounts; do not add restitution again. Approximate original $844,000 EIDL loan is distinct; remaining loan principal unknown. Source: https://www.justice.gov/usao-nh/pr/andy-sanborn-pays-more-500000-resolve-false-claims-act-allegations-related-misuse
+
+Combined reported payments across these two distinct matters: $4,710,454.44. Not a net Treasury retention figure or new collection today. Both are agency-reported receipts; bank records and signed agreements not retrieved. No inference of unpaid balances on other obligations or link to political advocacy entities.
+
+Backlog: reconcile actual dates, allocations, agreement terms, and R-004 $11 discrepancy; completed source and arithmetic check, underlying documents pending. No submissions made.
