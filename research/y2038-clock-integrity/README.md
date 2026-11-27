@@ -31,3 +31,6 @@ The records referenced here originated in scheduled ChatGPT observations (number
 
 ## Follow-up policy
 Use a short report for routine runs: timestamp, sources, actual discrepancy, rollover tests, and retention status. Preserve detailed logs and file hashes in the supporting records; show long hashes only on mismatches or request. Never claim GitHub publication unless a commit succeeded.
+
+## Verified raw observation uploads
+- 269 — 27 November 2026, 00:45:55–00:46:04 UTC: [JSON](observations/clock_integrity_observation_269.json) and [SHA-256](observations/clock_integrity_observation_269.json.sha256). Both read back successfully. Nanosecond Python representation; Wolfram whole-second UnixTime retained; upstream independence and absolute accuracy unverified.
