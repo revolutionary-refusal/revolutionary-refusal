@@ -14,14 +14,16 @@
 
 Microsoft, Alphabet / Google, Amazon / AWS, Meta Platforms, Oracle, CoreWeave, Nebius Group, Apple, IBM, Salesforce, Snowflake, Palantir Technologies, Equinix, Digital Realty, Equifax, TransUnion, Experian
 
-## Records first seen in the last 30 days (278)
+## Records first seen in the last 30 days (280)
 
-By kind: court-record 218, regulatory-filing 28, government-award 18, regulator-statement 7, company-statement 2, oversight-report 2, lobbying-disclosure 2, complaint-database 1
+By kind: court-record 220, regulatory-filing 28, government-award 18, regulator-statement 7, company-statement 2, oversight-report 2, lobbying-disclosure 2, complaint-database 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Rederford v. Amazon.com Services LLC](https://www.courtlistener.com/docket/74912844/rederford-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Sparta Community Unit School District No. 140 v. Meta Platforms, Inc](https://www.courtlistener.com/docket/75180973/sparta-community-unit-school-district-no-140-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-26 | NVIDIA | [Come for the Games, Stay for the Community With GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/) | NVIDIA |  |
 | 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Fullybright v. Amazon.com Inc](https://www.courtlistener.com/docket/71020697/fullybright-v-amazoncom-inc/) | Amazon / AWS |  |
 | 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Barnesville Exempted Village School District v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179813/barnesville-exempted-village-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
@@ -220,9 +222,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Pete v. Oracle America, Inc. and All Affiliates](https://www.courtlistener.com/docket/75160808/pete-v-oracle-america-inc-and-all-affiliates/) | Oracle |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Oracle America, Inc. v. Procore Technologies, Inc.](https://www.courtlistener.com/docket/69314070/oracle-america-inc-v-procore-technologies-inc/) | Oracle |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Hannibal IP, LLC v. Apple Inc.](https://www.courtlistener.com/docket/74716293/hannibal-ip-llc-v-apple-inc/) | Apple |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Apple Inc v. Tangible IP](https://www.courtlistener.com/docket/73717396/apple-inc-v-tangible-ip/) | Apple |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Stithem v. Apple Inc.](https://www.courtlistener.com/docket/73210617/stithem-v-apple-inc/) | Apple |  |
 
-_78 older rows omitted here; all are in `ledger/`._
+_80 older rows omitted here; all are in `ledger/`._
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.

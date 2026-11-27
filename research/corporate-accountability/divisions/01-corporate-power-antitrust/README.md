@@ -14,14 +14,16 @@
 
 OpenAI, Anthropic, PBC, xAI, NVIDIA, Advanced Micro Devices, Broadcom, Microsoft, Alphabet / Google, Amazon / AWS, Meta Platforms, Apple, Visa, Mastercard, NextEra Energy, Dominion Energy, AT&T, Verizon, Comcast, Charter Communications, T-Mobile US, UnitedHealth Group, CVS Health, Cigna Group
 
-## Records first seen in the last 30 days (458)
+## Records first seen in the last 30 days (460)
 
-By kind: court-record 236, regulatory-filing 95, regulator-statement 86, lobbying-disclosure 24, regulator-notice 14, oversight-report 3
+By kind: court-record 238, regulatory-filing 95, regulator-statement 86, lobbying-disclosure 24, regulator-notice 14, oversight-report 3
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Rederford v. Amazon.com Services LLC](https://www.courtlistener.com/docket/74912844/rederford-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Sparta Community Unit School District No. 140 v. Meta Platforms, Inc](https://www.courtlistener.com/docket/75180973/sparta-community-unit-school-district-no-140-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-26 | UK Competition and Markets Authority (GOV.UK) | [The Brink’s Company / NCR Atleos Corporation merger inquiry](https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry) |  |  |
 | 2026-11-26 | UK Competition and Markets Authority (GOV.UK) | [CMA correspondence in relation to private provision in the dentistry market](https://www.gov.uk/government/publications/cma-correspondence-in-relation-to-private-provision-in-the-dentistry-market) |  |  |
 | 2026-11-26 | UK Competition and Markets Authority (GOV.UK) | [Private dental services market study: interim report](https://www.gov.uk/government/consultations/private-dental-services-market-study-interim-report) |  | market-investigation |
@@ -220,9 +222,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: U.S. News & World Report, L.P. v. OpenAI, Inc.](https://www.courtlistener.com/docket/71970530/us-news-world-report-lp-v-openai-inc/) | OpenAI |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Sullivan v. OpenAI Foundation](https://www.courtlistener.com/docket/74652896/sullivan-v-openai-foundation/) | OpenAI |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Chabon v. OpenAI, Inc.](https://www.courtlistener.com/docket/69920598/chabon-v-openai-inc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Authors Guild v. OpenAI Inc.](https://www.courtlistener.com/docket/67810584/authors-guild-v-openai-inc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Ziff Davis, Inc. v. OpenAI, Inc.](https://www.courtlistener.com/docket/70338311/ziff-davis-inc-v-openai-inc/) | OpenAI |  |
 
-_258 older rows omitted here; all are in `ledger/`._
+_260 older rows omitted here; all are in `ledger/`._
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.

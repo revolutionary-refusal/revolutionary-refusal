@@ -2,7 +2,7 @@
 
 # Open leads (last 30 days)
 
-Generated 2026-11-26T16:56:29+00:00 UTC / 2026-11-26 18:56 Asia/Jerusalem.
+Generated 2026-11-27T01:44:47+00:00 UTC / 2026-11-27 03:44 Asia/Jerusalem.
 
 A lead is a mechanical reason to look closer. It is not an accusation and not a finding. Rules are applied identically to every watched entity:
 
@@ -14,7 +14,7 @@ A lead is a mechanical reason to look closer. It is not an accusation and not a 
 - **R6** A watched entity registered a new lobbying relationship or reported $500k+ in a quarter
 - **R7** The same entity surfaced in four or more divisions within 30 days (convergence; low priority, large firms trip it often)
 
-Leads by rule: R1 5, R2 284, R3 18, R4 101, R5 39, R6 21, R7 12
+Leads by rule: R1 5, R2 286, R3 18, R4 101, R5 39, R6 21, R7 12
 
 | Score | Rule | Date | Entities | Document | Signal |
 |---|---|---|---|---|---|
@@ -61,6 +61,8 @@ Leads by rule: R1 5, R2 284, R3 18, R4 101, R5 39, R6 21, R7 12
 | 2 | R2 | 2026-11-26 | Meta Platforms | [Federal case: Barnesville Exempted Village School District v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179813/barnesville-exempted-village-school-district-v-meta-platforms-inc/) |  |
 | 2 | R2 | 2026-11-26 | Meta Platforms | [Federal case: Stamford Public Schools v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179816/stamford-public-schools-v-meta-platforms-inc-formerly-known-as/) |  |
 | 2 | R2 | 2026-11-26 | Meta Platforms | [Federal case: Morgan Local School District v. Meta Platforms Inc.](https://www.courtlistener.com/docket/75180909/morgan-local-school-district-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-26 | Amazon / AWS | [Federal case: Rederford v. Amazon.com Services LLC](https://www.courtlistener.com/docket/74912844/rederford-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-26 | Meta Platforms | [Federal case: Sparta Community Unit School District No. 140 v. Meta Platforms, Inc](https://www.courtlistener.com/docket/75180973/sparta-community-unit-school-district-no-140-v-meta-platforms-inc/) |  |
 | 2 | R2 | 2026-11-25 | OpenAI | [Federal case: The Intercept Media, Inc. v. OpenAI, Inc.](https://www.courtlistener.com/docket/68290804/the-intercept-media-inc-v-openai-inc/) |  |
 | 2 | R2 | 2026-11-25 | OpenAI | [Federal case: The Center for Investigative Reporting, Inc. v. OpenAI, Inc.](https://www.courtlistener.com/docket/68892274/the-center-for-investigative-reporting-inc-v-openai-inc/) |  |
 | 2 | R2 | 2026-11-25 | Microsoft | [Federal case: Boone Newsmedia, Inc. v. Microsoft Corporation](https://www.courtlistener.com/docket/75050103/boone-newsmedia-inc-v-microsoft-corporation/) |  |
@@ -316,5 +318,3 @@ Leads by rule: R1 5, R2 284, R3 18, R4 101, R5 39, R6 21, R7 12
 | 2 | R2 | 2026-11-23 | Oracle | [Federal case: WaitBusters LLC v. Oracle Corporation](https://www.courtlistener.com/docket/73623037/waitbusters-llc-v-oracle-corporation/) |  |
 | 2 | R2 | 2026-11-23 | Oracle | [Federal case: HEADWATER RESEARCH LLC v. Oracle Corporation](https://www.courtlistener.com/docket/73738346/headwater-research-llc-v-oracle-corporation/) |  |
 | 2 | R2 | 2026-11-23 | Oracle | [Federal case: Pete v. Oracle America, Inc. and All Affiliates](https://www.courtlistener.com/docket/75160808/pete-v-oracle-america-inc-and-all-affiliates/) |  |
-| 2 | R2 | 2026-11-23 | Oracle | [Federal case: Oracle America, Inc. v. Procore Technologies, Inc.](https://www.courtlistener.com/docket/69314070/oracle-america-inc-v-procore-technologies-inc/) |  |
-| 2 | R2 | 2026-11-23 | Apple | [Federal case: Hannibal IP, LLC v. Apple Inc.](https://www.courtlistener.com/docket/74716293/hannibal-ip-llc-v-apple-inc/) |  |

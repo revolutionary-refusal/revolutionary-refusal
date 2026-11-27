@@ -14,14 +14,16 @@
 
 OpenAI, Anthropic, PBC, xAI, NVIDIA, Microsoft, Alphabet / Google, Amazon / AWS, Meta Platforms, Palantir Technologies, Andreessen Horowitz
 
-## Records first seen in the last 30 days (449)
+## Records first seen in the last 30 days (451)
 
-By kind: lobbying-disclosure 203, court-record 193, regulator-statement 20, regulatory-filing 16, regulator-notice 15, oversight-report 1, complaint-database 1
+By kind: lobbying-disclosure 203, court-record 195, regulator-statement 20, regulatory-filing 16, regulator-notice 15, oversight-report 1, complaint-database 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Rederford v. Amazon.com Services LLC](https://www.courtlistener.com/docket/74912844/rederford-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Sparta Community Unit School District No. 140 v. Meta Platforms, Inc](https://www.courtlistener.com/docket/75180973/sparta-community-unit-school-district-no-140-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-26 | European Commission | [Temu commits to complying with EU consumer protection rules following action by national authorities](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2594) |  |  |
 | 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Fullybright v. Amazon.com Inc](https://www.courtlistener.com/docket/71020697/fullybright-v-amazoncom-inc/) | Amazon / AWS |  |
 | 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Barnesville Exempted Village School District v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179813/barnesville-exempted-village-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
@@ -220,9 +222,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: E.J.F., individually and as natural guardian of T.R.F., a minor v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75159374/ejf-individually-and-as-natural-guardian-of-trf-a-minor-v-meta/) | Meta Platforms |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Armorel School District v. Meta Platforms Inc.](https://www.courtlistener.com/docket/75127328/armorel-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Chouhan v. Meta Platforms, Inc., fka Facebook, Inc.](https://www.courtlistener.com/docket/75147723/chouhan-v-meta-platforms-inc-fka-facebook-inc/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Howard Gardner Multiple Intelligence Charter School v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75157157/howard-gardner-multiple-intelligence-charter-school-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Board of Trustees of Hoboken Charter School v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156993/board-of-trustees-of-hoboken-charter-school-v-meta-platforms-inc/) | Meta Platforms |  |
 
-_249 older rows omitted here; all are in `ledger/`._
+_251 older rows omitted here; all are in `ledger/`._
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.
