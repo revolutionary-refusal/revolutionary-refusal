@@ -14,14 +14,15 @@
 
 Berkshire Hathaway, NextEra Energy, Dominion Energy, Constellation Energy, Vistra, Duke Energy, Southern Company, AT&T, Verizon, Comcast, Charter Communications, T-Mobile US, UnitedHealth Group, CVS Health, Cigna Group, Elevance Health
 
-## Records first seen in the last 30 days (120)
+## Records first seen in the last 30 days (121)
 
-By kind: lobbying-disclosure 51, regulatory-filing 50, regulator-notice 13, regulator-statement 2, oversight-report 2, court-record 1, government-award 1
+By kind: regulatory-filing 51, lobbying-disclosure 51, regulator-notice 13, regulator-statement 2, oversight-report 2, court-record 1, government-award 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-27 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Applied Digital Corp. (APLD) 8-K filed 2026-11-27 contains "data center" "power purchase agreement"](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000069/0001144879-26-000069-index.htm) |  |  |
 | 2026-11-25 | Federal Register (Health and Human Services Department, Centers for Medicare & Medicaid Services) | [Proposed Rule: Medicare Program; Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Programs of All-Inclusive Care for the Elderly](https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program) |  | rulemaking |
 | 2026-11-25 | Federal Register (Federal Communications Commission) | [Rule: Auction of Flexible-Use Licenses in the Upper C-Band for Next-Generation Wireless Services; Notice and Filing Requirements, Minimum Opening Bids, Upfront Payments, and Other Procedures for Auction 115; Bidding Scheduled To Begin April 27, 2027](https://www.federalregister.gov/documents/2026/11/25/2026-24013/auction-of-flexible-use-licenses-in-the-upper-c-band-for-next-generation-wireless-services-notice) |  |  |
 | 2026-11-24 | Federal Register (Federal Communications Commission) | [Notice: Deletion of Item From November 19, 2026 Open Meeting](https://www.federalregister.gov/documents/2026/11/24/2026-23828/deletion-of-item-from-november-19-2026-open-meeting) |  |  |

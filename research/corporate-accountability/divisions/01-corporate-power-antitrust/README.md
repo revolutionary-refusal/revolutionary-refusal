@@ -14,14 +14,27 @@
 
 OpenAI, Anthropic, PBC, xAI, NVIDIA, Advanced Micro Devices, Broadcom, Microsoft, Alphabet / Google, Amazon / AWS, Meta Platforms, Apple, Visa, Mastercard, NextEra Energy, Dominion Energy, AT&T, Verizon, Comcast, Charter Communications, T-Mobile US, UnitedHealth Group, CVS Health, Cigna Group
 
-## Records first seen in the last 30 days (460)
+## Records first seen in the last 30 days (474)
 
-By kind: court-record 238, regulatory-filing 95, regulator-statement 86, lobbying-disclosure 24, regulator-notice 14, oversight-report 3
+By kind: court-record 244, regulatory-filing 96, regulator-statement 93, lobbying-disclosure 24, regulator-notice 14, oversight-report 3
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-27 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Texas Ventures Acquisition III Corp (TVA, TVACU, TVACW) S-4/A filed 2026-11-27 contains "Hart-Scott-Rodino" "artificial intelligence"](https://www.sec.gov/Archives/edgar/data/2033991/000119312526478821/0001193125-26-478821-index.htm) |  |  |
+| 2026-11-27 | UK Competition and Markets Authority (GOV.UK) | [CMA: prompt payment data](https://www.gov.uk/government/collections/cma-prompt-payment-data) |  |  |
+| 2026-11-27 | UK Competition and Markets Authority (GOV.UK) | [CMA: prompt payment data, July to September 2026](https://www.gov.uk/government/publications/cma-prompt-payment-data-july-to-september-2026) |  |  |
+| 2026-11-27 | UK Competition and Markets Authority (GOV.UK) | [CMA: workforce management information](https://www.gov.uk/government/collections/cma-workforce-management-information) |  |  |
+| 2026-11-27 | UK Competition and Markets Authority (GOV.UK) | [CMA: workforce management information October 2026](https://www.gov.uk/government/publications/cma-workforce-management-information-october-2026) |  |  |
+| 2026-11-27 | European Commission | [Daily News 27 / 11 / 2026](https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2609) |  |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Gendron v. Google LLC](https://www.courtlistener.com/docket/72533900/gendron-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Alan Dale Dickinson v. Amazon.com, Inc.](https://www.courtlistener.com/docket/74907514/alan-dale-dickinson-v-amazoncom-inc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: MAZIE v. META PLATFORMS, INC.](https://www.courtlistener.com/docket/73420534/mazie-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: KIPP Delta Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75134470/kipp-delta-public-schools-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Gallia County Local Schools v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179529/gallia-county-local-schools-v-meta-platforms-inc-formerly-known-as/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Apple Inc. v. Liu](https://www.courtlistener.com/docket/73602437/apple-inc-v-liu/) | Apple |  |
+| 2026-11-26 | European Commission | [Commission unconditionally approves Deutsche Börse's acquisition of Allfunds](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2592) |  |  |
 | 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Rederford v. Amazon.com Services LLC](https://www.courtlistener.com/docket/74912844/rederford-v-amazoncom-services-llc/) | Amazon / AWS |  |
 | 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Sparta Community Unit School District No. 140 v. Meta Platforms, Inc](https://www.courtlistener.com/docket/75180973/sparta-community-unit-school-district-no-140-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-26 | UK Competition and Markets Authority (GOV.UK) | [The Brink’s Company / NCR Atleos Corporation merger inquiry](https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry) |  |  |
@@ -32,6 +45,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Barnesville Exempted Village School District v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179813/barnesville-exempted-village-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Stamford Public Schools v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179816/stamford-public-schools-v-meta-platforms-inc-formerly-known-as/) | Meta Platforms |  |
 | 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Morgan Local School District v. Meta Platforms Inc.](https://www.courtlistener.com/docket/75180909/morgan-local-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-25 | UK Competition and Markets Authority (GOV.UK) | [Anti-competitive conduct in relation to the supply of fragrances (51257)](https://www.gov.uk/cma-cases/anti-competitive-conduct-in-relation-to-the-supply-of-fragrances-51257) |  |  |
 | 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Giovanni v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/75178311/giovanni-v-amazoncom-services-llc/) | Amazon / AWS |  |
 | 2026-11-25 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Summit Academy Community School - Columbus v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179771/summit-academy-community-school-columbus-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-25 | U.S. Securities and Exchange Commission (EDGAR) | [Anthropic, PBC filed 8-K (Item 1.01: Entry into a material definitive agreement; Item 3.02; Item 3.03; Item 5.03; Item 7.01: Regulation FD disclosure; Item 8.01: Other events; Item 9.01)](https://www.sec.gov/Archives/edgar/data/2130357/000162828026075973/ant-20261119.htm) | Anthropic, PBC |  |
@@ -208,21 +222,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR) | [Meta Platforms, Inc. filed 8-K (Item 8.01: Other events)](https://www.sec.gov/Archives/edgar/data/1326801/000162828026075541/meta-20261118.htm) | Meta Platforms |  |
 | 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR) | [VISA INC. filed 8-K (Item 5.02: Departure or appointment of directors or officers)](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000143/v-20261118.htm) | Visa |  |
 | 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Zscaler, Inc. (ZS) 8-K filed 2026-11-23 contains "Hart-Scott-Rodino" "artificial intelligence"](https://www.sec.gov/Archives/edgar/data/1713683/000119312526471211/0001193125-26-471211-index.htm) |  |  |
-| 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [CrowdStrike Holdings, Inc. (CRWD) 8-K filed 2026-11-23 contains "Hart-Scott-Rodino" "artificial intelligence"](https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/0001104659-26-130785-index.htm) |  |  |
-| 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [ALTA EQUIPMENT GROUP INC. (ALTG, ALTG-PA) 8-K filed 2026-11-23 contains "Hart-Scott-Rodino" "artificial intelligence"](https://www.sec.gov/Archives/edgar/data/1759824/000119312526472368/0001193125-26-472368-index.htm) |  |  |
-| 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [EagleRock Land, LLC (EROK) 8-K filed 2026-11-23 contains "Hart-Scott-Rodino" "artificial intelligence"](https://www.sec.gov/Archives/edgar/data/2104882/000119312526472614/0001193125-26-472614-index.htm) |  |  |
-| 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Texas Pacific Land Corp (TPL) 8-K filed 2026-11-23 contains "Hart-Scott-Rodino" "artificial intelligence"](https://www.sec.gov/Archives/edgar/data/1811074/000119312526472518/0001193125-26-472518-index.htm) |  |  |
-| 2026-11-23 | UK Competition and Markets Authority (GOV.UK) | [BAE Systems undertakings review](https://www.gov.uk/government/consultations/bae-systems-undertakings-review) |  |  |
-| 2026-11-23 | UK Competition and Markets Authority (GOV.UK) | [Google’s general search services: proposed user choice conduct requirement](https://www.gov.uk/government/consultations/googles-general-search-services-proposed-user-choice-conduct-requirement) | Alphabet / Google |  |
-| 2026-11-23 | UK Competition and Markets Authority (GOV.UK) | [BAE Systems undertakings review (2026)](https://www.gov.uk/cma-cases/bae-systems-undertakings-review-2026) |  |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: In Re: OpenAI, Inc. Copyright Infringement Litigation](https://www.courtlistener.com/docket/69879510/in-re-openai-inc-copyright-infringement-litigation/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Encyclopaedia Britannica, Inc. v. OpenAI, Inc.](https://www.courtlistener.com/docket/72492986/encyclopaedia-britannica-inc-v-openai-inc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Byrd v. OpenAI, Inc.](https://www.courtlistener.com/docket/73529045/byrd-v-openai-inc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Alzuabidi v. OpenAI OpCo, LLC](https://www.courtlistener.com/docket/74990401/alzuabidi-v-openai-opco-llc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: U.S. News & World Report, L.P. v. OpenAI, Inc.](https://www.courtlistener.com/docket/71970530/us-news-world-report-lp-v-openai-inc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Sullivan v. OpenAI Foundation](https://www.courtlistener.com/docket/74652896/sullivan-v-openai-foundation/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Chabon v. OpenAI, Inc.](https://www.courtlistener.com/docket/69920598/chabon-v-openai-inc/) | OpenAI |  |
 
-_260 older rows omitted here; all are in `ledger/`._
+_274 older rows omitted here; all are in `ledger/`._
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.

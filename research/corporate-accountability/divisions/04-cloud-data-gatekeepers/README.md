@@ -14,14 +14,20 @@
 
 Microsoft, Alphabet / Google, Amazon / AWS, Meta Platforms, Oracle, CoreWeave, Nebius Group, Apple, IBM, Salesforce, Snowflake, Palantir Technologies, Equinix, Digital Realty, Equifax, TransUnion, Experian
 
-## Records first seen in the last 30 days (280)
+## Records first seen in the last 30 days (286)
 
-By kind: court-record 220, regulatory-filing 28, government-award 18, regulator-statement 7, company-statement 2, oversight-report 2, lobbying-disclosure 2, complaint-database 1
+By kind: court-record 226, regulatory-filing 28, government-award 18, regulator-statement 7, company-statement 2, oversight-report 2, lobbying-disclosure 2, complaint-database 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Gendron v. Google LLC](https://www.courtlistener.com/docket/72533900/gendron-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Alan Dale Dickinson v. Amazon.com, Inc.](https://www.courtlistener.com/docket/74907514/alan-dale-dickinson-v-amazoncom-inc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: MAZIE v. META PLATFORMS, INC.](https://www.courtlistener.com/docket/73420534/mazie-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: KIPP Delta Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75134470/kipp-delta-public-schools-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Gallia County Local Schools v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179529/gallia-county-local-schools-v-meta-platforms-inc-formerly-known-as/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Apple Inc. v. Liu](https://www.courtlistener.com/docket/73602437/apple-inc-v-liu/) | Apple |  |
 | 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Rederford v. Amazon.com Services LLC](https://www.courtlistener.com/docket/74912844/rederford-v-amazoncom-services-llc/) | Amazon / AWS |  |
 | 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Sparta Community Unit School District No. 140 v. Meta Platforms, Inc](https://www.courtlistener.com/docket/75180973/sparta-community-unit-school-district-no-140-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-26 | NVIDIA | [Come for the Games, Stay for the Community With GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/) | NVIDIA |  |
@@ -216,13 +222,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Prider v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75153241/prider-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Starzinski v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/68980064/starzinski-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Board of Education of the Borough of Glen Ridge, County of Essex v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156577/board-of-education-of-the-borough-of-glen-ridge-county-of-essex-v-meta/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Thomas County School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156914/thomas-county-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: WaitBusters LLC v. Oracle Corporation](https://www.courtlistener.com/docket/73623037/waitbusters-llc-v-oracle-corporation/) | Oracle |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: HEADWATER RESEARCH LLC v. Oracle Corporation](https://www.courtlistener.com/docket/73738346/headwater-research-llc-v-oracle-corporation/) | Oracle |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Pete v. Oracle America, Inc. and All Affiliates](https://www.courtlistener.com/docket/75160808/pete-v-oracle-america-inc-and-all-affiliates/) | Oracle |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Oracle America, Inc. v. Procore Technologies, Inc.](https://www.courtlistener.com/docket/69314070/oracle-america-inc-v-procore-technologies-inc/) | Oracle |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Hannibal IP, LLC v. Apple Inc.](https://www.courtlistener.com/docket/74716293/hannibal-ip-llc-v-apple-inc/) | Apple |  |
 
-_80 older rows omitted here; all are in `ledger/`._
+_86 older rows omitted here; all are in `ledger/`._
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.

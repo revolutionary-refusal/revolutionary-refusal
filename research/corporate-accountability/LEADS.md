@@ -2,7 +2,7 @@
 
 # Open leads (last 30 days)
 
-Generated 2026-11-27T01:44:47+00:00 UTC / 2026-11-27 03:44 Asia/Jerusalem.
+Generated 2026-11-27T16:42:25+00:00 UTC / 2026-11-27 18:42 Asia/Jerusalem.
 
 A lead is a mechanical reason to look closer. It is not an accusation and not a finding. Rules are applied identically to every watched entity:
 
@@ -14,7 +14,7 @@ A lead is a mechanical reason to look closer. It is not an accusation and not a 
 - **R6** A watched entity registered a new lobbying relationship or reported $500k+ in a quarter
 - **R7** The same entity surfaced in four or more divisions within 30 days (convergence; low priority, large firms trip it often)
 
-Leads by rule: R1 5, R2 286, R3 18, R4 101, R5 39, R6 21, R7 12
+Leads by rule: R1 5, R2 292, R3 18, R4 101, R5 39, R6 21, R7 12
 
 | Score | Rule | Date | Entities | Document | Signal |
 |---|---|---|---|---|---|
@@ -57,6 +57,12 @@ Leads by rule: R1 5, R2 286, R3 18, R4 101, R5 39, R6 21, R7 12
 | 3 | R5 | 2025-01-31 | Oracle | [Federal contract: Department of Agriculture to ORACLE AMERICA, INC., $27,450,515 (award 12314425F0071)](https://www.usaspending.gov/award/CONT_AWD_12314425F0071_1205_12314424G0070_1205) |  |
 | 3 | R5 | 2024-07-17 | Microsoft | [Federal contract: Department of Agriculture to MICROSOFT CORPORATION, $114,888,285 (award 12314424F0350)](https://www.usaspending.gov/award/CONT_AWD_12314424F0350_1205_12314424G0011_1205) |  |
 | 3 | R5 | 2021-06-14 | Amazon / AWS | [Federal contract: General Services Administration to AMAZON WEB SERVICES, INC., $104,554,319 (award 47QDCB21F0015)](https://www.usaspending.gov/award/CONT_AWD_47QDCB21F0015_4732_47QTCA19D000C_4732) |  |
+| 2 | R2 | 2026-11-27 | Alphabet / Google | [Federal case: Gendron v. Google LLC](https://www.courtlistener.com/docket/72533900/gendron-v-google-llc/) |  |
+| 2 | R2 | 2026-11-27 | Amazon / AWS | [Federal case: Alan Dale Dickinson v. Amazon.com, Inc.](https://www.courtlistener.com/docket/74907514/alan-dale-dickinson-v-amazoncom-inc/) |  |
+| 2 | R2 | 2026-11-27 | Meta Platforms | [Federal case: MAZIE v. META PLATFORMS, INC.](https://www.courtlistener.com/docket/73420534/mazie-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-27 | Meta Platforms | [Federal case: KIPP Delta Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75134470/kipp-delta-public-schools-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-27 | Meta Platforms | [Federal case: Gallia County Local Schools v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179529/gallia-county-local-schools-v-meta-platforms-inc-formerly-known-as/) |  |
+| 2 | R2 | 2026-11-27 | Apple | [Federal case: Apple Inc. v. Liu](https://www.courtlistener.com/docket/73602437/apple-inc-v-liu/) |  |
 | 2 | R2 | 2026-11-26 | Amazon / AWS | [Federal case: Fullybright v. Amazon.com Inc](https://www.courtlistener.com/docket/71020697/fullybright-v-amazoncom-inc/) |  |
 | 2 | R2 | 2026-11-26 | Meta Platforms | [Federal case: Barnesville Exempted Village School District v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179813/barnesville-exempted-village-school-district-v-meta-platforms-inc/) |  |
 | 2 | R2 | 2026-11-26 | Meta Platforms | [Federal case: Stamford Public Schools v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179816/stamford-public-schools-v-meta-platforms-inc-formerly-known-as/) |  |
@@ -312,9 +318,3 @@ Leads by rule: R1 5, R2 286, R3 18, R4 101, R5 39, R6 21, R7 12
 | 2 | R2 | 2026-11-23 | Meta Platforms | [Federal case: Board of Education of the Town of Hackettstown, Warren County v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156987/board-of-education-of-the-town-of-hackettstown-warren-county-v-meta/) |  |
 | 2 | R2 | 2026-11-23 | Meta Platforms | [Federal case: Corning School District v. Meta Platforms, Inc](https://www.courtlistener.com/docket/75134329/corning-school-district-v-meta-platforms-inc/) |  |
 | 2 | R2 | 2026-11-23 | Meta Platforms | [Federal case: Prider v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75153241/prider-v-meta-platforms-inc/) |  |
-| 2 | R2 | 2026-11-23 | Meta Platforms | [Federal case: Starzinski v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/68980064/starzinski-v-meta-platforms-inc/) |  |
-| 2 | R2 | 2026-11-23 | Meta Platforms | [Federal case: Board of Education of the Borough of Glen Ridge, County of Essex v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156577/board-of-education-of-the-borough-of-glen-ridge-county-of-essex-v-meta/) |  |
-| 2 | R2 | 2026-11-23 | Meta Platforms | [Federal case: Thomas County School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156914/thomas-county-school-district-v-meta-platforms-inc/) |  |
-| 2 | R2 | 2026-11-23 | Oracle | [Federal case: WaitBusters LLC v. Oracle Corporation](https://www.courtlistener.com/docket/73623037/waitbusters-llc-v-oracle-corporation/) |  |
-| 2 | R2 | 2026-11-23 | Oracle | [Federal case: HEADWATER RESEARCH LLC v. Oracle Corporation](https://www.courtlistener.com/docket/73738346/headwater-research-llc-v-oracle-corporation/) |  |
-| 2 | R2 | 2026-11-23 | Oracle | [Federal case: Pete v. Oracle America, Inc. and All Affiliates](https://www.courtlistener.com/docket/75160808/pete-v-oracle-america-inc-and-all-affiliates/) |  |

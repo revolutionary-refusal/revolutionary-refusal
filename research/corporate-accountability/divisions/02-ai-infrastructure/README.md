@@ -14,14 +14,21 @@
 
 OpenAI, Anthropic, PBC, xAI, Mistral AI, Scale AI, NVIDIA, Advanced Micro Devices, Broadcom, Intel, Taiwan Semiconductor Manufacturing, Micron Technology, Arm Holdings, ASML, Cerebras Systems, Super Micro Computer, Dell Technologies, Microsoft, Alphabet / Google, Amazon / AWS, Meta Platforms, Oracle, CoreWeave, Nebius Group, IBM, Palantir Technologies, Tesla, Equinix, Digital Realty, SoftBank Group, Blackstone, Thrive Capital, Constellation Energy, Vistra
 
-## Records first seen in the last 30 days (635)
+## Records first seen in the last 30 days (642)
 
-By kind: court-record 241, regulatory-filing 233, company-statement 83, government-award 60, regulator-notice 9, oversight-report 4, lobbying-disclosure 4, regulator-statement 1
+By kind: court-record 246, regulatory-filing 235, company-statement 83, government-award 60, regulator-notice 9, oversight-report 4, lobbying-disclosure 4, regulator-statement 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-27 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Applied Digital Corp. (APLD) 8-K filed 2026-11-27 contains "data center" "power purchase agreement"](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000069/0001144879-26-000069-index.htm) |  |  |
+| 2026-11-27 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Texas Ventures Acquisition III Corp (TVA, TVACU, TVACW) S-4/A filed 2026-11-27 contains "Hart-Scott-Rodino" "artificial intelligence"](https://www.sec.gov/Archives/edgar/data/2033991/000119312526478821/0001193125-26-478821-index.htm) |  |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Gendron v. Google LLC](https://www.courtlistener.com/docket/72533900/gendron-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Alan Dale Dickinson v. Amazon.com, Inc.](https://www.courtlistener.com/docket/74907514/alan-dale-dickinson-v-amazoncom-inc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: MAZIE v. META PLATFORMS, INC.](https://www.courtlistener.com/docket/73420534/mazie-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: KIPP Delta Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75134470/kipp-delta-public-schools-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Gallia County Local Schools v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179529/gallia-county-local-schools-v-meta-platforms-inc-formerly-known-as/) | Meta Platforms |  |
 | 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Rederford v. Amazon.com Services LLC](https://www.courtlistener.com/docket/74912844/rederford-v-amazoncom-services-llc/) | Amazon / AWS |  |
 | 2026-11-26 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Sparta Community Unit School District No. 140 v. Meta Platforms, Inc](https://www.courtlistener.com/docket/75180973/sparta-community-unit-school-district-no-140-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-26 | NVIDIA | [Come for the Games, Stay for the Community With GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/) | NVIDIA |  |
@@ -215,14 +222,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Doe 4 v. X. AI Corp.](https://www.courtlistener.com/docket/74698973/doe-4-v-x-ai-corp/) | xAI |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Rose v. X.AI LLC](https://www.courtlistener.com/docket/73473580/rose-v-xai-llc/) | xAI |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Mueller v. X.AI Corp.](https://www.courtlistener.com/docket/74976000/mueller-v-xai-corp/) | xAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Doe 2 v. X. AI Corp.](https://www.courtlistener.com/docket/74955216/doe-2-v-x-ai-corp/) | xAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Doe v. X. AI Corp.](https://www.courtlistener.com/docket/74747910/doe-v-x-ai-corp/) | xAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Grybniak v. X. AI LLC](https://www.courtlistener.com/docket/73480988/grybniak-v-x-ai-llc/) | xAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Doe v. X.AI Corp](https://www.courtlistener.com/docket/74645075/doe-v-xai-corp/) | xAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Doe 1 v. X. AI Corp.](https://www.courtlistener.com/docket/74767532/doe-1-v-x-ai-corp/) | xAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Doe 6 v. X. AI Corp.](https://www.courtlistener.com/docket/74805320/doe-6-v-x-ai-corp/) | xAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: DOE v. X.AI Corp.](https://www.courtlistener.com/docket/72185111/doe-v-xai-corp/) | xAI |  |
 
-_435 older rows omitted here; all are in `ledger/`._
+_442 older rows omitted here; all are in `ledger/`._
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.
