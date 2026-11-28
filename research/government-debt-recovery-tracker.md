@@ -175,3 +175,23 @@ R-004: DOJ explicitly includes $255,232.72 already paid as criminal restitution 
 Combined reported payments across these two distinct matters: $4,710,454.44. Not a net Treasury retention figure or new collection today. Both are agency-reported receipts; bank records and signed agreements not retrieved. No inference of unpaid balances on other obligations or link to political advocacy entities.
 
 Backlog: reconcile actual dates, allocations, agreement terms, and R-004 $11 discrepancy; completed source and arithmetic check, underlying documents pending. No submissions made.
+
+
+## 2026-11-27 — DOE contractor cost reimbursement / PPP forgiveness; confirmed civil penalty
+
+Historical disclosures newly reconciled against existing ledger, not new cash receipts today.
+
+| ID | Obligor | Creditor | Legal basis | Agreed amount | Actual recovered | Outstanding | Evidence date |
+| --- | --- | --- | --- | ---: | ---: | --- | --- |
+| D-023 | Firewater entity (DOJ versions conflict: Firewater Investigations, LLC vs Firewater Associates, LLC; agreement required) | United States | Civil FCA settlement | $405,186 | UNKNOWN | UNKNOWN | 2026-11-16, updated 2026-11-17 |
+| D-024 | Lancaster Services, Incorporated | United States | Civil FCA settlement | $475,000 | UNKNOWN | UNKNOWN | Same |
+| D-025 | Manhattan Legacy Services, LLC | United States | Civil FCA settlement | $125,000 | UNKNOWN | UNKNOWN | Same |
+| R-005 | Gull Pointe Pharmacy (exact legal entity suffix not established) | United States | Civil Controlled Substances Act penalty | $195,000 | $195,000 | $0 for reported penalty | 2026-11-24 |
+
+DOJ reports three distinct DOE-related contractor settlements totaling $1,005,186. It alleges payroll costs covered by DOE contract reimbursements were also claimed for SBA PPP forgiveness. The headline describes payment but the body confirms agreements, not exact receipts or collection dates; keep actual recovered and outstanding UNKNOWN pending receipts or agreements. No finding of liability. Source: https://www.justice.gov/usao-edtn/pr/three-government-contractors-pay-more-1-million-following-improper-use-ppp-loans
+
+Entity reconciliation: indexed DOJ extract named Firewater Investigations, LLC; the opened current article names Firewater Associates, LLC. DOE's published 2025-07-28 WIPP third triennial review (cover visually checked; PDF page 3) corroborates that Firewater Associates, LLC performed environmental review for SIMCO. This establishes the contractor name in a separate historical contract context, not the identity of the settlement signatory or wrongdoing in WIPP work. Do not create a second debt row for the name variation. DOE letter dated 2025-08-14 identifies the underlying 2016-01-22 settlement order requiring the review. Source: https://wipp.energy.gov/Library/Information_Repository_A/Notices_of_Violation/25-0557_Redacted.pdf
+
+R-005: DOJ expressly reports the $195,000 penalty was paid and a DEA compliance agreement entered. This is a penalty, not restitution or recovery of a subsidy. No liability determination; exact receipt date and signed agreement not independently verified. Source: https://www.justice.gov/usao-wdmi/pr/2026_1124_Gull_Pointe_Pharmacy_Settlement_PR
+
+Responsibility / follow-up: DOE contracting office and OIG for cost reimbursement and investigation; SBA for loan-forgiveness records; DOJ financial litigation for settlement agreements, correct legal names, due dates and receipt credits. DEA for the pharmacy compliance agreement. Do not add these amounts as a single recovery. No substantiated link to CUFI or UDP. Backlog: contractor legal identity and receipt reconciliation advanced; signed agreements, receipts, contract IDs and PPP loan IDs pending. No requests submitted.
