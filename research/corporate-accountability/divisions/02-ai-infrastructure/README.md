@@ -14,14 +14,29 @@
 
 OpenAI, Anthropic, PBC, xAI, Mistral AI, Scale AI, NVIDIA, Advanced Micro Devices, Broadcom, Intel, Taiwan Semiconductor Manufacturing, Micron Technology, Arm Holdings, ASML, Cerebras Systems, Super Micro Computer, Dell Technologies, Microsoft, Alphabet / Google, Amazon / AWS, Meta Platforms, Oracle, CoreWeave, Nebius Group, IBM, Palantir Technologies, Tesla, Equinix, Digital Realty, SoftBank Group, Blackstone, Thrive Capital, Constellation Energy, Vistra
 
-## Records first seen in the last 30 days (642)
+## Records first seen in the last 30 days (657)
 
-By kind: court-record 246, regulatory-filing 235, company-statement 83, government-award 60, regulator-notice 9, oversight-report 4, lobbying-disclosure 4, regulator-statement 1
+By kind: court-record 261, regulatory-filing 235, company-statement 83, government-award 60, regulator-notice 9, oversight-report 4, lobbying-disclosure 4, regulator-statement 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: ZapFraud Inc. v. Google LLC](https://www.courtlistener.com/docket/73643932/zapfraud-inc-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Wildseed Mobile LLC v. Google LLC](https://www.courtlistener.com/docket/64932344/wildseed-mobile-llc-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Palomino v. Amazon.com Services LLC](https://www.courtlistener.com/docket/75181411/palomino-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Martinez v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/68319146/martinez-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Thomas v. Amazon.com Services LLC](https://www.courtlistener.com/docket/73699477/thomas-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Spinosa v. Amazon.com Services Inc.](https://www.courtlistener.com/docket/74921464/spinosa-v-amazoncom-services-inc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: St Justin v. Amazon.com Services LLC](https://www.courtlistener.com/docket/73525629/st-justin-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Board of Education of the County of McDowell v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75157247/board-of-education-of-the-county-of-mcdowell-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Ridgewood Local School District v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179680/ridgewood-local-school-district-v-meta-platforms-inc-formerly-known-as/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Westchester Public Schools District 92 1/2 v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179359/westchester-public-schools-district-92-12-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: ummit Academy Community School for Alternative Learners of Middletown v. Meta Platforms, Inc., fka Facebook, Inc.](https://www.courtlistener.com/docket/75179770/ummit-academy-community-school-for-alternative-learners-of-middletown-v/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Dermott Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75176026/dermott-public-schools-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Scituate Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75179216/scituate-public-schools-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Marshall v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75167309/marshall-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Ellwood Christian Academy v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179693/ellwood-christian-academy-v-meta-platforms-inc-formerly-known-as/) | Meta Platforms |  |
 | 2026-11-27 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Applied Digital Corp. (APLD) 8-K filed 2026-11-27 contains "data center" "power purchase agreement"](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000069/0001144879-26-000069-index.htm) |  |  |
 | 2026-11-27 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Texas Ventures Acquisition III Corp (TVA, TVACU, TVACW) S-4/A filed 2026-11-27 contains "Hart-Scott-Rodino" "artificial intelligence"](https://www.sec.gov/Archives/edgar/data/2033991/000119312526478821/0001193125-26-478821-index.htm) |  |  |
 | 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Gendron v. Google LLC](https://www.courtlistener.com/docket/72533900/gendron-v-google-llc/) | Alphabet / Google |  |
@@ -207,22 +222,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-23 | NVIDIA | [Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season](https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/) | NVIDIA |  |
 | 2026-11-23 | NVIDIA | [NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director) | NVIDIA |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: In Re: OpenAI, Inc. Copyright Infringement Litigation](https://www.courtlistener.com/docket/69879510/in-re-openai-inc-copyright-infringement-litigation/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Encyclopaedia Britannica, Inc. v. OpenAI, Inc.](https://www.courtlistener.com/docket/72492986/encyclopaedia-britannica-inc-v-openai-inc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Byrd v. OpenAI, Inc.](https://www.courtlistener.com/docket/73529045/byrd-v-openai-inc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Alzuabidi v. OpenAI OpCo, LLC](https://www.courtlistener.com/docket/74990401/alzuabidi-v-openai-opco-llc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: U.S. News & World Report, L.P. v. OpenAI, Inc.](https://www.courtlistener.com/docket/71970530/us-news-world-report-lp-v-openai-inc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Sullivan v. OpenAI Foundation](https://www.courtlistener.com/docket/74652896/sullivan-v-openai-foundation/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Chabon v. OpenAI, Inc.](https://www.courtlistener.com/docket/69920598/chabon-v-openai-inc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Authors Guild v. OpenAI Inc.](https://www.courtlistener.com/docket/67810584/authors-guild-v-openai-inc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Ziff Davis, Inc. v. OpenAI, Inc.](https://www.courtlistener.com/docket/70338311/ziff-davis-inc-v-openai-inc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Raw Story Media, Inc. v. OpenAI Inc.](https://www.courtlistener.com/docket/68290709/raw-story-media-inc-v-openai-inc/) | OpenAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Buist v. Anthropic, PBC](https://www.courtlistener.com/docket/74816200/buist-v-anthropic-pbc/) | Anthropic, PBC |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Ortiz Colon v. Anthropic, PBC](https://www.courtlistener.com/docket/75119140/ortiz-colon-v-anthropic-pbc/) | Anthropic, PBC |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Carlson LLC v. Anthropic PBC](https://www.courtlistener.com/docket/75148502/carlson-llc-v-anthropic-pbc/) | Anthropic, PBC |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Doe 4 v. X. AI Corp.](https://www.courtlistener.com/docket/74698973/doe-4-v-x-ai-corp/) | xAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Rose v. X.AI LLC](https://www.courtlistener.com/docket/73473580/rose-v-xai-llc/) | xAI |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Mueller v. X.AI Corp.](https://www.courtlistener.com/docket/74976000/mueller-v-xai-corp/) | xAI |  |
 
-_442 older rows omitted here; all are in `ledger/`._
+_457 older rows omitted here; all are in `ledger/`._
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.

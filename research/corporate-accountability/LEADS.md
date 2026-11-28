@@ -2,7 +2,7 @@
 
 # Open leads (last 30 days)
 
-Generated 2026-11-27T16:42:25+00:00 UTC / 2026-11-27 18:42 Asia/Jerusalem.
+Generated 2026-11-28T01:28:18+00:00 UTC / 2026-11-28 03:28 Asia/Jerusalem.
 
 A lead is a mechanical reason to look closer. It is not an accusation and not a finding. Rules are applied identically to every watched entity:
 
@@ -14,7 +14,7 @@ A lead is a mechanical reason to look closer. It is not an accusation and not a 
 - **R6** A watched entity registered a new lobbying relationship or reported $500k+ in a quarter
 - **R7** The same entity surfaced in four or more divisions within 30 days (convergence; low priority, large firms trip it often)
 
-Leads by rule: R1 5, R2 292, R3 18, R4 101, R5 39, R6 21, R7 12
+Leads by rule: R1 5, R2 310, R3 18, R4 101, R5 39, R6 21, R7 12
 
 | Score | Rule | Date | Entities | Document | Signal |
 |---|---|---|---|---|---|
@@ -63,6 +63,24 @@ Leads by rule: R1 5, R2 292, R3 18, R4 101, R5 39, R6 21, R7 12
 | 2 | R2 | 2026-11-27 | Meta Platforms | [Federal case: KIPP Delta Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75134470/kipp-delta-public-schools-v-meta-platforms-inc/) |  |
 | 2 | R2 | 2026-11-27 | Meta Platforms | [Federal case: Gallia County Local Schools v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179529/gallia-county-local-schools-v-meta-platforms-inc-formerly-known-as/) |  |
 | 2 | R2 | 2026-11-27 | Apple | [Federal case: Apple Inc. v. Liu](https://www.courtlistener.com/docket/73602437/apple-inc-v-liu/) |  |
+| 2 | R2 | 2026-11-27 | Alphabet / Google | [Federal case: ZapFraud Inc. v. Google LLC](https://www.courtlistener.com/docket/73643932/zapfraud-inc-v-google-llc/) |  |
+| 2 | R2 | 2026-11-27 | Alphabet / Google | [Federal case: Wildseed Mobile LLC v. Google LLC](https://www.courtlistener.com/docket/64932344/wildseed-mobile-llc-v-google-llc/) |  |
+| 2 | R2 | 2026-11-27 | Amazon / AWS | [Federal case: Palomino v. Amazon.com Services LLC](https://www.courtlistener.com/docket/75181411/palomino-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-27 | Amazon / AWS | [Federal case: Martinez v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/68319146/martinez-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-27 | Amazon / AWS | [Federal case: Thomas v. Amazon.com Services LLC](https://www.courtlistener.com/docket/73699477/thomas-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-27 | Amazon / AWS | [Federal case: Spinosa v. Amazon.com Services Inc.](https://www.courtlistener.com/docket/74921464/spinosa-v-amazoncom-services-inc/) |  |
+| 2 | R2 | 2026-11-27 | Amazon / AWS | [Federal case: St Justin v. Amazon.com Services LLC](https://www.courtlistener.com/docket/73525629/st-justin-v-amazoncom-services-llc/) |  |
+| 2 | R2 | 2026-11-27 | Meta Platforms | [Federal case: Board of Education of the County of McDowell v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75157247/board-of-education-of-the-county-of-mcdowell-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-27 | Meta Platforms | [Federal case: Ridgewood Local School District v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179680/ridgewood-local-school-district-v-meta-platforms-inc-formerly-known-as/) |  |
+| 2 | R2 | 2026-11-27 | Meta Platforms | [Federal case: Westchester Public Schools District 92 1/2 v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179359/westchester-public-schools-district-92-12-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-27 | Meta Platforms | [Federal case: ummit Academy Community School for Alternative Learners of Middletown v. Meta Platforms, Inc., fka Facebook, Inc.](https://www.courtlistener.com/docket/75179770/ummit-academy-community-school-for-alternative-learners-of-middletown-v/) |  |
+| 2 | R2 | 2026-11-27 | Meta Platforms | [Federal case: Dermott Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75176026/dermott-public-schools-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-27 | Meta Platforms | [Federal case: Scituate Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75179216/scituate-public-schools-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-27 | Meta Platforms | [Federal case: Marshall v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75167309/marshall-v-meta-platforms-inc/) |  |
+| 2 | R2 | 2026-11-27 | Meta Platforms | [Federal case: Ellwood Christian Academy v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179693/ellwood-christian-academy-v-meta-platforms-inc-formerly-known-as/) |  |
+| 2 | R2 | 2026-11-27 | Apple | [Federal case: Pinczewski v. Apple Inc.](https://www.courtlistener.com/docket/75133284/pinczewski-v-apple-inc/) |  |
+| 2 | R2 | 2026-11-27 | Apple | [Federal case: Apple Inc. v. Shi](https://www.courtlistener.com/docket/71172484/apple-inc-v-shi/) |  |
+| 2 | R2 | 2026-11-27 | Apple | [Federal case: Stanfield v. Apple Inc.](https://www.courtlistener.com/docket/73332621/stanfield-v-apple-inc/) |  |
 | 2 | R2 | 2026-11-26 | Amazon / AWS | [Federal case: Fullybright v. Amazon.com Inc](https://www.courtlistener.com/docket/71020697/fullybright-v-amazoncom-inc/) |  |
 | 2 | R2 | 2026-11-26 | Meta Platforms | [Federal case: Barnesville Exempted Village School District v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179813/barnesville-exempted-village-school-district-v-meta-platforms-inc/) |  |
 | 2 | R2 | 2026-11-26 | Meta Platforms | [Federal case: Stamford Public Schools v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179816/stamford-public-schools-v-meta-platforms-inc-formerly-known-as/) |  |
@@ -300,21 +318,3 @@ Leads by rule: R1 5, R2 292, R3 18, R4 101, R5 39, R6 21, R7 12
 | 2 | R2 | 2026-11-23 | Amazon / AWS | [Federal case: Ceiva Opco, LLC v. Amazon.com, Inc.](https://www.courtlistener.com/docket/63259207/ceiva-opco-llc-v-amazoncom-inc/) |  |
 | 2 | R2 | 2026-11-23 | Amazon / AWS | [Federal case: Flynn v. Amazon.com, Inc.](https://www.courtlistener.com/docket/75138025/flynn-v-amazoncom-inc/) |  |
 | 2 | R2 | 2026-11-23 | Amazon / AWS | [Federal case: Szymborski v. Amazon.com NV Investment Holdings, LLC](https://www.courtlistener.com/docket/72365314/szymborski-v-amazoncom-nv-investment-holdings-llc/) |  |
-| 2 | R2 | 2026-11-23 | Amazon / AWS | [Federal case: Lorenzo v. Amazon.com Services LLC](https://www.courtlistener.com/docket/75129310/lorenzo-v-amazoncom-services-llc/) |  |
-| 2 | R2 | 2026-11-23 | Amazon / AWS | [Federal case: Ice v. Amazon.com Services LLC](https://www.courtlistener.com/docket/74645007/ice-v-amazoncom-services-llc/) |  |
-| 2 | R2 | 2026-11-23 | Amazon / AWS | [Federal case: Williams v. Amazon.com Services LLC](https://www.courtlistener.com/docket/75109578/williams-v-amazoncom-services-llc/) |  |
-| 2 | R2 | 2026-11-23 | Amazon / AWS | [Federal case: Boateng v. Amazon.com. Inc.](https://www.courtlistener.com/docket/70702147/boateng-v-amazoncom-inc/) |  |
-| 2 | R2 | 2026-11-23 | Amazon / AWS | [Federal case: Penney v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/74940393/penney-v-amazoncom-services-llc/) |  |
-| 2 | R2 | 2026-11-23 | Amazon / AWS | [Federal case: Blade v. Amazon.com Services LLC](https://www.courtlistener.com/docket/73523049/blade-v-amazoncom-services-llc/) |  |
-| 2 | R2 | 2026-11-23 | Amazon / AWS | [Federal case: Redd-Matthews v. Amazon.com Services LLC](https://www.courtlistener.com/docket/75020060/redd-matthews-v-amazoncom-services-llc/) |  |
-| 2 | R2 | 2026-11-23 | Amazon / AWS | [Federal case: McKinnon v. Amazon Web Services, Inc.](https://www.courtlistener.com/docket/73431444/mckinnon-v-amazon-web-services-inc/) |  |
-| 2 | R2 | 2026-11-23 | Amazon / AWS | [Federal case: Barry W. Rosen v. Amazon.com, Inc.](https://www.courtlistener.com/docket/73223600/barry-w-rosen-v-amazoncom-inc/) |  |
-| 2 | R2 | 2026-11-23 | Meta Platforms | [Federal case: Vilonia School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75158100/vilonia-school-district-v-meta-platforms-inc/) |  |
-| 2 | R2 | 2026-11-23 | Meta Platforms | [Federal case: E.J.F., individually and as natural guardian of T.R.F., a minor v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75159374/ejf-individually-and-as-natural-guardian-of-trf-a-minor-v-meta/) |  |
-| 2 | R2 | 2026-11-23 | Meta Platforms | [Federal case: Armorel School District v. Meta Platforms Inc.](https://www.courtlistener.com/docket/75127328/armorel-school-district-v-meta-platforms-inc/) |  |
-| 2 | R2 | 2026-11-23 | Meta Platforms | [Federal case: Chouhan v. Meta Platforms, Inc., fka Facebook, Inc.](https://www.courtlistener.com/docket/75147723/chouhan-v-meta-platforms-inc-fka-facebook-inc/) |  |
-| 2 | R2 | 2026-11-23 | Meta Platforms | [Federal case: Howard Gardner Multiple Intelligence Charter School v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75157157/howard-gardner-multiple-intelligence-charter-school-v-meta-platforms-inc/) |  |
-| 2 | R2 | 2026-11-23 | Meta Platforms | [Federal case: Board of Trustees of Hoboken Charter School v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156993/board-of-trustees-of-hoboken-charter-school-v-meta-platforms-inc/) |  |
-| 2 | R2 | 2026-11-23 | Meta Platforms | [Federal case: Board of Education of the Town of Hackettstown, Warren County v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156987/board-of-education-of-the-town-of-hackettstown-warren-county-v-meta/) |  |
-| 2 | R2 | 2026-11-23 | Meta Platforms | [Federal case: Corning School District v. Meta Platforms, Inc](https://www.courtlistener.com/docket/75134329/corning-school-district-v-meta-platforms-inc/) |  |
-| 2 | R2 | 2026-11-23 | Meta Platforms | [Federal case: Prider v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75153241/prider-v-meta-platforms-inc/) |  |

@@ -14,14 +14,32 @@
 
 OpenAI, Anthropic, PBC, xAI, NVIDIA, Advanced Micro Devices, Broadcom, Microsoft, Alphabet / Google, Amazon / AWS, Meta Platforms, Apple, Visa, Mastercard, NextEra Energy, Dominion Energy, AT&T, Verizon, Comcast, Charter Communications, T-Mobile US, UnitedHealth Group, CVS Health, Cigna Group
 
-## Records first seen in the last 30 days (474)
+## Records first seen in the last 30 days (492)
 
-By kind: court-record 244, regulatory-filing 96, regulator-statement 93, lobbying-disclosure 24, regulator-notice 14, oversight-report 3
+By kind: court-record 262, regulatory-filing 96, regulator-statement 93, lobbying-disclosure 24, regulator-notice 14, oversight-report 3
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: ZapFraud Inc. v. Google LLC](https://www.courtlistener.com/docket/73643932/zapfraud-inc-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Wildseed Mobile LLC v. Google LLC](https://www.courtlistener.com/docket/64932344/wildseed-mobile-llc-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Palomino v. Amazon.com Services LLC](https://www.courtlistener.com/docket/75181411/palomino-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Martinez v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/68319146/martinez-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Thomas v. Amazon.com Services LLC](https://www.courtlistener.com/docket/73699477/thomas-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Spinosa v. Amazon.com Services Inc.](https://www.courtlistener.com/docket/74921464/spinosa-v-amazoncom-services-inc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: St Justin v. Amazon.com Services LLC](https://www.courtlistener.com/docket/73525629/st-justin-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Board of Education of the County of McDowell v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75157247/board-of-education-of-the-county-of-mcdowell-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Ridgewood Local School District v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179680/ridgewood-local-school-district-v-meta-platforms-inc-formerly-known-as/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Westchester Public Schools District 92 1/2 v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179359/westchester-public-schools-district-92-12-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: ummit Academy Community School for Alternative Learners of Middletown v. Meta Platforms, Inc., fka Facebook, Inc.](https://www.courtlistener.com/docket/75179770/ummit-academy-community-school-for-alternative-learners-of-middletown-v/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Dermott Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75176026/dermott-public-schools-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Scituate Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75179216/scituate-public-schools-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Marshall v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75167309/marshall-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Ellwood Christian Academy v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179693/ellwood-christian-academy-v-meta-platforms-inc-formerly-known-as/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Pinczewski v. Apple Inc.](https://www.courtlistener.com/docket/75133284/pinczewski-v-apple-inc/) | Apple |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Apple Inc. v. Shi](https://www.courtlistener.com/docket/71172484/apple-inc-v-shi/) | Apple |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Stanfield v. Apple Inc.](https://www.courtlistener.com/docket/73332621/stanfield-v-apple-inc/) | Apple |  |
 | 2026-11-27 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Texas Ventures Acquisition III Corp (TVA, TVACU, TVACW) S-4/A filed 2026-11-27 contains "Hart-Scott-Rodino" "artificial intelligence"](https://www.sec.gov/Archives/edgar/data/2033991/000119312526478821/0001193125-26-478821-index.htm) |  |  |
 | 2026-11-27 | UK Competition and Markets Authority (GOV.UK) | [CMA: prompt payment data](https://www.gov.uk/government/collections/cma-prompt-payment-data) |  |  |
 | 2026-11-27 | UK Competition and Markets Authority (GOV.UK) | [CMA: prompt payment data, July to September 2026](https://www.gov.uk/government/publications/cma-prompt-payment-data-july-to-september-2026) |  |  |
@@ -204,25 +222,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Marmaduke School District v. Meta Platforms, Inc](https://www.courtlistener.com/docket/75134400/marmaduke-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Delgado v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/67699080/delgado-v-meta-platforms-inc/) | Meta Platforms |  |
 | 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Lower Dauphin School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75157273/lower-dauphin-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: K.L. v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75166471/kl-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Cedar Rapids Community School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156921/cedar-rapids-community-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Palestine-Wheatley School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75136165/palestine-wheatley-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Belle Valley School District No. 119 v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75165544/belle-valley-school-district-no-119-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: O'Neill v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75166845/oneill-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Marion Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75153799/marion-public-schools-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Collision Communications, Inc. v. Apple Inc.](https://www.courtlistener.com/docket/73643726/collision-communications-inc-v-apple-inc/) | Apple |  |
-| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Belair v. Apple Inc.](https://www.courtlistener.com/docket/75071054/belair-v-apple-inc/) | Apple |  |
-| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: LBT IP I LLC v. Apple Inc.](https://www.courtlistener.com/docket/15865411/lbt-ip-i-llc-v-apple-inc/) | Apple |  |
-| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: APPLE INC. SMARTPHONE ANTITRUST LITIGATION](https://www.courtlistener.com/docket/68869775/apple-inc-smartphone-antitrust-litigation/) | Apple |  |
-| 2026-11-24 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: UNITED STATES OF AMERICA v. APPLE INC.](https://www.courtlistener.com/docket/68362334/united-states-of-america-v-apple-inc/) | Apple |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Haugland v. NVIDIA Corporation](https://www.courtlistener.com/docket/73647607/haugland-v-nvidia-corporation/) | NVIDIA |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Komor v. Microsoft Corporation](https://www.courtlistener.com/docket/75146208/komor-v-microsoft-corporation/) | Microsoft |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: STATS LLC v. Microsoft Online, Inc.](https://www.courtlistener.com/docket/73571714/stats-llc-v-microsoft-online-inc/) | Microsoft |  |
-| 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR) | [NVIDIA CORP filed 8-K (Item 5.02: Departure or appointment of directors or officers; Item 9.01)](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm) | NVIDIA |  |
-| 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR) | [Meta Platforms, Inc. filed 8-K (Item 8.01: Other events)](https://www.sec.gov/Archives/edgar/data/1326801/000162828026075541/meta-20261118.htm) | Meta Platforms |  |
-| 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR) | [VISA INC. filed 8-K (Item 5.02: Departure or appointment of directors or officers)](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000143/v-20261118.htm) | Visa |  |
-| 2026-11-23 | U.S. Securities and Exchange Commission (EDGAR full-text search) | [Zscaler, Inc. (ZS) 8-K filed 2026-11-23 contains "Hart-Scott-Rodino" "artificial intelligence"](https://www.sec.gov/Archives/edgar/data/1713683/000119312526471211/0001193125-26-471211-index.htm) |  |  |
 
-_274 older rows omitted here; all are in `ledger/`._
+_292 older rows omitted here; all are in `ledger/`._
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.

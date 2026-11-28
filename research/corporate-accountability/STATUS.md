@@ -2,20 +2,20 @@
 
 # Collector status
 
-Last run: 2026-11-27T16:42:25+00:00 UTC · 2026-11-27T18:42:25+02:00 (Asia/Jerusalem) · trigger `schedule` · 15 new records · ledger total 1092.
+Last run: 2026-11-28T01:28:18+00:00 UTC · 2026-11-28T03:28:18+02:00 (Asia/Jerusalem) · trigger `schedule` · 19 new records · ledger total 1111.
 
 | Source | Last result | New this run | Consecutive failures | Last success (UTC) | Error |
 |---|---|---|---|---|---|
-| cfpb-complaints | ok | 0 | 0 | 2026-11-27T16:42:25+00:00 |  |
-| company-sitemaps | ok | 0 | 0 | 2026-11-27T16:42:25+00:00 |  |
-| courtlistener-recap | ok | 6 | 0 | 2026-11-27T16:42:25+00:00 |  |
-| doj-press | ok | 0 | 0 | 2026-11-27T16:42:25+00:00 |  |
-| federal-register | ok | 0 | 0 | 2026-11-27T16:42:25+00:00 |  |
-| lda-lobbying | ok | 0 | 0 | 2026-11-27T16:42:25+00:00 |  |
-| rss-feeds | ok | 2 | 0 | 2026-11-27T16:42:25+00:00 |  |
-| sec-edgar-filings | ok | 0 | 0 | 2026-11-27T16:42:25+00:00 |  |
-| sec-edgar-fulltext | ok | 2 | 0 | 2026-11-27T16:42:25+00:00 |  |
-| uk-cma | ok | 5 | 0 | 2026-11-27T16:42:25+00:00 |  |
-| usaspending-awards | ok | 0 | 0 | 2026-11-27T16:42:25+00:00 |  |
+| cfpb-complaints | ok | 0 | 0 | 2026-11-28T01:28:18+00:00 |  |
+| company-sitemaps | ok | 0 | 0 | 2026-11-28T01:28:18+00:00 |  |
+| courtlistener-recap | ok | 18 | 0 | 2026-11-28T01:28:18+00:00 |  |
+| doj-press | ok | 0 | 0 | 2026-11-28T01:28:18+00:00 |  |
+| federal-register | ok | 0 | 0 | 2026-11-28T01:28:18+00:00 |  |
+| lda-lobbying | ok | 0 | 0 | 2026-11-28T01:28:18+00:00 |  |
+| rss-feeds | ok | 0 | 0 | 2026-11-28T01:28:18+00:00 |  |
+| sec-edgar-filings | ok | 1 | 0 | 2026-11-28T01:28:18+00:00 |  |
+| sec-edgar-fulltext | ok | 0 | 0 | 2026-11-28T01:28:18+00:00 |  |
+| uk-cma | ok | 0 | 0 | 2026-11-28T01:28:18+00:00 |  |
+| usaspending-awards | ok | 0 | 0 | 2026-11-28T01:28:18+00:00 |  |
 
 A source failing three runs in a row is flagged in the run log and should be repaired or replaced.

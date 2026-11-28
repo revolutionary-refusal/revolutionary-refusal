@@ -14,14 +14,32 @@
 
 Microsoft, Alphabet / Google, Amazon / AWS, Meta Platforms, Oracle, CoreWeave, Nebius Group, Apple, IBM, Salesforce, Snowflake, Palantir Technologies, Equinix, Digital Realty, Equifax, TransUnion, Experian
 
-## Records first seen in the last 30 days (286)
+## Records first seen in the last 30 days (304)
 
-By kind: court-record 226, regulatory-filing 28, government-award 18, regulator-statement 7, company-statement 2, oversight-report 2, lobbying-disclosure 2, complaint-database 1
+By kind: court-record 244, regulatory-filing 28, government-award 18, regulator-statement 7, company-statement 2, oversight-report 2, lobbying-disclosure 2, complaint-database 1
 
 Each row is a document that exists at the link, not a finding. `signal` is a headline heuristic, shown only to help triage.
 
 | Published | Source | Document | Entities | Signal |
 |---|---|---|---|---|
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: ZapFraud Inc. v. Google LLC](https://www.courtlistener.com/docket/73643932/zapfraud-inc-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Wildseed Mobile LLC v. Google LLC](https://www.courtlistener.com/docket/64932344/wildseed-mobile-llc-v-google-llc/) | Alphabet / Google |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Palomino v. Amazon.com Services LLC](https://www.courtlistener.com/docket/75181411/palomino-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Martinez v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/68319146/martinez-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Thomas v. Amazon.com Services LLC](https://www.courtlistener.com/docket/73699477/thomas-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Spinosa v. Amazon.com Services Inc.](https://www.courtlistener.com/docket/74921464/spinosa-v-amazoncom-services-inc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: St Justin v. Amazon.com Services LLC](https://www.courtlistener.com/docket/73525629/st-justin-v-amazoncom-services-llc/) | Amazon / AWS |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Board of Education of the County of McDowell v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75157247/board-of-education-of-the-county-of-mcdowell-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Ridgewood Local School District v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179680/ridgewood-local-school-district-v-meta-platforms-inc-formerly-known-as/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Westchester Public Schools District 92 1/2 v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179359/westchester-public-schools-district-92-12-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: ummit Academy Community School for Alternative Learners of Middletown v. Meta Platforms, Inc., fka Facebook, Inc.](https://www.courtlistener.com/docket/75179770/ummit-academy-community-school-for-alternative-learners-of-middletown-v/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Dermott Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75176026/dermott-public-schools-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Scituate Public Schools v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75179216/scituate-public-schools-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Marshall v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75167309/marshall-v-meta-platforms-inc/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Ellwood Christian Academy v. Meta Platforms, Inc., formerly known as Facebook, Inc.](https://www.courtlistener.com/docket/75179693/ellwood-christian-academy-v-meta-platforms-inc-formerly-known-as/) | Meta Platforms |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Pinczewski v. Apple Inc.](https://www.courtlistener.com/docket/75133284/pinczewski-v-apple-inc/) | Apple |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Apple Inc. v. Shi](https://www.courtlistener.com/docket/71172484/apple-inc-v-shi/) | Apple |  |
+| 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Stanfield v. Apple Inc.](https://www.courtlistener.com/docket/73332621/stanfield-v-apple-inc/) | Apple |  |
 | 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Gendron v. Google LLC](https://www.courtlistener.com/docket/72533900/gendron-v-google-llc/) | Alphabet / Google |  |
 | 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Alan Dale Dickinson v. Amazon.com, Inc.](https://www.courtlistener.com/docket/74907514/alan-dale-dickinson-v-amazoncom-inc/) | Amazon / AWS |  |
 | 2026-11-27 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: MAZIE v. META PLATFORMS, INC.](https://www.courtlistener.com/docket/73420534/mazie-v-meta-platforms-inc/) | Meta Platforms |  |
@@ -204,25 +222,7 @@ Each row is a document that exists at the link, not a finding. `signal` is a hea
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Szymborski v. Amazon.com NV Investment Holdings, LLC](https://www.courtlistener.com/docket/72365314/szymborski-v-amazoncom-nv-investment-holdings-llc/) | Amazon / AWS |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Lorenzo v. Amazon.com Services LLC](https://www.courtlistener.com/docket/75129310/lorenzo-v-amazoncom-services-llc/) | Amazon / AWS |  |
 | 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Ice v. Amazon.com Services LLC](https://www.courtlistener.com/docket/74645007/ice-v-amazoncom-services-llc/) | Amazon / AWS |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Williams v. Amazon.com Services LLC](https://www.courtlistener.com/docket/75109578/williams-v-amazoncom-services-llc/) | Amazon / AWS |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Boateng v. Amazon.com. Inc.](https://www.courtlistener.com/docket/70702147/boateng-v-amazoncom-inc/) | Amazon / AWS |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Penney v. Amazon.com Services, LLC](https://www.courtlistener.com/docket/74940393/penney-v-amazoncom-services-llc/) | Amazon / AWS |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Blade v. Amazon.com Services LLC](https://www.courtlistener.com/docket/73523049/blade-v-amazoncom-services-llc/) | Amazon / AWS |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Redd-Matthews v. Amazon.com Services LLC](https://www.courtlistener.com/docket/75020060/redd-matthews-v-amazoncom-services-llc/) | Amazon / AWS |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: McKinnon v. Amazon Web Services, Inc.](https://www.courtlistener.com/docket/73431444/mckinnon-v-amazon-web-services-inc/) | Amazon / AWS |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Barry W. Rosen v. Amazon.com, Inc.](https://www.courtlistener.com/docket/73223600/barry-w-rosen-v-amazoncom-inc/) | Amazon / AWS |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Vilonia School District v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75158100/vilonia-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: E.J.F., individually and as natural guardian of T.R.F., a minor v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75159374/ejf-individually-and-as-natural-guardian-of-trf-a-minor-v-meta/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Armorel School District v. Meta Platforms Inc.](https://www.courtlistener.com/docket/75127328/armorel-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Chouhan v. Meta Platforms, Inc., fka Facebook, Inc.](https://www.courtlistener.com/docket/75147723/chouhan-v-meta-platforms-inc-fka-facebook-inc/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Howard Gardner Multiple Intelligence Charter School v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75157157/howard-gardner-multiple-intelligence-charter-school-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Board of Trustees of Hoboken Charter School v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156993/board-of-trustees-of-hoboken-charter-school-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Board of Education of the Town of Hackettstown, Warren County v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156987/board-of-education-of-the-town-of-hackettstown-warren-county-v-meta/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Corning School District v. Meta Platforms, Inc](https://www.courtlistener.com/docket/75134329/corning-school-district-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Prider v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75153241/prider-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Starzinski v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/68980064/starzinski-v-meta-platforms-inc/) | Meta Platforms |  |
-| 2026-11-23 | CourtListener / RECAP (Free Law Project), U.S. federal court dockets | [Federal case: Board of Education of the Borough of Glen Ridge, County of Essex v. Meta Platforms, Inc.](https://www.courtlistener.com/docket/75156577/board-of-education-of-the-borough-of-glen-ridge-county-of-essex-v-meta/) | Meta Platforms |  |
 
-_86 older rows omitted here; all are in `ledger/`._
+_104 older rows omitted here; all are in `ledger/`._
 
 See [FINDINGS.md](../../FINDINGS.md) for reviewed conclusions in this division.
